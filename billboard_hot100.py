@@ -57,14 +57,15 @@ for day in chart_dates:
 
     chart_items = [re.sub('&amp;', '&', item) for item in chart_items]
 
-    shared_rank = [i for i, j in enumerate(chart_items) if
-                   chart_items[i].split('\n')[1].strip() != str(chart_items.index(j) + 1)]
+    chart_items = [re.sub('\n\d+\nPREVIOUS WEEK|\n\d+\n PREVIOUS WEEK|\nPREVIOUS WEEK', '',
+                          item) for item in chart_items]  # Fix PREVIOUS WEEK and LAST WEEK
 
-    if len(shared_rank) > 0:
-        for double in shared_rank:
-            chart_items[double] = re.sub(chart_items[double].split('\n')[1],
-                                         str(int(chart_items[double].split('\n')[1]) + 1),
-                                         chart_items[double])
+    shared_rank = [chart_items[i] for i in range(len(chart_items)-1) if
+                   chart_items[i].split('\n')[1].strip() == chart_items[i+1].split('\n')[1].strip() or
+                   chart_items[i].split('\n')[1].strip() == chart_items[i-1].split('\n')[1].strip()]
+
+    if shared_rank:
+        print('Duplicates found at rank', [i.split('\n')[1] for i in shared_rank], 'for week', day[-10:])
 
     for item in chart_items:
         item_index = chart_items.index(item)
