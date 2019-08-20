@@ -432,8 +432,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 31,1961-01-30,Pony Time,Chubby Checker,49.0,31.0,2.0,Chubby Checker
 32,1961-01-30,Wonderland By Night,Anita Bryant,27.0,18.0,9.0,Anita Bryant
 33,1961-01-30,All In My Mind,Maxine Brown,47.0,33.0,5.0,Maxine Brown
-34,1961-01-30,Baby Sittin' Boogie,Buzz Clifford,55.0,34.0,4.0,Buzz Clifford
-35,1961-01-30,Spanish Harlem,Ben E. King,45.0,35.0,5.0,Ben E. King
+34,1961-01-30,Spanish Harlem,Ben E. King,45.0,34.0,5.0,Ben E. King
+35,1961-01-30,Baby Sittin' Boogie,Buzz Clifford,55.0,34.0,4.0,Buzz Clifford
 36,1961-01-30,Lovey Dovey,Buddy Knox,25.0,25.0,7.0,Buddy Knox
 37,1961-01-30,Main Theme from Exodus (Ari's Theme),Mantovani & His Orch.,31.0,31.0,11.0,Mantovani Featuring His Orch.
 38,1961-01-30,You Are The Only One,Ricky Nelson,33.0,25.0,6.0,Ricky Nelson
@@ -1318,16 +1318,16 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 17,1961-04-03,Ebony Eyes,The Everly Brothers,13.0,8.0,10.0,The Everly Brothers
 18,1961-04-03,Take Good Care Of Her,Adam Wade,24.0,18.0,4.0,Adam Wade
 19,1961-04-03,Baby Blue,The Echoes,27.0,19.0,5.0,The Echoes
-20,1961-04-03,You Can Depend On Me,Brenda Lee,62.0,20.0,2.0,Brenda Lee
-21,1961-04-03,Model Girl,Johnny Maestro,21.0,21.0,9.0,Johnny Maestro
-22,1961-04-03,One Mint Julep,Ray Charles,32.0,22.0,5.0,Ray Charles
-23,1961-04-03,"Tonight My Love, Tonight",Paul Anka,34.0,23.0,4.0,Paul Anka
-24,1961-04-03,Mother-In-Law,Ernie K-Doe,55.0,24.0,2.0,Ernie K-Doe
-25,1961-04-03,Spanish Harlem,Ben E. King,16.0,10.0,14.0,Ben E. King
-26,1961-04-03,I've Told Every Little Star,Linda Scott,46.0,26.0,4.0,Linda Scott
-27,1961-04-03,A Hundred Pounds Of Clay,Gene McDaniels,71.0,27.0,3.0,Gene McDaniels
-28,1961-04-03,Please Tell Me Why,Jackie Wilson,33.0,28.0,4.0,Jackie Wilson
-29,1961-04-03,Lazy River,Bobby Darin,14.0,14.0,9.0,Bobby Darin
+20,1961-04-03,Model Girl,Johnny Maestro,20.0,20.0,9.0,Johnny Maestro
+21,1961-04-03,One Mint Julep,Ray Charles,32.0,21.0,5.0,Ray Charles
+22,1961-04-03,"Tonight My Love, Tonight",Paul Anka,34.0,22.0,4.0,Paul Anka
+23,1961-04-03,Mother-In-Law,Ernie K-Doe,55.0,23.0,2.0,Ernie K-Doe
+24,1961-04-03,Spanish Harlem,Ben E. King,16.0,10.0,14.0,Ben E. King
+25,1961-04-03,I've Told Every Little Star,Linda Scott,46.0,25.0,4.0,Linda Scott
+26,1961-04-03,A Hundred Pounds Of Clay,Gene McDaniels,71.0,26.0,3.0,Gene McDaniels
+27,1961-04-03,Please Tell Me Why,Jackie Wilson,33.0,27.0,4.0,Jackie Wilson
+28,1961-04-03,Lazy River,Bobby Darin,14.0,14.0,9.0,Bobby Darin
+29,1961-04-03,You Can Depend On Me,Brenda Lee,62.0,19.0,2.0,Brenda Lee
 30,1961-04-03,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,35.0,30.0,9.0,Rochell And The Candles Featuring Johnny Wyatt
 31,1961-04-03,That's It - I Quit - I'm Movin' On,Sam Cooke,31.0,31.0,5.0,Sam Cooke
 32,1961-04-03,Fell In Love On Monday,Fats Domino,41.0,32.0,3.0,Fats Domino
@@ -1417,15 +1417,17 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 16,1961-04-10,One Mint Julep,Ray Charles,21.0,16.0,6.0,Ray Charles
 17,1961-04-10,Gee Whiz (Look At His Eyes),Carla Thomas,14.0,10.0,11.0,Carla Thomas
 18,1961-04-10,Baby Blue,The Echoes,19.0,18.0,6.0,The Echoes
-21,1961-04-10,A Hundred Pounds Of Clay,Gene McDaniels,26.0,21.0,4.0,Gene McDaniels
-22,1961-04-10,Wheels,The String-A-Longs,12.0,3.0,14.0,The String-A-Longs
-23,1961-04-10,Please Tell Me Why,Jackie Wilson,27.0,23.0,5.0,Jackie Wilson
-24,1961-04-10,I've Told Every Little Star,Linda Scott,25.0,24.0,5.0,Linda Scott
-25,1961-04-10,Portrait Of My Love,Steve Lawrence,37.0,25.0,6.0,Steve Lawrence
-26,1961-04-10,Where The Boys Are,Connie Francis,15.0,4.0,13.0,Connie Francis
-27,1961-04-10,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,30.0,27.0,10.0,Rochell And The Candles Featuring Johnny Wyatt
-28,1961-04-10,Model Girl,Johnny Maestro,20.0,20.0,10.0,Johnny Maestro
-29,1961-04-10,You Can Depend On Me,Brenda Lee,19.0,19.0,3.0,Brenda Lee
+19,1961-04-10,You Can Depend On Me,Brenda Lee,19.0,19.0,3.0,Brenda Lee
+20,1961-04-10,A Hundred Pounds Of Clay,Gene McDaniels,26.0,20.0,4.0,Gene McDaniels
+21,1961-04-10,Wheels,The String-A-Longs,12.0,3.0,14.0,The String-A-Longs
+22,1961-04-10,Please Tell Me Why,Jackie Wilson,27.0,22.0,5.0,Jackie Wilson
+23,1961-04-10,I've Told Every Little Star,Linda Scott,25.0,23.0,5.0,Linda Scott
+24,1961-04-10,Portrait Of My Love,Steve Lawrence,37.0,24.0,6.0,Steve Lawrence
+25,1961-04-10,Where The Boys Are,Connie Francis,15.0,4.0,13.0,Connie Francis
+26,1961-04-10,Once Upon A Time,Rochell And The Candles With Johnny Wyatt,30.0,26.0,10.0,Rochell And The Candles Featuring Johnny Wyatt
+27,1961-04-10,Model Girl,Johnny Maestro,20.0,20.0,10.0,Johnny Maestro
+28,1961-04-10,"Tonight My Love, Tonight",Paul Anka,22.0,22.0,5.0,Paul Anka
+29,1961-04-10,Hide Away,Freddy King,35.0,29.0,6.0,Freddy King
 30,1961-04-10,Find Another Girl,Jerry Butler,34.0,30.0,6.0,Jerry Butler
 31,1961-04-10,Ebony Eyes,The Everly Brothers,17.0,8.0,11.0,The Everly Brothers
 32,1961-04-10,Trust In Me,Etta James,38.0,32.0,5.0,Etta James
@@ -3355,17 +3357,17 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 56,1961-08-21,It's Gonna Work Out Fine,Ike & Tina Turner,64.0,56.0,4.0,Ike Featuring Tina Turner
 57,1961-08-21,Lover's Island,The Blue Jays,73.0,57.0,2.0,The Blue Jays
 58,1961-08-21,Water Boy,Don Shirley Trio,66.0,58.0,6.0,Don Shirley Trio
-59,1961-08-21,Mexico,Bob Moore and His Orch.,91.0,59.0,2.0,Bob Moore and His Orch.
-60,1961-08-21,Missing You,Ray Peterson,63.0,60.0,4.0,Ray Peterson
-61,1961-08-21,Candy Man,Roy Orbison,69.0,61.0,3.0,Roy Orbison
-62,1961-08-21,Little Sister,Elvis Presley,,,,Elvis Presley
-63,1961-08-21,I Never Knew,Clyde McPhatter,56.0,56.0,5.0,Clyde McPhatter
-64,1961-08-21,The Charleston,Ernie Fields,47.0,47.0,10.0,Ernie Fields
-65,1961-08-21,Tears On My Pillow,The McGuire Sisters,59.0,59.0,5.0,The McGuire Sisters
-66,1961-08-21,Time Was,The Flamingos,45.0,45.0,8.0,The Flamingos
-67,1961-08-21,Teardrops In My Heart,Joe Barry,77.0,67.0,4.0,Joe Barry
-68,1961-08-21,Now And Forever,Bert Kaempfert And His Orchestra,81.0,68.0,4.0,Bert Kaempfert And His Orchestra
-69,1961-08-21,San-Ho-Zay,Freddy King,84.0,69.0,3.0,Freddy King
+59,1961-08-21,Missing You,Ray Peterson,63.0,59.0,4.0,Ray Peterson
+60,1961-08-21,Candy Man,Roy Orbison,69.0,60.0,3.0,Roy Orbison
+61,1961-08-21,Little Sister,Elvis Presley,,,,Elvis Presley
+62,1961-08-21,I Never Knew,Clyde McPhatter,56.0,56.0,5.0,Clyde McPhatter
+63,1961-08-21,The Charleston,Ernie Fields,47.0,47.0,10.0,Ernie Fields
+64,1961-08-21,Tears On My Pillow,The McGuire Sisters,59.0,59.0,5.0,The McGuire Sisters
+65,1961-08-21,Time Was,The Flamingos,45.0,45.0,8.0,The Flamingos
+66,1961-08-21,Teardrops In My Heart,Joe Barry,77.0,66.0,4.0,Joe Barry
+67,1961-08-21,Now And Forever,Bert Kaempfert And His Orchestra,81.0,67.0,4.0,Bert Kaempfert And His Orchestra
+68,1961-08-21,San-Ho-Zay,Freddy King,84.0,68.0,3.0,Freddy King
+69,1961-08-21,Mexico,Bob Moore and His Orch.,91.0,63.0,2.0,Bob Moore and His Orch.
 70,1961-08-21,Lonely Street,Clarence Henry,72.0,70.0,3.0,Clarence Henry
 71,1961-08-21,Magic Moon (Clair De Lune),The Rays,88.0,71.0,2.0,The Rays
 72,1961-08-21,Back Beat No. 1,The Rondels,83.0,72.0,2.0,The Rondels
@@ -3455,14 +3457,16 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 56,1961-08-28,Missing You,Ray Peterson,59.0,56.0,5.0,Ray Peterson
 57,1961-08-28,Bless You,Tony Orlando,73.0,57.0,3.0,Tony Orlando
 58,1961-08-28,Now And Forever,Bert Kaempfert And His Orchestra,67.0,58.0,5.0,Bert Kaempfert And His Orchestra
-61,1961-08-28,Kissin' On The Phone,Paul Anka,,,,Paul Anka
-62,1961-08-28,Magic Moon (Clair De Lune),The Rays,71.0,62.0,3.0,The Rays
-63,1961-08-28,Candy Man,Roy Orbison,60.0,60.0,4.0,Roy Orbison
-64,1961-08-28,Teardrops In My Heart,Joe Barry,66.0,64.0,5.0,Joe Barry
-65,1961-08-28,Lonely Street,Clarence Henry,70.0,65.0,4.0,Clarence Henry
-66,1961-08-28,"Baby, You're Right",James Brown And The Famous Flames,94.0,66.0,2.0,James Brown And The Famous Flames
-67,1961-08-28,(Marie's The Name) His Latest Flame,Elvis Presley,,,,Elvis Presley
-68,1961-08-28,Every Breath I Take,Gene Pitney,82.0,68.0,4.0,Gene Pitney
+59,1961-08-28,Mexico,Bob Moore and His Orch.,69.0,59.0,3.0,Bob Moore and His Orch.
+60,1961-08-28,Kissin' On The Phone,Paul Anka,,,,Paul Anka
+61,1961-08-28,Magic Moon (Clair De Lune),The Rays,71.0,61.0,3.0,The Rays
+62,1961-08-28,Candy Man,Roy Orbison,60.0,60.0,4.0,Roy Orbison
+63,1961-08-28,Teardrops In My Heart,Joe Barry,66.0,63.0,5.0,Joe Barry
+64,1961-08-28,Lonely Street,Clarence Henry,70.0,64.0,4.0,Clarence Henry
+65,1961-08-28,"Baby, You're Right",James Brown And The Famous Flames,94.0,65.0,2.0,James Brown And The Famous Flames
+66,1961-08-28,(Marie's The Name) His Latest Flame,Elvis Presley,,,,Elvis Presley
+67,1961-08-28,Every Breath I Take,Gene Pitney,82.0,67.0,4.0,Gene Pitney
+68,1961-08-28,Roll Over Beethoven,The Velaires,81.0,68.0,3.0,The Velaires
 69,1961-08-28,One Track Mind,Bobby Lewis,,,,Bobby Lewis
 70,1961-08-28,Back Beat No. 1,The Rondels,72.0,70.0,3.0,The Rondels
 71,1961-08-28,Don't Cry No More,Bobby Bland,79.0,71.0,4.0,Bobby Bland
@@ -5164,8 +5168,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 67,1961-12-25,Up A Lazy River,Si Zentner And His Orchestra,,43.0,6.0,Si Zentner And His Orchestra
 68,1961-12-25,Maria,Roger Williams,77.0,68.0,3.0,Roger Williams
 69,1961-12-25,Flying Circle,Frank Slay And His Orchestra,78.0,69.0,3.0,Frank Slay And His Orchestra
-70,1961-12-25,Letter Full Of Tears,Gladys Knight And The Pips,80.0,70.0,3.0,Gladys Knight And The Pips
-71,1961-12-25,It's All Because,Linda Scott,50.0,50.0,7.0,Linda Scott
+70,1961-12-25,It's All Because,Linda Scott,50.0,50.0,7.0,Linda Scott
+71,1961-12-25,Letter Full Of Tears,Gladys Knight And The Pips,80.0,71.0,3.0,Gladys Knight And The Pips
 72,1961-12-25,Room Full Of Tears,The Drifters,83.0,72.0,2.0,The Drifters
 73,1961-12-25,Dreamy Eyes,Johnny Tillotson,85.0,63.0,13.0,Johnny Tillotson
 74,1961-12-25,Walkin' With My Angel,Bobby Vee,79.0,74.0,5.0,Bobby Vee

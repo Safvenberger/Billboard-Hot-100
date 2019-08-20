@@ -15,89 +15,90 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 14,1977-01-08,Love Me,Yvonne Elliman,14.0,14.0,15.0,Yvonne Elliman
 15,1977-01-08,More Than A Feeling,Boston,5.0,5.0,17.0,Boston
 16,1977-01-08,New Kid In Town,Eagles,20.0,16.0,4.0,Eagles
-19,1977-01-08,Lost Without Your Love,Bread,22.0,19.0,7.0,Bread
-20,1977-01-08,Enjoy Yourself,The Jacksons,21.0,20.0,9.0,The Jacksons
-21,1977-01-08,Walk This Way,Aerosmith,28.0,21.0,8.0,Aerosmith
-22,1977-01-08,Muskrat Love,Captain & Tennille,16.0,4.0,16.0,Captain & Tennille
-23,1977-01-08,Jeans On,David Dundas,24.0,23.0,14.0,David Dundas
-24,1977-01-08,Shake Your Rump To The Funk,The Bar-Kays,25.0,24.0,13.0,The Bar-Kays
-25,1977-01-08,Saturday Nite,"Earth, Wind & Fire",26.0,25.0,8.0,"Earth, Wind & Fire"
-26,1977-01-08,This Song,George Harrison,27.0,26.0,8.0,George Harrison
-27,1977-01-08,I Like Dreamin',Kenny Nolan,30.0,27.0,10.0,Kenny Nolan
-28,1977-01-08,Torn Between Two Lovers,Mary Macgregor,29.0,28.0,8.0,Mary Macgregor
-29,1977-01-08,Blinded By The Light,Manfred Mann's Earth Band,32.0,29.0,8.0,Manfred Mann's Earth Band
-30,1977-01-08,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",17.0,8.0,20.0,"Barry DeVorzon and Perry Botkin, Jr."
-31,1977-01-08,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,33.0,31.0,10.0,Dr. Buzzard's Original Savannah Band
-32,1977-01-08,Love So Right,Bee Gees,32.0,3.0,17.0,Bee Gees
-33,1977-01-08,Weekend In New England,Barry Manilow,35.0,33.0,7.0,Barry Manilow
-34,1977-01-08,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,37.0,34.0,7.0,Donny Featuring Marie Osmond
-35,1977-01-08,Nights Are Forever Without You,England Dan & John Ford Coley,18.0,10.0,14.0,England Dan Featuring John Ford Coley
-36,1977-01-08,Fly Like An Eagle,Steve Miller,52.0,36.0,4.0,Steve Miller
-37,1977-01-08,Drivin' Wheel,Foghat,40.0,37.0,7.0,Foghat
-38,1977-01-08,Keep Me Cryin',Al Green,38.0,38.0,12.0,Al Green
-39,1977-01-08,Free Bird,Lynyrd Skynyrd,43.0,19.0,18.0,Lynyrd Skynyrd
-40,1977-01-08,"Do What You Want, Be What You Are",Daryl Hall John Oates,40.0,40.0,11.0,Daryl Hall John Oates
-41,1977-01-08,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,51.0,41.0,5.0,Barbra Streisand
-42,1977-01-08,Hard Luck Woman,KISS,62.0,42.0,4.0,KISS
-43,1977-01-08,What Can I Say,Boz Scaggs,43.0,43.0,8.0,Boz Scaggs
-44,1977-01-08,I Like To Do It,KC And The Sunshine Band,47.0,44.0,6.0,KC And The Sunshine Band
-45,1977-01-08,Someone To Lay Down Beside Me,Linda Ronstadt,46.0,45.0,6.0,Linda Ronstadt
-46,1977-01-08,It Keeps You Runnin',The Doobie Brothers,49.0,46.0,9.0,The Doobie Brothers
-47,1977-01-08,You Are The Woman,Firefall,23.0,9.0,21.0,Firefall
-48,1977-01-08,Living Next Door To Alice,Smokie,53.0,48.0,6.0,Smokie
-49,1977-01-08,Do It To My Mind,Johnny Bristol,50.0,49.0,7.0,Johnny Bristol
-50,1977-01-08,Night Moves,Bob Seger,59.0,50.0,5.0,Bob Seger
-51,1977-01-08,You've Got Me Runnin',Gene Cotton,60.0,51.0,6.0,Gene Cotton
-52,1977-01-08,Mademoiselle,Styx,36.0,36.0,9.0,Styx
-53,1977-01-08,"9,999,999 Tears",Dickey Lee,54.0,53.0,8.0,Dickey Lee
-54,1977-01-08,Love Ballad,L.T.D.,34.0,20.0,15.0,L.T.D.
-55,1977-01-08,Yesterday's Hero,Bay City Rollers,56.0,55.0,5.0,Bay City Rollers
-56,1977-01-08,Save It For A Rainy Day,Stephen Bishop,67.0,56.0,5.0,Stephen Bishop
-57,1977-01-08,Dancing Queen,ABBA,66.0,57.0,5.0,ABBA
-58,1977-01-08,Beth/Detroit Rock City,KISS,41.0,7.0,19.0,KISS
-59,1977-01-08,Flight '76,The Walter Murphy Band,44.0,44.0,9.0,The Walter Murphy Band
-60,1977-01-08,Moody Blue/she Thinks I Still Care,Elvis Presley,82.0,60.0,3.0,Elvis Presley
-61,1977-01-08,Spring Affair/Winter Melody,Donna Summer,70.0,61.0,4.0,Donna Summer
-62,1977-01-08,Slow Dancing,Funky Kings,63.0,62.0,10.0,Funky Kings
-63,1977-01-08,Dreamboat Annie,Heart,72.0,63.0,4.0,Heart
-64,1977-01-08,"Man Smart, Woman Smarter",Robert Palmer,65.0,64.0,6.0,Robert Palmer
-65,1977-01-08,Year Of The Cat,Al Stewart,84.0,65.0,5.0,Al Stewart
-66,1977-01-08,Don't Leave Me This Way,Thelma Houston,75.0,66.0,4.0,Thelma Houston
-67,1977-01-08,Happier,Paul Anka,76.0,67.0,4.0,Paul Anka
-68,1977-01-08,Open Sesame - Part 1,Kool & The Gang,77.0,68.0,10.0,Kool Featuring The Gang
-69,1977-01-08,Don't Take Away The Music,Tavares,58.0,34.0,11.0,Tavares
-70,1977-01-08,"Baby, You Look Good To Me Tonight",John Denver,79.0,70.0,3.0,John Denver
-71,1977-01-08,Do You Feel Like We Do,Peter Frampton,69.0,10.0,17.0,Peter Frampton
-72,1977-01-08,Go Your Own Way,Fleetwood Mac,,,,Fleetwood Mac
-73,1977-01-08,Free,Deniece Williams,74.0,73.0,5.0,Deniece Williams
-74,1977-01-08,Lucky Man,Starbuck,74.0,74.0,4.0,Starbuck
-75,1977-01-08,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,48.0,1.0,22.0,Rick Dees Featuring His Cast Of Idiots
-76,1977-01-08,Baby Boy,Mary Kay Place As Loretta Haggers,61.0,60.0,11.0,Mary Kay Place As Loretta Haggers
-77,1977-01-08,Carry On Wayward Son,Kansas,87.0,77.0,3.0,Kansas
-78,1977-01-08,When Love Is New,Arthur Prysock,88.0,78.0,3.0,Arthur Prysock
-79,1977-01-08,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,68.0,2.0,20.0,Gordon Lightfoot
-80,1977-01-08,In The Mood,Henhouse Five Plus Too,,,,Henhouse Five Plus Too
-81,1977-01-08,Ha Cha Cha (funktion),Brass Construction,90.0,81.0,3.0,Brass Construction
-82,1977-01-08,C.b. Savage,Rod Hart,89.0,82.0,3.0,Rod Hart
-83,1977-01-08,Caledonia,Robin Trower,83.0,83.0,6.0,Robin Trower
-84,1977-01-08,Be My Girl,The Dramatics,,,,The Dramatics
-85,1977-01-08,Hello Old Friend,Eric Clapton,45.0,24.0,13.0,Eric Clapton
-86,1977-01-08,Fancy Dancer,Commodores,,,,Commodores
-87,1977-01-08,The Things We Do For Love,10cc,,,,10cc
-88,1977-01-08,Hail! Hail! Rock And Roll!,Starland Vocal Band,,,,Starland Vocal Band
-89,1977-01-08,Prisoner (Captured By Your Eyes),L.A. Jets,93.0,89.0,3.0,L.A. Jets
-90,1977-01-08,White Bird,David Laflamme,91.0,90.0,5.0,David Laflamme
-91,1977-01-08,Say You'll Stay Until Tomorrow,Tom Jones,,,,Tom Jones
-92,1977-01-08,I Can't Ask For Anymore Than You,Cliff Richard,80.0,80.0,4.0,Cliff Richard
-93,1977-01-08,Love Bug,Bumble Bee Unlimited,94.0,93.0,5.0,Bumble Bee Unlimited
-94,1977-01-08,Feelings,Walter Jackson,95.0,94.0,3.0,Walter Jackson
-95,1977-01-08,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97.0,95.0,3.0,Elvin Bishop Featuring Mickey Thomas
-96,1977-01-08,(She's Just A) Fallen Angel,Starz,98.0,96.0,3.0,Starz
-97,1977-01-08,Hey Baby,J.J. Cale,97.0,97.0,3.0,J.J. Cale
-98,1977-01-08,If Not You,Dr. Hook,55.0,55.0,7.0,Dr. Hook
-99,1977-01-08,Fly By Night/In The Mood,Rush,,,,Rush
-100,1977-01-08,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,,,,Wilton Place Street Band
-101,1977-01-08,The Best Disco In Town,The Ritchie Family,101.0,17.0,20.0,The Ritchie Family
+17,1977-01-08,Somebody To Love,Queen,19.0,17.0,6.0,Queen
+18,1977-01-08,Lost Without Your Love,Bread,22.0,18.0,7.0,Bread
+19,1977-01-08,Enjoy Yourself,The Jacksons,21.0,19.0,9.0,The Jacksons
+20,1977-01-08,Walk This Way,Aerosmith,28.0,20.0,8.0,Aerosmith
+21,1977-01-08,Muskrat Love,Captain & Tennille,16.0,4.0,16.0,Captain & Tennille
+22,1977-01-08,Jeans On,David Dundas,24.0,22.0,14.0,David Dundas
+23,1977-01-08,Shake Your Rump To The Funk,The Bar-Kays,25.0,23.0,13.0,The Bar-Kays
+24,1977-01-08,Saturday Nite,"Earth, Wind & Fire",26.0,24.0,8.0,"Earth, Wind & Fire"
+25,1977-01-08,This Song,George Harrison,27.0,25.0,8.0,George Harrison
+26,1977-01-08,I Like Dreamin',Kenny Nolan,30.0,26.0,10.0,Kenny Nolan
+27,1977-01-08,Torn Between Two Lovers,Mary Macgregor,29.0,27.0,8.0,Mary Macgregor
+28,1977-01-08,Blinded By The Light,Manfred Mann's Earth Band,32.0,28.0,8.0,Manfred Mann's Earth Band
+29,1977-01-08,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",17.0,8.0,20.0,"Barry DeVorzon and Perry Botkin, Jr."
+30,1977-01-08,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,33.0,30.0,10.0,Dr. Buzzard's Original Savannah Band
+31,1977-01-08,Love So Right,Bee Gees,31.0,3.0,17.0,Bee Gees
+32,1977-01-08,Weekend In New England,Barry Manilow,35.0,32.0,7.0,Barry Manilow
+33,1977-01-08,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,37.0,33.0,7.0,Donny Featuring Marie Osmond
+34,1977-01-08,Nights Are Forever Without You,England Dan & John Ford Coley,18.0,10.0,14.0,England Dan Featuring John Ford Coley
+35,1977-01-08,Fly Like An Eagle,Steve Miller,52.0,35.0,4.0,Steve Miller
+36,1977-01-08,Drivin' Wheel,Foghat,40.0,36.0,7.0,Foghat
+37,1977-01-08,Keep Me Cryin',Al Green,38.0,37.0,12.0,Al Green
+38,1977-01-08,Free Bird,Lynyrd Skynyrd,43.0,19.0,18.0,Lynyrd Skynyrd
+39,1977-01-08,"Do What You Want, Be What You Are",Daryl Hall John Oates,39.0,39.0,11.0,Daryl Hall John Oates
+40,1977-01-08,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,51.0,40.0,5.0,Barbra Streisand
+41,1977-01-08,Hard Luck Woman,KISS,62.0,41.0,4.0,KISS
+42,1977-01-08,What Can I Say,Boz Scaggs,42.0,42.0,8.0,Boz Scaggs
+43,1977-01-08,I Like To Do It,KC And The Sunshine Band,47.0,43.0,6.0,KC And The Sunshine Band
+44,1977-01-08,Someone To Lay Down Beside Me,Linda Ronstadt,46.0,44.0,6.0,Linda Ronstadt
+45,1977-01-08,It Keeps You Runnin',The Doobie Brothers,49.0,45.0,9.0,The Doobie Brothers
+46,1977-01-08,You Are The Woman,Firefall,23.0,9.0,21.0,Firefall
+47,1977-01-08,Living Next Door To Alice,Smokie,53.0,47.0,6.0,Smokie
+48,1977-01-08,Do It To My Mind,Johnny Bristol,50.0,48.0,7.0,Johnny Bristol
+49,1977-01-08,Night Moves,Bob Seger,59.0,49.0,5.0,Bob Seger
+50,1977-01-08,You've Got Me Runnin',Gene Cotton,60.0,50.0,6.0,Gene Cotton
+51,1977-01-08,Mademoiselle,Styx,36.0,36.0,9.0,Styx
+52,1977-01-08,"9,999,999 Tears",Dickey Lee,54.0,52.0,8.0,Dickey Lee
+53,1977-01-08,Love Ballad,L.T.D.,34.0,20.0,15.0,L.T.D.
+54,1977-01-08,Yesterday's Hero,Bay City Rollers,56.0,54.0,5.0,Bay City Rollers
+55,1977-01-08,Save It For A Rainy Day,Stephen Bishop,67.0,55.0,5.0,Stephen Bishop
+56,1977-01-08,Dancing Queen,ABBA,66.0,56.0,5.0,ABBA
+57,1977-01-08,Beth/Detroit Rock City,KISS,41.0,7.0,19.0,KISS
+58,1977-01-08,Flight '76,The Walter Murphy Band,44.0,44.0,9.0,The Walter Murphy Band
+59,1977-01-08,Moody Blue/she Thinks I Still Care,Elvis Presley,82.0,59.0,3.0,Elvis Presley
+60,1977-01-08,Spring Affair/Winter Melody,Donna Summer,70.0,60.0,4.0,Donna Summer
+61,1977-01-08,Slow Dancing,Funky Kings,63.0,61.0,10.0,Funky Kings
+62,1977-01-08,Dreamboat Annie,Heart,72.0,62.0,4.0,Heart
+63,1977-01-08,"Man Smart, Woman Smarter",Robert Palmer,65.0,63.0,6.0,Robert Palmer
+64,1977-01-08,Year Of The Cat,Al Stewart,84.0,64.0,5.0,Al Stewart
+65,1977-01-08,Don't Leave Me This Way,Thelma Houston,75.0,65.0,4.0,Thelma Houston
+66,1977-01-08,Happier,Paul Anka,76.0,66.0,4.0,Paul Anka
+67,1977-01-08,Open Sesame - Part 1,Kool & The Gang,77.0,67.0,10.0,Kool Featuring The Gang
+68,1977-01-08,Don't Take Away The Music,Tavares,58.0,34.0,11.0,Tavares
+69,1977-01-08,"Baby, You Look Good To Me Tonight",John Denver,79.0,69.0,3.0,John Denver
+70,1977-01-08,Do You Feel Like We Do,Peter Frampton,69.0,10.0,17.0,Peter Frampton
+71,1977-01-08,Go Your Own Way,Fleetwood Mac,,,,Fleetwood Mac
+72,1977-01-08,Free,Deniece Williams,74.0,72.0,5.0,Deniece Williams
+73,1977-01-08,Lucky Man,Starbuck,73.0,73.0,4.0,Starbuck
+74,1977-01-08,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,48.0,1.0,22.0,Rick Dees Featuring His Cast Of Idiots
+75,1977-01-08,Baby Boy,Mary Kay Place As Loretta Haggers,61.0,60.0,11.0,Mary Kay Place As Loretta Haggers
+76,1977-01-08,Carry On Wayward Son,Kansas,87.0,76.0,3.0,Kansas
+77,1977-01-08,When Love Is New,Arthur Prysock,88.0,77.0,3.0,Arthur Prysock
+78,1977-01-08,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,68.0,2.0,20.0,Gordon Lightfoot
+79,1977-01-08,In The Mood,Henhouse Five Plus Too,,,,Henhouse Five Plus Too
+80,1977-01-08,Ha Cha Cha (funktion),Brass Construction,90.0,80.0,3.0,Brass Construction
+81,1977-01-08,C.b. Savage,Rod Hart,89.0,81.0,3.0,Rod Hart
+82,1977-01-08,Caledonia,Robin Trower,83.0,82.0,6.0,Robin Trower
+83,1977-01-08,Be My Girl,The Dramatics,,,,The Dramatics
+84,1977-01-08,Hello Old Friend,Eric Clapton,45.0,24.0,13.0,Eric Clapton
+85,1977-01-08,Fancy Dancer,Commodores,,,,Commodores
+86,1977-01-08,The Things We Do For Love,10cc,,,,10cc
+87,1977-01-08,Hail! Hail! Rock And Roll!,Starland Vocal Band,,,,Starland Vocal Band
+88,1977-01-08,Prisoner (Captured By Your Eyes),L.A. Jets,93.0,88.0,3.0,L.A. Jets
+89,1977-01-08,White Bird,David Laflamme,91.0,89.0,5.0,David Laflamme
+90,1977-01-08,Say You'll Stay Until Tomorrow,Tom Jones,,,,Tom Jones
+91,1977-01-08,I Can't Ask For Anymore Than You,Cliff Richard,80.0,80.0,4.0,Cliff Richard
+92,1977-01-08,Love Bug,Bumble Bee Unlimited,94.0,92.0,5.0,Bumble Bee Unlimited
+93,1977-01-08,Feelings,Walter Jackson,95.0,93.0,3.0,Walter Jackson
+94,1977-01-08,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97.0,94.0,3.0,Elvin Bishop Featuring Mickey Thomas
+95,1977-01-08,(She's Just A) Fallen Angel,Starz,98.0,95.0,3.0,Starz
+96,1977-01-08,Hey Baby,J.J. Cale,96.0,96.0,3.0,J.J. Cale
+97,1977-01-08,If Not You,Dr. Hook,55.0,55.0,7.0,Dr. Hook
+98,1977-01-08,Fly By Night/In The Mood,Rush,,,,Rush
+99,1977-01-08,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,,,,Wilton Place Street Band
+100,1977-01-08,The Best Disco In Town,The Ritchie Family,100.0,17.0,20.0,The Ritchie Family
 1,1977-01-15,You Make Me Feel Like Dancing,Leo Sayer,2.0,1.0,13.0,Leo Sayer
 2,1977-01-15,I Wish,Stevie Wonder,4.0,2.0,7.0,Stevie Wonder
 3,1977-01-15,Car Wash,Rose Royce,5.0,3.0,13.0,Rose Royce
@@ -112,91 +113,92 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 12,1977-01-15,New Kid In Town,Eagles,16.0,12.0,5.0,Eagles
 13,1977-01-15,Livin' Thing,Electric Light Orchestra,13.0,13.0,13.0,Electric Light Orchestra
 14,1977-01-15,Walk This Way,Aerosmith,20.0,14.0,9.0,Aerosmith
-17,1977-01-15,Lost Without Your Love,Bread,18.0,17.0,8.0,Bread
-18,1977-01-15,Enjoy Yourself,The Jacksons,19.0,18.0,10.0,The Jacksons
-19,1977-01-15,Love Me,Yvonne Elliman,14.0,14.0,16.0,Yvonne Elliman
-20,1977-01-15,Blinded By The Light,Manfred Mann's Earth Band,28.0,20.0,9.0,Manfred Mann's Earth Band
-21,1977-01-15,Torn Between Two Lovers,Mary Macgregor,27.0,21.0,9.0,Mary Macgregor
-22,1977-01-15,I Like Dreamin',Kenny Nolan,26.0,22.0,11.0,Kenny Nolan
-23,1977-01-15,Jeans On,David Dundas,23.0,23.0,15.0,David Dundas
-24,1977-01-15,Shake Your Rump To The Funk,The Bar-Kays,24.0,24.0,14.0,The Bar-Kays
-25,1977-01-15,Saturday Nite,"Earth, Wind & Fire",25.0,25.0,9.0,"Earth, Wind & Fire"
-26,1977-01-15,This Song,George Harrison,26.0,26.0,9.0,George Harrison
-27,1977-01-15,Weekend In New England,Barry Manilow,32.0,27.0,8.0,Barry Manilow
-28,1977-01-15,I Never Cry,Alice Cooper,12.0,12.0,23.0,Alice Cooper
-29,1977-01-15,Fly Like An Eagle,Steve Miller,35.0,29.0,5.0,Steve Miller
-30,1977-01-15,More Than A Feeling,Boston,15.0,5.0,18.0,Boston
-31,1977-01-15,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,31.0,31.0,11.0,Dr. Buzzard's Original Savannah Band
-32,1977-01-15,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,33.0,32.0,8.0,Donny Featuring Marie Osmond
-33,1977-01-15,Muskrat Love,Captain & Tennille,21.0,4.0,17.0,Captain & Tennille
-34,1977-01-15,Hard Luck Woman,KISS,41.0,34.0,5.0,KISS
-35,1977-01-15,Drivin' Wheel,Foghat,36.0,35.0,8.0,Foghat
-36,1977-01-15,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,40.0,36.0,6.0,Barbra Streisand
-37,1977-01-15,Night Moves,Bob Seger,49.0,37.0,6.0,Bob Seger
-38,1977-01-15,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",29.0,8.0,21.0,"Barry DeVorzon and Perry Botkin, Jr."
-39,1977-01-15,Free Bird,Lynyrd Skynyrd,39.0,19.0,19.0,Lynyrd Skynyrd
-40,1977-01-15,Nights Are Forever Without You,England Dan & John Ford Coley,34.0,10.0,15.0,England Dan Featuring John Ford Coley
-41,1977-01-15,Love So Right,Bee Gees,31.0,3.0,18.0,Bee Gees
-42,1977-01-15,Dancing Queen,ABBA,56.0,42.0,6.0,ABBA
-43,1977-01-15,I Like To Do It,KC And The Sunshine Band,43.0,43.0,7.0,KC And The Sunshine Band
-44,1977-01-15,It Keeps You Runnin',The Doobie Brothers,45.0,44.0,10.0,The Doobie Brothers
-45,1977-01-15,Someone To Lay Down Beside Me,Linda Ronstadt,45.0,45.0,7.0,Linda Ronstadt
-46,1977-01-15,Save It For A Rainy Day,Stephen Bishop,55.0,46.0,6.0,Stephen Bishop
-47,1977-01-15,Living Next Door To Alice,Smokie,47.0,47.0,7.0,Smokie
-48,1977-01-15,You've Got Me Runnin',Gene Cotton,50.0,48.0,7.0,Gene Cotton
-49,1977-01-15,Do It To My Mind,Johnny Bristol,49.0,49.0,8.0,Johnny Bristol
-50,1977-01-15,What Can I Say,Boz Scaggs,42.0,42.0,9.0,Boz Scaggs
-51,1977-01-15,Year Of The Cat,Al Stewart,64.0,51.0,6.0,Al Stewart
-52,1977-01-15,Keep Me Cryin',Al Green,37.0,37.0,13.0,Al Green
-53,1977-01-15,"9,999,999 Tears",Dickey Lee,53.0,53.0,9.0,Dickey Lee
-54,1977-01-15,"Do What You Want, Be What You Are",Daryl Hall John Oates,39.0,39.0,12.0,Daryl Hall John Oates
-55,1977-01-15,Dreamboat Annie,Heart,62.0,55.0,5.0,Heart
-56,1977-01-15,Don't Leave Me This Way,Thelma Houston,65.0,56.0,5.0,Thelma Houston
-57,1977-01-15,Moody Blue/she Thinks I Still Care,Elvis Presley,59.0,57.0,4.0,Elvis Presley
-58,1977-01-15,Go Your Own Way,Fleetwood Mac,71.0,58.0,2.0,Fleetwood Mac
-59,1977-01-15,You Are The Woman,Firefall,46.0,9.0,22.0,Firefall
-60,1977-01-15,Mademoiselle,Styx,51.0,36.0,10.0,Styx
-61,1977-01-15,Spring Affair/Winter Melody,Donna Summer,61.0,61.0,5.0,Donna Summer
-62,1977-01-15,Slow Dancing,Funky Kings,62.0,62.0,11.0,Funky Kings
-63,1977-01-15,In The Mood,Henhouse Five Plus Too,79.0,63.0,2.0,Henhouse Five Plus Too
-64,1977-01-15,The Things We Do For Love,10cc,86.0,64.0,2.0,10cc
-65,1977-01-15,Happier,Paul Anka,66.0,65.0,5.0,Paul Anka
-66,1977-01-15,Open Sesame - Part 1,Kool & The Gang,67.0,66.0,11.0,Kool Featuring The Gang
-67,1977-01-15,Carry On Wayward Son,Kansas,76.0,67.0,4.0,Kansas
-68,1977-01-15,Beth/Detroit Rock City,KISS,57.0,7.0,20.0,KISS
-69,1977-01-15,Free,Deniece Williams,72.0,69.0,6.0,Deniece Williams
-70,1977-01-15,"Baby, You Look Good To Me Tonight",John Denver,70.0,70.0,4.0,John Denver
-71,1977-01-15,Love Ballad,L.T.D.,53.0,20.0,16.0,L.T.D.
-72,1977-01-15,Yesterday's Hero,Bay City Rollers,54.0,54.0,6.0,Bay City Rollers
-73,1977-01-15,Baby Don't You Know,Wild Cherry,,,,Wild Cherry
-74,1977-01-15,Flight '76,The Walter Murphy Band,58.0,44.0,10.0,The Walter Murphy Band
-75,1977-01-15,When Love Is New,Arthur Prysock,77.0,75.0,4.0,Arthur Prysock
-76,1977-01-15,"Man Smart, Woman Smarter",Robert Palmer,63.0,63.0,7.0,Robert Palmer
-77,1977-01-15,C.b. Savage,Rod Hart,81.0,77.0,4.0,Rod Hart
-78,1977-01-15,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,,,,Rick Dees Featuring His Cast Of Idiots
-79,1977-01-15,Ha Cha Cha (funktion),Brass Construction,80.0,79.0,4.0,Brass Construction
-80,1977-01-15,Fancy Dancer,Commodores,85.0,80.0,2.0,Commodores
-81,1977-01-15,Say You'll Stay Until Tomorrow,Tom Jones,90.0,81.0,2.0,Tom Jones
-82,1977-01-15,Be My Girl,The Dramatics,83.0,82.0,2.0,The Dramatics
-83,1977-01-15,Caledonia,Robin Trower,83.0,83.0,7.0,Robin Trower
-84,1977-01-15,Hail! Hail! Rock And Roll!,Starland Vocal Band,87.0,84.0,2.0,Starland Vocal Band
-85,1977-01-15,Boogie Child,Bee Gees,,,,Bee Gees
-86,1977-01-15,Lucky Man,Starbuck,73.0,73.0,5.0,Starbuck
-87,1977-01-15,Do You Feel Like We Do,Peter Frampton,70.0,10.0,18.0,Peter Frampton
-88,1977-01-15,Don't Take Away The Music,Tavares,68.0,34.0,12.0,Tavares
-89,1977-01-15,Prisoner (Captured By Your Eyes),L.A. Jets,89.0,89.0,4.0,L.A. Jets
-90,1977-01-15,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,74.0,1.0,23.0,Rick Dees Featuring His Cast Of Idiots
-91,1977-01-15,Baby Boy,Mary Kay Place As Loretta Haggers,75.0,60.0,12.0,Mary Kay Place As Loretta Haggers
-92,1977-01-15,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,78.0,2.0,21.0,Gordon Lightfoot
-93,1977-01-15,I Don't Wanna Lose Your Love/Flowers,The Emotions,,,,The Emotions
-94,1977-01-15,Feelings,Walter Jackson,94.0,94.0,4.0,Walter Jackson
-95,1977-01-15,Hello Old Friend,Eric Clapton,84.0,24.0,14.0,Eric Clapton
-96,1977-01-15,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,99.0,96.0,2.0,Wilton Place Street Band
-97,1977-01-15,Pirate,Cher,,,,Cher
-98,1977-01-15,If Not You,Dr. Hook,98.0,55.0,8.0,Dr. Hook
-99,1977-01-15,Fly By Night/In The Mood,Rush,99.0,99.0,2.0,Rush
-100,1977-01-15,White Bird,David Laflamme,89.0,89.0,6.0,David Laflamme
-101,1977-01-15,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,94.0,94.0,4.0,Elvin Bishop Featuring Mickey Thomas
+15,1977-01-15,Somebody To Love,Queen,17.0,15.0,7.0,Queen
+16,1977-01-15,Lost Without Your Love,Bread,18.0,16.0,8.0,Bread
+17,1977-01-15,Enjoy Yourself,The Jacksons,19.0,17.0,10.0,The Jacksons
+18,1977-01-15,Love Me,Yvonne Elliman,14.0,14.0,16.0,Yvonne Elliman
+19,1977-01-15,Blinded By The Light,Manfred Mann's Earth Band,28.0,19.0,9.0,Manfred Mann's Earth Band
+20,1977-01-15,Torn Between Two Lovers,Mary Macgregor,27.0,20.0,9.0,Mary Macgregor
+21,1977-01-15,I Like Dreamin',Kenny Nolan,26.0,21.0,11.0,Kenny Nolan
+22,1977-01-15,Jeans On,David Dundas,22.0,22.0,15.0,David Dundas
+23,1977-01-15,Shake Your Rump To The Funk,The Bar-Kays,23.0,23.0,14.0,The Bar-Kays
+24,1977-01-15,Saturday Nite,"Earth, Wind & Fire",24.0,24.0,9.0,"Earth, Wind & Fire"
+25,1977-01-15,This Song,George Harrison,25.0,25.0,9.0,George Harrison
+26,1977-01-15,Weekend In New England,Barry Manilow,32.0,26.0,8.0,Barry Manilow
+27,1977-01-15,I Never Cry,Alice Cooper,12.0,12.0,23.0,Alice Cooper
+28,1977-01-15,Fly Like An Eagle,Steve Miller,35.0,28.0,5.0,Steve Miller
+29,1977-01-15,More Than A Feeling,Boston,15.0,5.0,18.0,Boston
+30,1977-01-15,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,30.0,30.0,11.0,Dr. Buzzard's Original Savannah Band
+31,1977-01-15,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,33.0,31.0,8.0,Donny Featuring Marie Osmond
+32,1977-01-15,Muskrat Love,Captain & Tennille,21.0,4.0,17.0,Captain & Tennille
+33,1977-01-15,Hard Luck Woman,KISS,41.0,33.0,5.0,KISS
+34,1977-01-15,Drivin' Wheel,Foghat,36.0,34.0,8.0,Foghat
+35,1977-01-15,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,40.0,35.0,6.0,Barbra Streisand
+36,1977-01-15,Night Moves,Bob Seger,49.0,36.0,6.0,Bob Seger
+37,1977-01-15,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",29.0,8.0,21.0,"Barry DeVorzon and Perry Botkin, Jr."
+38,1977-01-15,Free Bird,Lynyrd Skynyrd,38.0,19.0,19.0,Lynyrd Skynyrd
+39,1977-01-15,Nights Are Forever Without You,England Dan & John Ford Coley,34.0,10.0,15.0,England Dan Featuring John Ford Coley
+40,1977-01-15,Love So Right,Bee Gees,31.0,3.0,18.0,Bee Gees
+41,1977-01-15,Dancing Queen,ABBA,56.0,41.0,6.0,ABBA
+42,1977-01-15,I Like To Do It,KC And The Sunshine Band,43.0,42.0,7.0,KC And The Sunshine Band
+43,1977-01-15,It Keeps You Runnin',The Doobie Brothers,45.0,43.0,10.0,The Doobie Brothers
+44,1977-01-15,Someone To Lay Down Beside Me,Linda Ronstadt,44.0,44.0,7.0,Linda Ronstadt
+45,1977-01-15,Save It For A Rainy Day,Stephen Bishop,55.0,45.0,6.0,Stephen Bishop
+46,1977-01-15,Living Next Door To Alice,Smokie,47.0,46.0,7.0,Smokie
+47,1977-01-15,You've Got Me Runnin',Gene Cotton,50.0,47.0,7.0,Gene Cotton
+48,1977-01-15,Do It To My Mind,Johnny Bristol,48.0,48.0,8.0,Johnny Bristol
+49,1977-01-15,What Can I Say,Boz Scaggs,42.0,42.0,9.0,Boz Scaggs
+50,1977-01-15,Year Of The Cat,Al Stewart,64.0,50.0,6.0,Al Stewart
+51,1977-01-15,Keep Me Cryin',Al Green,37.0,37.0,13.0,Al Green
+52,1977-01-15,"9,999,999 Tears",Dickey Lee,52.0,52.0,9.0,Dickey Lee
+53,1977-01-15,"Do What You Want, Be What You Are",Daryl Hall John Oates,39.0,39.0,12.0,Daryl Hall John Oates
+54,1977-01-15,Dreamboat Annie,Heart,62.0,54.0,5.0,Heart
+55,1977-01-15,Don't Leave Me This Way,Thelma Houston,65.0,55.0,5.0,Thelma Houston
+56,1977-01-15,Moody Blue/she Thinks I Still Care,Elvis Presley,59.0,56.0,4.0,Elvis Presley
+57,1977-01-15,Go Your Own Way,Fleetwood Mac,71.0,57.0,2.0,Fleetwood Mac
+58,1977-01-15,You Are The Woman,Firefall,46.0,9.0,22.0,Firefall
+59,1977-01-15,Mademoiselle,Styx,51.0,36.0,10.0,Styx
+60,1977-01-15,Spring Affair/Winter Melody,Donna Summer,60.0,60.0,5.0,Donna Summer
+61,1977-01-15,Slow Dancing,Funky Kings,61.0,61.0,11.0,Funky Kings
+62,1977-01-15,In The Mood,Henhouse Five Plus Too,79.0,62.0,2.0,Henhouse Five Plus Too
+63,1977-01-15,The Things We Do For Love,10cc,86.0,63.0,2.0,10cc
+64,1977-01-15,Happier,Paul Anka,66.0,64.0,5.0,Paul Anka
+65,1977-01-15,Open Sesame - Part 1,Kool & The Gang,67.0,65.0,11.0,Kool Featuring The Gang
+66,1977-01-15,Carry On Wayward Son,Kansas,76.0,66.0,4.0,Kansas
+67,1977-01-15,Beth/Detroit Rock City,KISS,57.0,7.0,20.0,KISS
+68,1977-01-15,Free,Deniece Williams,72.0,68.0,6.0,Deniece Williams
+69,1977-01-15,"Baby, You Look Good To Me Tonight",John Denver,69.0,69.0,4.0,John Denver
+70,1977-01-15,Love Ballad,L.T.D.,53.0,20.0,16.0,L.T.D.
+71,1977-01-15,Yesterday's Hero,Bay City Rollers,54.0,54.0,6.0,Bay City Rollers
+72,1977-01-15,Baby Don't You Know,Wild Cherry,,,,Wild Cherry
+73,1977-01-15,Flight '76,The Walter Murphy Band,58.0,44.0,10.0,The Walter Murphy Band
+74,1977-01-15,When Love Is New,Arthur Prysock,77.0,74.0,4.0,Arthur Prysock
+75,1977-01-15,"Man Smart, Woman Smarter",Robert Palmer,63.0,63.0,7.0,Robert Palmer
+76,1977-01-15,C.b. Savage,Rod Hart,81.0,76.0,4.0,Rod Hart
+77,1977-01-15,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,,,,Rick Dees Featuring His Cast Of Idiots
+78,1977-01-15,Ha Cha Cha (funktion),Brass Construction,80.0,78.0,4.0,Brass Construction
+79,1977-01-15,Fancy Dancer,Commodores,85.0,79.0,2.0,Commodores
+80,1977-01-15,Say You'll Stay Until Tomorrow,Tom Jones,90.0,80.0,2.0,Tom Jones
+81,1977-01-15,Be My Girl,The Dramatics,83.0,81.0,2.0,The Dramatics
+82,1977-01-15,Caledonia,Robin Trower,82.0,82.0,7.0,Robin Trower
+83,1977-01-15,Hail! Hail! Rock And Roll!,Starland Vocal Band,87.0,83.0,2.0,Starland Vocal Band
+84,1977-01-15,Boogie Child,Bee Gees,,,,Bee Gees
+85,1977-01-15,Lucky Man,Starbuck,73.0,73.0,5.0,Starbuck
+86,1977-01-15,Do You Feel Like We Do,Peter Frampton,70.0,10.0,18.0,Peter Frampton
+87,1977-01-15,Don't Take Away The Music,Tavares,68.0,34.0,12.0,Tavares
+88,1977-01-15,Prisoner (Captured By Your Eyes),L.A. Jets,88.0,88.0,4.0,L.A. Jets
+89,1977-01-15,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,74.0,1.0,23.0,Rick Dees Featuring His Cast Of Idiots
+90,1977-01-15,Baby Boy,Mary Kay Place As Loretta Haggers,75.0,60.0,12.0,Mary Kay Place As Loretta Haggers
+91,1977-01-15,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,78.0,2.0,21.0,Gordon Lightfoot
+92,1977-01-15,I Don't Wanna Lose Your Love/Flowers,The Emotions,,,,The Emotions
+93,1977-01-15,Feelings,Walter Jackson,93.0,93.0,4.0,Walter Jackson
+94,1977-01-15,Hello Old Friend,Eric Clapton,84.0,24.0,14.0,Eric Clapton
+95,1977-01-15,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,99.0,95.0,2.0,Wilton Place Street Band
+96,1977-01-15,Pirate,Cher,,,,Cher
+97,1977-01-15,If Not You,Dr. Hook,97.0,55.0,8.0,Dr. Hook
+98,1977-01-15,Fly By Night/In The Mood,Rush,98.0,98.0,2.0,Rush
+99,1977-01-15,White Bird,David Laflamme,89.0,89.0,6.0,David Laflamme
+100,1977-01-15,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,94.0,94.0,4.0,Elvin Bishop Featuring Mickey Thomas
 1,1977-01-22,I Wish,Stevie Wonder,2.0,1.0,8.0,Stevie Wonder
 2,1977-01-22,Car Wash,Rose Royce,3.0,2.0,14.0,Rose Royce
 3,1977-01-22,You Make Me Feel Like Dancing,Leo Sayer,1.0,1.0,14.0,Leo Sayer
@@ -209,92 +211,94 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 10,1977-01-22,Torn Between Two Lovers,Mary Macgregor,20.0,10.0,10.0,Mary Macgregor
 11,1977-01-22,Tonight's The Night (Gonna Be Alright),Rod Stewart,6.0,1.0,17.0,Rod Stewart
 12,1977-01-22,Walk This Way,Aerosmith,14.0,12.0,10.0,Aerosmith
-15,1977-01-22,Lost Without Your Love,Bread,16.0,15.0,9.0,Bread
-16,1977-01-22,Enjoy Yourself,The Jacksons,17.0,16.0,11.0,The Jacksons
-17,1977-01-22,I Like Dreamin',Kenny Nolan,21.0,17.0,12.0,Kenny Nolan
+13,1977-01-22,Somebody To Love,Queen,15.0,23.0,8.0,Queen
+14,1977-01-22,Lost Without Your Love,Bread,16.0,14.0,9.0,Bread
+15,1977-01-22,Enjoy Yourself,The Jacksons,17.0,15.0,11.0,The Jacksons
+16,1977-01-22,I Like Dreamin',Kenny Nolan,21.0,16.0,12.0,Kenny Nolan
+17,1977-01-22,Livin' Thing,Electric Light Orchestra,13.0,13.0,14.0,Electric Light Orchestra
 18,1977-01-22,Fly Like An Eagle,Steve Miller,28.0,18.0,6.0,Steve Miller
 19,1977-01-22,Jeans On,David Dundas,22.0,19.0,16.0,David Dundas
-21,1977-01-22,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,35.0,21.0,7.0,Barbra Streisand
-22,1977-01-22,Weekend In New England,Barry Manilow,26.0,22.0,9.0,Barry Manilow
-23,1977-01-22,Saturday Nite,"Earth, Wind & Fire",24.0,23.0,10.0,"Earth, Wind & Fire"
-24,1977-01-22,Sorry Seems To Be The Hardest Word,Elton John,7.0,6.0,11.0,Elton John
-25,1977-01-22,Stand Tall,Burton Cummings,10.0,10.0,16.0,Burton Cummings
-26,1977-01-22,Hard Luck Woman,KISS,33.0,26.0,6.0,KISS
-27,1977-01-22,I Never Cry,Alice Cooper,27.0,12.0,24.0,Alice Cooper
-28,1977-01-22,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,31.0,28.0,9.0,Donny Featuring Marie Osmond
-29,1977-01-22,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,30.0,29.0,12.0,Dr. Buzzard's Original Savannah Band
-30,1977-01-22,Night Moves,Bob Seger,36.0,30.0,7.0,Bob Seger
-31,1977-01-22,The Rubberband Man,The Spinners,11.0,2.0,20.0,The Spinners
-32,1977-01-22,Shake Your Rump To The Funk,The Bar-Kays,23.0,23.0,15.0,The Bar-Kays
-33,1977-01-22,This Song,George Harrison,25.0,25.0,10.0,George Harrison
-34,1977-01-22,Dancing Queen,ABBA,41.0,34.0,7.0,ABBA
-35,1977-01-22,Love Me,Yvonne Elliman,18.0,14.0,17.0,Yvonne Elliman
-36,1977-01-22,Save It For A Rainy Day,Stephen Bishop,45.0,36.0,7.0,Stephen Bishop
-37,1977-01-22,Year Of The Cat,Al Stewart,50.0,37.0,7.0,Al Stewart
-38,1977-01-22,You've Got Me Runnin',Gene Cotton,47.0,38.0,8.0,Gene Cotton
-39,1977-01-22,Go Your Own Way,Fleetwood Mac,57.0,39.0,3.0,Fleetwood Mac
-40,1977-01-22,It Keeps You Runnin',The Doobie Brothers,43.0,40.0,11.0,The Doobie Brothers
-41,1977-01-22,Living Next Door To Alice,Smokie,46.0,41.0,8.0,Smokie
-42,1977-01-22,I Like To Do It,KC And The Sunshine Band,42.0,42.0,8.0,KC And The Sunshine Band
-43,1977-01-22,Someone To Lay Down Beside Me,Linda Ronstadt,44.0,43.0,8.0,Linda Ronstadt
-44,1977-01-22,Don't Leave Me This Way,Thelma Houston,55.0,44.0,6.0,Thelma Houston
-45,1977-01-22,Dreamboat Annie,Heart,54.0,45.0,6.0,Heart
-46,1977-01-22,Muskrat Love,Captain & Tennille,32.0,4.0,18.0,Captain & Tennille
-47,1977-01-22,Moody Blue/she Thinks I Still Care,Elvis Presley,56.0,47.0,5.0,Elvis Presley
-48,1977-01-22,Do It To My Mind,Johnny Bristol,48.0,48.0,9.0,Johnny Bristol
-49,1977-01-22,More Than A Feeling,Boston,29.0,5.0,19.0,Boston
-50,1977-01-22,What Can I Say,Boz Scaggs,50.0,42.0,10.0,Boz Scaggs
-51,1977-01-22,The Things We Do For Love,10cc,63.0,51.0,3.0,10cc
-52,1977-01-22,In The Mood,Henhouse Five Plus Too,62.0,52.0,3.0,Henhouse Five Plus Too
-53,1977-01-22,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,39.0,13.0,Daryl Hall John Oates
-54,1977-01-22,Drivin' Wheel,Foghat,34.0,34.0,9.0,Foghat
-55,1977-01-22,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",37.0,8.0,22.0,"Barry DeVorzon and Perry Botkin, Jr."
-56,1977-01-22,Carry On Wayward Son,Kansas,66.0,56.0,5.0,Kansas
-57,1977-01-22,Love So Right,Bee Gees,40.0,3.0,19.0,Bee Gees
-58,1977-01-22,Boogie Child,Bee Gees,84.0,58.0,2.0,Bee Gees
-59,1977-01-22,Spring Affair/Winter Melody,Donna Summer,60.0,59.0,6.0,Donna Summer
-60,1977-01-22,Baby Don't You Know,Wild Cherry,72.0,60.0,2.0,Wild Cherry
-61,1977-01-22,Happier,Paul Anka,64.0,61.0,6.0,Paul Anka
-62,1977-01-22,Open Sesame - Part 1,Kool & The Gang,65.0,62.0,12.0,Kool Featuring The Gang
-63,1977-01-22,Free,Deniece Williams,68.0,63.0,7.0,Deniece Williams
-64,1977-01-22,Free Bird,Lynyrd Skynyrd,38.0,19.0,20.0,Lynyrd Skynyrd
-65,1977-01-22,Nights Are Forever Without You,England Dan & John Ford Coley,39.0,10.0,16.0,England Dan Featuring John Ford Coley
-66,1977-01-22,Mademoiselle,Styx,59.0,36.0,11.0,Styx
-67,1977-01-22,"9,999,999 Tears",Dickey Lee,52.0,52.0,10.0,Dickey Lee
-68,1977-01-22,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,77.0,68.0,2.0,Rick Dees Featuring His Cast Of Idiots
-69,1977-01-22,Fancy Dancer,Commodores,79.0,69.0,3.0,Commodores
-70,1977-01-22,"Baby, You Look Good To Me Tonight",John Denver,70.0,70.0,5.0,John Denver
-71,1977-01-22,Say You'll Stay Until Tomorrow,Tom Jones,80.0,71.0,3.0,Tom Jones
-72,1977-01-22,When Love Is New,Arthur Prysock,74.0,72.0,5.0,Arthur Prysock
-73,1977-01-22,C.b. Savage,Rod Hart,76.0,73.0,5.0,Rod Hart
-74,1977-01-22,Ha Cha Cha (funktion),Brass Construction,78.0,74.0,5.0,Brass Construction
-75,1977-01-22,Be My Girl,The Dramatics,81.0,75.0,3.0,The Dramatics
-76,1977-01-22,Keep Me Cryin',Al Green,51.0,37.0,14.0,Al Green
-77,1977-01-22,Beth/Detroit Rock City,KISS,67.0,7.0,21.0,KISS
-78,1977-01-22,Yesterday's Hero,Bay City Rollers,71.0,54.0,7.0,Bay City Rollers
-79,1977-01-22,Love Ballad,L.T.D.,70.0,20.0,17.0,L.T.D.
-80,1977-01-22,Hail! Hail! Rock And Roll!,Starland Vocal Band,83.0,80.0,3.0,Starland Vocal Band
-81,1977-01-22,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,,,,The O'Jays
-82,1977-01-22,Rich Girl,Daryl Hall John Oates,,,,Daryl Hall John Oates
-83,1977-01-22,I Don't Wanna Lose Your Love/Flowers,The Emotions,92.0,83.0,2.0,The Emotions
-84,1977-01-22,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",,,,"Barry DeVorzon and Perry Botkin, Jr."
-85,1977-01-22,I Just Can't Say No To You,Parker McGee,,,,Parker McGee
-86,1977-01-22,You Know Like I Know,Ozark Mountain Daredevils,,,,Ozark Mountain Daredevils
-87,1977-01-22,Prisoner (Captured By Your Eyes),L.A. Jets,88.0,87.0,5.0,L.A. Jets
-88,1977-01-22,Daddy Cool,Boney M,,,,Boney M
-89,1977-01-22,Shakey Ground,Phoebe Snow,,,,Phoebe Snow
-90,1977-01-22,If Not You,Dr. Hook,97.0,55.0,9.0,Dr. Hook
-91,1977-01-22,Baby Boy,Mary Kay Place As Loretta Haggers,91.0,60.0,13.0,Mary Kay Place As Loretta Haggers
-92,1977-01-22,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,95.0,92.0,3.0,Wilton Place Street Band
-93,1977-01-22,Fly By Night/In The Mood,Rush,98.0,93.0,3.0,Rush
-94,1977-01-22,Pirate,Cher,96.0,94.0,2.0,Cher
-95,1977-01-22,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,89.0,1.0,24.0,Rick Dees Featuring His Cast Of Idiots
-96,1977-01-22,White Bird,David Laflamme,99.0,89.0,7.0,David Laflamme
-97,1977-01-22,Spring Rain,Silvetti,,,,Silvetti
-98,1977-01-22,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,100.0,94.0,5.0,Elvin Bishop Featuring Mickey Thomas
-99,1977-01-22,Sorry/That's The Trouble,Grace Jones,,,,Grace Jones
-100,1977-01-22,Theme From King Kong (Pt. I),Love Unlimited Orchestra,,,,Love Unlimited Orchestra
-101,1977-01-22,Up Your Nose,Gabriel Kaplan,,,,Gabriel Kaplan
+20,1977-01-22,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,35.0,20.0,7.0,Barbra Streisand
+21,1977-01-22,Weekend In New England,Barry Manilow,26.0,21.0,9.0,Barry Manilow
+22,1977-01-22,Saturday Nite,"Earth, Wind & Fire",24.0,22.0,10.0,"Earth, Wind & Fire"
+23,1977-01-22,Sorry Seems To Be The Hardest Word,Elton John,7.0,6.0,11.0,Elton John
+24,1977-01-22,Stand Tall,Burton Cummings,10.0,10.0,16.0,Burton Cummings
+25,1977-01-22,Hard Luck Woman,KISS,33.0,25.0,6.0,KISS
+26,1977-01-22,I Never Cry,Alice Cooper,27.0,12.0,24.0,Alice Cooper
+27,1977-01-22,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,31.0,27.0,9.0,Donny Featuring Marie Osmond
+28,1977-01-22,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,30.0,28.0,12.0,Dr. Buzzard's Original Savannah Band
+29,1977-01-22,Night Moves,Bob Seger,36.0,29.0,7.0,Bob Seger
+30,1977-01-22,The Rubberband Man,The Spinners,11.0,2.0,20.0,The Spinners
+31,1977-01-22,Shake Your Rump To The Funk,The Bar-Kays,23.0,23.0,15.0,The Bar-Kays
+32,1977-01-22,This Song,George Harrison,25.0,25.0,10.0,George Harrison
+33,1977-01-22,Dancing Queen,ABBA,41.0,33.0,7.0,ABBA
+34,1977-01-22,Love Me,Yvonne Elliman,18.0,14.0,17.0,Yvonne Elliman
+35,1977-01-22,Save It For A Rainy Day,Stephen Bishop,45.0,35.0,7.0,Stephen Bishop
+36,1977-01-22,Year Of The Cat,Al Stewart,50.0,36.0,7.0,Al Stewart
+37,1977-01-22,You've Got Me Runnin',Gene Cotton,47.0,37.0,8.0,Gene Cotton
+38,1977-01-22,Go Your Own Way,Fleetwood Mac,57.0,38.0,3.0,Fleetwood Mac
+39,1977-01-22,It Keeps You Runnin',The Doobie Brothers,43.0,39.0,11.0,The Doobie Brothers
+40,1977-01-22,Living Next Door To Alice,Smokie,46.0,40.0,8.0,Smokie
+41,1977-01-22,I Like To Do It,KC And The Sunshine Band,42.0,41.0,8.0,KC And The Sunshine Band
+42,1977-01-22,Someone To Lay Down Beside Me,Linda Ronstadt,44.0,42.0,8.0,Linda Ronstadt
+43,1977-01-22,Don't Leave Me This Way,Thelma Houston,55.0,43.0,6.0,Thelma Houston
+44,1977-01-22,Dreamboat Annie,Heart,54.0,44.0,6.0,Heart
+45,1977-01-22,Muskrat Love,Captain & Tennille,32.0,4.0,18.0,Captain & Tennille
+46,1977-01-22,Moody Blue/she Thinks I Still Care,Elvis Presley,56.0,46.0,5.0,Elvis Presley
+47,1977-01-22,Do It To My Mind,Johnny Bristol,48.0,47.0,9.0,Johnny Bristol
+48,1977-01-22,More Than A Feeling,Boston,29.0,5.0,19.0,Boston
+49,1977-01-22,What Can I Say,Boz Scaggs,49.0,42.0,10.0,Boz Scaggs
+50,1977-01-22,The Things We Do For Love,10cc,63.0,50.0,3.0,10cc
+51,1977-01-22,In The Mood,Henhouse Five Plus Too,62.0,51.0,3.0,Henhouse Five Plus Too
+52,1977-01-22,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,39.0,13.0,Daryl Hall John Oates
+53,1977-01-22,Drivin' Wheel,Foghat,34.0,34.0,9.0,Foghat
+54,1977-01-22,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",37.0,8.0,22.0,"Barry DeVorzon and Perry Botkin, Jr."
+55,1977-01-22,Carry On Wayward Son,Kansas,66.0,55.0,5.0,Kansas
+56,1977-01-22,Love So Right,Bee Gees,40.0,3.0,19.0,Bee Gees
+57,1977-01-22,Boogie Child,Bee Gees,84.0,57.0,2.0,Bee Gees
+58,1977-01-22,Spring Affair/Winter Melody,Donna Summer,60.0,58.0,6.0,Donna Summer
+59,1977-01-22,Baby Don't You Know,Wild Cherry,72.0,59.0,2.0,Wild Cherry
+60,1977-01-22,Happier,Paul Anka,64.0,60.0,6.0,Paul Anka
+61,1977-01-22,Open Sesame - Part 1,Kool & The Gang,65.0,61.0,12.0,Kool Featuring The Gang
+62,1977-01-22,Free,Deniece Williams,68.0,62.0,7.0,Deniece Williams
+63,1977-01-22,Free Bird,Lynyrd Skynyrd,38.0,19.0,20.0,Lynyrd Skynyrd
+64,1977-01-22,Nights Are Forever Without You,England Dan & John Ford Coley,39.0,10.0,16.0,England Dan Featuring John Ford Coley
+65,1977-01-22,Mademoiselle,Styx,59.0,36.0,11.0,Styx
+66,1977-01-22,"9,999,999 Tears",Dickey Lee,52.0,52.0,10.0,Dickey Lee
+67,1977-01-22,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,77.0,67.0,2.0,Rick Dees Featuring His Cast Of Idiots
+68,1977-01-22,Fancy Dancer,Commodores,79.0,68.0,3.0,Commodores
+69,1977-01-22,"Baby, You Look Good To Me Tonight",John Denver,69.0,69.0,5.0,John Denver
+70,1977-01-22,Say You'll Stay Until Tomorrow,Tom Jones,80.0,70.0,3.0,Tom Jones
+71,1977-01-22,When Love Is New,Arthur Prysock,74.0,71.0,5.0,Arthur Prysock
+72,1977-01-22,C.b. Savage,Rod Hart,76.0,72.0,5.0,Rod Hart
+73,1977-01-22,Ha Cha Cha (funktion),Brass Construction,78.0,73.0,5.0,Brass Construction
+74,1977-01-22,Be My Girl,The Dramatics,81.0,74.0,3.0,The Dramatics
+75,1977-01-22,Keep Me Cryin',Al Green,51.0,37.0,14.0,Al Green
+76,1977-01-22,Beth/Detroit Rock City,KISS,67.0,7.0,21.0,KISS
+77,1977-01-22,Yesterday's Hero,Bay City Rollers,71.0,54.0,7.0,Bay City Rollers
+78,1977-01-22,Love Ballad,L.T.D.,70.0,20.0,17.0,L.T.D.
+79,1977-01-22,Hail! Hail! Rock And Roll!,Starland Vocal Band,83.0,79.0,3.0,Starland Vocal Band
+80,1977-01-22,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,,,,The O'Jays
+81,1977-01-22,Rich Girl,Daryl Hall John Oates,,,,Daryl Hall John Oates
+82,1977-01-22,I Don't Wanna Lose Your Love/Flowers,The Emotions,92.0,82.0,2.0,The Emotions
+83,1977-01-22,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",,,,"Barry DeVorzon and Perry Botkin, Jr."
+84,1977-01-22,I Just Can't Say No To You,Parker McGee,,,,Parker McGee
+85,1977-01-22,You Know Like I Know,Ozark Mountain Daredevils,,,,Ozark Mountain Daredevils
+86,1977-01-22,Prisoner (Captured By Your Eyes),L.A. Jets,88.0,86.0,5.0,L.A. Jets
+87,1977-01-22,Daddy Cool,Boney M,,,,Boney M
+88,1977-01-22,Shakey Ground,Phoebe Snow,,,,Phoebe Snow
+89,1977-01-22,If Not You,Dr. Hook,97.0,55.0,9.0,Dr. Hook
+90,1977-01-22,Baby Boy,Mary Kay Place As Loretta Haggers,90.0,60.0,13.0,Mary Kay Place As Loretta Haggers
+91,1977-01-22,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,95.0,91.0,3.0,Wilton Place Street Band
+92,1977-01-22,Fly By Night/In The Mood,Rush,98.0,92.0,3.0,Rush
+93,1977-01-22,Pirate,Cher,96.0,93.0,2.0,Cher
+94,1977-01-22,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,89.0,1.0,24.0,Rick Dees Featuring His Cast Of Idiots
+95,1977-01-22,White Bird,David Laflamme,99.0,89.0,7.0,David Laflamme
+96,1977-01-22,Spring Rain,Silvetti,,,,Silvetti
+97,1977-01-22,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,100.0,94.0,5.0,Elvin Bishop Featuring Mickey Thomas
+98,1977-01-22,Sorry/That's The Trouble,Grace Jones,,,,Grace Jones
+99,1977-01-22,Theme From King Kong (Pt. I),Love Unlimited Orchestra,,,,Love Unlimited Orchestra
+100,1977-01-22,Up Your Nose,Gabriel Kaplan,,,,Gabriel Kaplan
 1,1977-01-29,Car Wash,Rose Royce,2.0,1.0,15.0,Rose Royce
 2,1977-01-29,I Wish,Stevie Wonder,1.0,1.0,9.0,Stevie Wonder
 3,1977-01-29,Dazz,Brick,4.0,3.0,15.0,Brick
@@ -307,93 +311,94 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 10,1977-01-29,Walk This Way,Aerosmith,12.0,10.0,11.0,Aerosmith
 11,1977-01-29,Enjoy Yourself,The Jacksons,15.0,11.0,12.0,The Jacksons
 12,1977-01-29,Lost Without Your Love,Bread,14.0,12.0,10.0,Bread
-15,1977-01-29,I Like Dreamin',Kenny Nolan,16.0,15.0,13.0,Kenny Nolan
-16,1977-01-29,Fly Like An Eagle,Steve Miller,18.0,16.0,7.0,Steve Miller
-17,1977-01-29,Weekend In New England,Barry Manilow,21.0,17.0,10.0,Barry Manilow
-18,1977-01-29,Jeans On,David Dundas,18.0,18.0,18.0,David Dundas
-19,1977-01-29,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",5.0,1.0,21.0,"Marilyn McCoo Featuring Billy Davis, Jr."
-20,1977-01-29,After The Lovin',Engelbert Humperdinck,8.0,8.0,15.0,Engelbert Humperdinck
-21,1977-01-29,Hard Luck Woman,KISS,25.0,21.0,7.0,KISS
-22,1977-01-29,Saturday Nite,"Earth, Wind & Fire",22.0,22.0,11.0,"Earth, Wind & Fire"
-23,1977-01-29,Tonight's The Night (Gonna Be Alright),Rod Stewart,11.0,1.0,18.0,Rod Stewart
-24,1977-01-29,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,27.0,24.0,10.0,Donny Featuring Marie Osmond
-25,1977-01-29,Year Of The Cat,Al Stewart,36.0,25.0,8.0,Al Stewart
-26,1977-01-29,Night Moves,Bob Seger,29.0,26.0,8.0,Bob Seger
-27,1977-01-29,Dancing Queen,ABBA,33.0,27.0,8.0,ABBA
-28,1977-01-29,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,28.0,28.0,13.0,Dr. Buzzard's Original Savannah Band
-29,1977-01-29,Livin' Thing,Electric Light Orchestra,17.0,13.0,15.0,Electric Light Orchestra
-30,1977-01-29,Stand Tall,Burton Cummings,24.0,10.0,17.0,Burton Cummings
-31,1977-01-29,Don't Leave Me This Way,Thelma Houston,43.0,31.0,7.0,Thelma Houston
-32,1977-01-29,Save It For A Rainy Day,Stephen Bishop,35.0,32.0,8.0,Stephen Bishop
-33,1977-01-29,Go Your Own Way,Fleetwood Mac,38.0,33.0,4.0,Fleetwood Mac
-34,1977-01-29,Sorry Seems To Be The Hardest Word,Elton John,23.0,6.0,12.0,Elton John
-35,1977-01-29,I Never Cry,Alice Cooper,26.0,12.0,25.0,Alice Cooper
-36,1977-01-29,You've Got Me Runnin',Gene Cotton,37.0,36.0,9.0,Gene Cotton
-37,1977-01-29,Living Next Door To Alice,Smokie,40.0,37.0,9.0,Smokie
-38,1977-01-29,It Keeps You Runnin',The Doobie Brothers,39.0,38.0,12.0,The Doobie Brothers
-39,1977-01-29,Boogie Child,Bee Gees,57.0,39.0,3.0,Bee Gees
-40,1977-01-29,I Like To Do It,KC And The Sunshine Band,41.0,40.0,9.0,KC And The Sunshine Band
-41,1977-01-29,The Things We Do For Love,10cc,50.0,41.0,4.0,10cc
-42,1977-01-29,In The Mood,Henhouse Five Plus Too,51.0,42.0,4.0,Henhouse Five Plus Too
-43,1977-01-29,Moody Blue/she Thinks I Still Care,Elvis Presley,46.0,43.0,6.0,Elvis Presley
-44,1977-01-29,Dreamboat Annie,Heart,44.0,44.0,7.0,Heart
-45,1977-01-29,Do It To My Mind,Johnny Bristol,47.0,45.0,10.0,Johnny Bristol
-46,1977-01-29,Carry On Wayward Son,Kansas,55.0,46.0,6.0,Kansas
-47,1977-01-29,Someone To Lay Down Beside Me,Linda Ronstadt,42.0,42.0,9.0,Linda Ronstadt
-48,1977-01-29,The Rubberband Man,The Spinners,30.0,2.0,21.0,The Spinners
-49,1977-01-29,What Can I Say,Boz Scaggs,49.0,42.0,11.0,Boz Scaggs
-50,1977-01-29,Baby Don't You Know,Wild Cherry,59.0,50.0,3.0,Wild Cherry
-51,1977-01-29,Love Me,Yvonne Elliman,34.0,14.0,18.0,Yvonne Elliman
-52,1977-01-29,Muskrat Love,Captain & Tennille,45.0,4.0,19.0,Captain & Tennille
-53,1977-01-29,Spring Affair/Winter Melody,Donna Summer,58.0,53.0,7.0,Donna Summer
-54,1977-01-29,"Do What You Want, Be What You Are",Daryl Hall John Oates,52.0,39.0,14.0,Daryl Hall John Oates
-55,1977-01-29,Drivin' Wheel,Foghat,53.0,34.0,10.0,Foghat
-56,1977-01-29,Open Sesame - Part 1,Kool & The Gang,61.0,56.0,13.0,Kool Featuring The Gang
-57,1977-01-29,Love So Right,Bee Gees,57.0,3.0,20.0,Bee Gees
-58,1977-01-29,Fancy Dancer,Commodores,68.0,58.0,4.0,Commodores
-59,1977-01-29,Say You'll Stay Until Tomorrow,Tom Jones,70.0,59.0,4.0,Tom Jones
-60,1977-01-29,Shake Your Rump To The Funk,The Bar-Kays,31.0,23.0,16.0,The Bar-Kays
-61,1977-01-29,Free,Deniece Williams,62.0,61.0,8.0,Deniece Williams
-62,1977-01-29,Ha Cha Cha (funktion),Brass Construction,73.0,62.0,6.0,Brass Construction
-63,1977-01-29,Long Time,Boston,,,,Boston
-64,1977-01-29,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67.0,64.0,3.0,Rick Dees Featuring His Cast Of Idiots
-65,1977-01-29,This Song,George Harrison,32.0,25.0,11.0,George Harrison
-66,1977-01-29,"Baby, You Look Good To Me Tonight",John Denver,69.0,66.0,6.0,John Denver
-67,1977-01-29,Crackerbox Palace,George Harrison,,,,George Harrison
-68,1977-01-29,Be My Girl,The Dramatics,74.0,68.0,4.0,The Dramatics
-69,1977-01-29,When Love Is New,Arthur Prysock,71.0,69.0,6.0,Arthur Prysock
-70,1977-01-29,C.b. Savage,Rod Hart,72.0,70.0,6.0,Rod Hart
-71,1977-01-29,Happier,Paul Anka,60.0,60.0,7.0,Paul Anka
-72,1977-01-29,Rich Girl,Daryl Hall John Oates,81.0,72.0,2.0,Daryl Hall John Oates
-73,1977-01-29,Sam,Olivia Newton-John,,,,Olivia Newton-John
-74,1977-01-29,I Just Can't Say No To You,Parker McGee,84.0,74.0,2.0,Parker McGee
-75,1977-01-29,Don't Give Up On Us,David Soul,,,,David Soul
-76,1977-01-29,Daddy Cool,Boney M,87.0,76.0,2.0,Boney M
-77,1977-01-29,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,80.0,77.0,2.0,The O'Jays
-78,1977-01-29,Hail! Hail! Rock And Roll!,Starland Vocal Band,79.0,78.0,4.0,Starland Vocal Band
-79,1977-01-29,Shakey Ground,Phoebe Snow,88.0,79.0,2.0,Phoebe Snow
-80,1977-01-29,Feel The Beat (Everybody Disco),Ohio Players,,,,Ohio Players
-81,1977-01-29,I Don't Wanna Lose Your Love/Flowers,The Emotions,82.0,81.0,3.0,The Emotions
-82,1977-01-29,Right Time Of The Night,Jennifer Warnes,,,,Jennifer Warnes
-83,1977-01-29,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",83.0,83.0,2.0,"Barry DeVorzon and Perry Botkin, Jr."
-84,1977-01-29,You Know Like I Know,Ozark Mountain Daredevils,85.0,84.0,2.0,Ozark Mountain Daredevils
-85,1977-01-29,I've Got Love On My Mind,Natalie Cole,,,,Natalie Cole
-86,1977-01-29,Reach,Orleans,,,,Orleans
-87,1977-01-29,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,91.0,87.0,4.0,Wilton Place Street Band
-88,1977-01-29,If Not You,Dr. Hook,89.0,55.0,10.0,Dr. Hook
-89,1977-01-29,Fly By Night/In The Mood,Rush,92.0,89.0,4.0,Rush
-90,1977-01-29,So In To You,Atlanta Rhythm Section,,,,Atlanta Rhythm Section
-91,1977-01-29,Hey Baby,Ringo Starr,,,,Ringo Starr
-92,1977-01-29,Gloria,Enchantment,,,,Enchantment
-93,1977-01-29,Up Your Nose,Gabriel Kaplan,100.0,93.0,2.0,Gabriel Kaplan
-94,1977-01-29,Love Ballad,L.T.D.,78.0,20.0,18.0,L.T.D.
-95,1977-01-29,Theme From King Kong (Pt. I),Love Unlimited Orchestra,99.0,95.0,2.0,Love Unlimited Orchestra
-96,1977-01-29,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97.0,94.0,6.0,Elvin Bishop Featuring Mickey Thomas
-97,1977-01-29,Spring Rain,Silvetti,97.0,97.0,2.0,Silvetti
-98,1977-01-29,Sorry/That's The Trouble,Grace Jones,98.0,98.0,2.0,Grace Jones
-99,1977-01-29,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,94.0,1.0,25.0,Rick Dees Featuring His Cast Of Idiots
-100,1977-01-29,Turn Loose Of My Leg,Jim Stafford,,,,Jim Stafford
-101,1977-01-29,Love To The World,L.T.D.,,,,L.T.D.
+13,1977-01-29,Somebody To Love,Queen,13.0,13.0,9.0,Queen
+14,1977-01-29,I Like Dreamin',Kenny Nolan,16.0,14.0,13.0,Kenny Nolan
+15,1977-01-29,Fly Like An Eagle,Steve Miller,18.0,15.0,7.0,Steve Miller
+16,1977-01-29,Weekend In New England,Barry Manilow,21.0,16.0,10.0,Barry Manilow
+17,1977-01-29,Jeans On,David Dundas,18.0,17.0,17.0,David Dundas
+18,1977-01-29,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",5.0,1.0,21.0,"Marilyn McCoo Featuring Billy Davis, Jr."
+19,1977-01-29,After The Lovin',Engelbert Humperdinck,8.0,8.0,15.0,Engelbert Humperdinck
+20,1977-01-29,Hard Luck Woman,KISS,25.0,20.0,7.0,KISS
+21,1977-01-29,Saturday Nite,"Earth, Wind & Fire",22.0,21.0,11.0,"Earth, Wind & Fire"
+22,1977-01-29,Tonight's The Night (Gonna Be Alright),Rod Stewart,11.0,1.0,18.0,Rod Stewart
+23,1977-01-29,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,27.0,23.0,10.0,Donny Featuring Marie Osmond
+24,1977-01-29,Year Of The Cat,Al Stewart,36.0,24.0,8.0,Al Stewart
+25,1977-01-29,Night Moves,Bob Seger,29.0,25.0,8.0,Bob Seger
+26,1977-01-29,Dancing Queen,ABBA,33.0,26.0,8.0,ABBA
+27,1977-01-29,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,28.0,27.0,13.0,Dr. Buzzard's Original Savannah Band
+28,1977-01-29,Livin' Thing,Electric Light Orchestra,17.0,13.0,15.0,Electric Light Orchestra
+29,1977-01-29,Stand Tall,Burton Cummings,24.0,10.0,17.0,Burton Cummings
+30,1977-01-29,Don't Leave Me This Way,Thelma Houston,43.0,30.0,7.0,Thelma Houston
+31,1977-01-29,Save It For A Rainy Day,Stephen Bishop,35.0,31.0,8.0,Stephen Bishop
+32,1977-01-29,Go Your Own Way,Fleetwood Mac,38.0,32.0,4.0,Fleetwood Mac
+33,1977-01-29,Sorry Seems To Be The Hardest Word,Elton John,23.0,6.0,12.0,Elton John
+34,1977-01-29,I Never Cry,Alice Cooper,26.0,12.0,25.0,Alice Cooper
+35,1977-01-29,You've Got Me Runnin',Gene Cotton,37.0,35.0,9.0,Gene Cotton
+36,1977-01-29,Living Next Door To Alice,Smokie,40.0,36.0,9.0,Smokie
+37,1977-01-29,It Keeps You Runnin',The Doobie Brothers,39.0,37.0,12.0,The Doobie Brothers
+38,1977-01-29,Boogie Child,Bee Gees,57.0,38.0,3.0,Bee Gees
+39,1977-01-29,I Like To Do It,KC And The Sunshine Band,41.0,39.0,9.0,KC And The Sunshine Band
+40,1977-01-29,The Things We Do For Love,10cc,50.0,40.0,4.0,10cc
+41,1977-01-29,In The Mood,Henhouse Five Plus Too,51.0,41.0,4.0,Henhouse Five Plus Too
+42,1977-01-29,Moody Blue/she Thinks I Still Care,Elvis Presley,46.0,42.0,6.0,Elvis Presley
+43,1977-01-29,Dreamboat Annie,Heart,44.0,43.0,7.0,Heart
+44,1977-01-29,Do It To My Mind,Johnny Bristol,47.0,44.0,10.0,Johnny Bristol
+45,1977-01-29,Carry On Wayward Son,Kansas,55.0,45.0,6.0,Kansas
+46,1977-01-29,Someone To Lay Down Beside Me,Linda Ronstadt,42.0,42.0,9.0,Linda Ronstadt
+47,1977-01-29,The Rubberband Man,The Spinners,30.0,2.0,21.0,The Spinners
+48,1977-01-29,What Can I Say,Boz Scaggs,49.0,42.0,11.0,Boz Scaggs
+49,1977-01-29,Baby Don't You Know,Wild Cherry,59.0,49.0,3.0,Wild Cherry
+50,1977-01-29,Love Me,Yvonne Elliman,34.0,14.0,18.0,Yvonne Elliman
+51,1977-01-29,Muskrat Love,Captain & Tennille,45.0,4.0,19.0,Captain & Tennille
+52,1977-01-29,Spring Affair/Winter Melody,Donna Summer,58.0,52.0,7.0,Donna Summer
+53,1977-01-29,"Do What You Want, Be What You Are",Daryl Hall John Oates,52.0,39.0,14.0,Daryl Hall John Oates
+54,1977-01-29,Drivin' Wheel,Foghat,53.0,34.0,10.0,Foghat
+55,1977-01-29,Open Sesame - Part 1,Kool & The Gang,61.0,55.0,13.0,Kool Featuring The Gang
+56,1977-01-29,Love So Right,Bee Gees,56.0,3.0,20.0,Bee Gees
+57,1977-01-29,Fancy Dancer,Commodores,68.0,57.0,4.0,Commodores
+58,1977-01-29,Say You'll Stay Until Tomorrow,Tom Jones,70.0,58.0,4.0,Tom Jones
+59,1977-01-29,Shake Your Rump To The Funk,The Bar-Kays,31.0,23.0,16.0,The Bar-Kays
+60,1977-01-29,Free,Deniece Williams,62.0,60.0,8.0,Deniece Williams
+61,1977-01-29,Ha Cha Cha (funktion),Brass Construction,73.0,61.0,6.0,Brass Construction
+62,1977-01-29,Long Time,Boston,,,,Boston
+63,1977-01-29,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67.0,63.0,3.0,Rick Dees Featuring His Cast Of Idiots
+64,1977-01-29,This Song,George Harrison,32.0,25.0,11.0,George Harrison
+65,1977-01-29,"Baby, You Look Good To Me Tonight",John Denver,69.0,65.0,6.0,John Denver
+66,1977-01-29,Crackerbox Palace,George Harrison,,,,George Harrison
+67,1977-01-29,Be My Girl,The Dramatics,74.0,67.0,4.0,The Dramatics
+68,1977-01-29,When Love Is New,Arthur Prysock,71.0,68.0,6.0,Arthur Prysock
+69,1977-01-29,C.b. Savage,Rod Hart,72.0,69.0,6.0,Rod Hart
+70,1977-01-29,Happier,Paul Anka,60.0,60.0,7.0,Paul Anka
+71,1977-01-29,Rich Girl,Daryl Hall John Oates,81.0,71.0,2.0,Daryl Hall John Oates
+72,1977-01-29,Sam,Olivia Newton-John,,,,Olivia Newton-John
+73,1977-01-29,I Just Can't Say No To You,Parker McGee,84.0,73.0,2.0,Parker McGee
+74,1977-01-29,Don't Give Up On Us,David Soul,,,,David Soul
+75,1977-01-29,Daddy Cool,Boney M,87.0,75.0,2.0,Boney M
+76,1977-01-29,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,80.0,76.0,2.0,The O'Jays
+77,1977-01-29,Hail! Hail! Rock And Roll!,Starland Vocal Band,79.0,77.0,4.0,Starland Vocal Band
+78,1977-01-29,Shakey Ground,Phoebe Snow,88.0,78.0,2.0,Phoebe Snow
+79,1977-01-29,Feel The Beat (Everybody Disco),Ohio Players,,,,Ohio Players
+80,1977-01-29,I Don't Wanna Lose Your Love/Flowers,The Emotions,82.0,80.0,3.0,The Emotions
+81,1977-01-29,Right Time Of The Night,Jennifer Warnes,,,,Jennifer Warnes
+82,1977-01-29,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",83.0,82.0,2.0,"Barry DeVorzon and Perry Botkin, Jr."
+83,1977-01-29,You Know Like I Know,Ozark Mountain Daredevils,85.0,83.0,2.0,Ozark Mountain Daredevils
+84,1977-01-29,I've Got Love On My Mind,Natalie Cole,,,,Natalie Cole
+85,1977-01-29,Reach,Orleans,,,,Orleans
+86,1977-01-29,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,91.0,86.0,4.0,Wilton Place Street Band
+87,1977-01-29,If Not You,Dr. Hook,89.0,55.0,10.0,Dr. Hook
+88,1977-01-29,Fly By Night/In The Mood,Rush,92.0,88.0,4.0,Rush
+89,1977-01-29,So In To You,Atlanta Rhythm Section,,,,Atlanta Rhythm Section
+90,1977-01-29,Hey Baby,Ringo Starr,,,,Ringo Starr
+91,1977-01-29,Gloria,Enchantment,,,,Enchantment
+92,1977-01-29,Up Your Nose,Gabriel Kaplan,100.0,92.0,2.0,Gabriel Kaplan
+93,1977-01-29,Love Ballad,L.T.D.,78.0,20.0,18.0,L.T.D.
+94,1977-01-29,Theme From King Kong (Pt. I),Love Unlimited Orchestra,99.0,94.0,2.0,Love Unlimited Orchestra
+95,1977-01-29,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,97.0,94.0,6.0,Elvin Bishop Featuring Mickey Thomas
+96,1977-01-29,Spring Rain,Silvetti,96.0,96.0,2.0,Silvetti
+97,1977-01-29,Sorry/That's The Trouble,Grace Jones,98.0,97.0,2.0,Grace Jones
+98,1977-01-29,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,94.0,1.0,25.0,Rick Dees Featuring His Cast Of Idiots
+99,1977-01-29,Turn Loose Of My Leg,Jim Stafford,,,,Jim Stafford
+100,1977-01-29,Love To The World,L.T.D.,,,,L.T.D.
 1,1977-02-05,Torn Between Two Lovers,Mary Macgregor,7.0,1.0,12.0,Mary Macgregor
 2,1977-02-05,Car Wash,Rose Royce,1.0,1.0,16.0,Rose Royce
 3,1977-02-05,Dazz,Brick,3.0,3.0,16.0,Brick
@@ -409,90 +414,91 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 13,1977-02-05,Fly Like An Eagle,Steve Miller,15.0,13.0,8.0,Steve Miller
 14,1977-02-05,Weekend In New England,Barry Manilow,16.0,14.0,11.0,Barry Manilow
 15,1977-02-05,You Make Me Feel Like Dancing,Leo Sayer,4.0,1.0,16.0,Leo Sayer
-18,1977-02-05,Jeans On,David Dundas,18.0,18.0,18.0,David Dundas
-19,1977-02-05,Hard Luck Woman,KISS,20.0,19.0,8.0,KISS
-20,1977-02-05,Dancing Queen,ABBA,26.0,20.0,9.0,ABBA
-21,1977-02-05,Year Of The Cat,Al Stewart,24.0,21.0,9.0,Al Stewart
-22,1977-02-05,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,23.0,22.0,11.0,Donny Featuring Marie Osmond
-23,1977-02-05,Night Moves,Bob Seger,25.0,23.0,9.0,Bob Seger
-24,1977-02-05,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",18.0,1.0,22.0,"Marilyn McCoo Featuring Billy Davis, Jr."
-25,1977-02-05,After The Lovin',Engelbert Humperdinck,19.0,8.0,16.0,Engelbert Humperdinck
-26,1977-02-05,Boogie Child,Bee Gees,38.0,26.0,4.0,Bee Gees
-27,1977-02-05,Don't Leave Me This Way,Thelma Houston,30.0,27.0,8.0,Thelma Houston
-28,1977-02-05,Save It For A Rainy Day,Stephen Bishop,31.0,28.0,9.0,Stephen Bishop
-29,1977-02-05,Go Your Own Way,Fleetwood Mac,32.0,29.0,5.0,Fleetwood Mac
-30,1977-02-05,Saturday Nite,"Earth, Wind & Fire",21.0,21.0,12.0,"Earth, Wind & Fire"
-31,1977-02-05,Tonight's The Night (Gonna Be Alright),Rod Stewart,22.0,1.0,19.0,Rod Stewart
-32,1977-02-05,Stand Tall,Burton Cummings,29.0,10.0,18.0,Burton Cummings
-33,1977-02-05,Living Next Door To Alice,Smokie,36.0,33.0,10.0,Smokie
-34,1977-02-05,You've Got Me Runnin',Gene Cotton,35.0,34.0,10.0,Gene Cotton
-35,1977-02-05,Livin' Thing,Electric Light Orchestra,28.0,13.0,16.0,Electric Light Orchestra
-36,1977-02-05,The Things We Do For Love,10cc,40.0,36.0,5.0,10cc
-37,1977-02-05,Carry On Wayward Son,Kansas,45.0,37.0,7.0,Kansas
-38,1977-02-05,I Like To Do It,KC And The Sunshine Band,39.0,38.0,10.0,KC And The Sunshine Band
-39,1977-02-05,Rich Girl,Daryl Hall John Oates,71.0,39.0,3.0,Daryl Hall John Oates
-40,1977-02-05,Moody Blue/she Thinks I Still Care,Elvis Presley,42.0,40.0,7.0,Elvis Presley
-41,1977-02-05,In The Mood,Henhouse Five Plus Too,41.0,41.0,5.0,Henhouse Five Plus Too
-42,1977-02-05,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,27.0,27.0,14.0,Dr. Buzzard's Original Savannah Band
-43,1977-02-05,Dreamboat Annie,Heart,43.0,43.0,8.0,Heart
-44,1977-02-05,Do It To My Mind,Johnny Bristol,44.0,44.0,11.0,Johnny Bristol
-45,1977-02-05,Long Time,Boston,62.0,45.0,2.0,Boston
-46,1977-02-05,Baby Don't You Know,Wild Cherry,49.0,46.0,4.0,Wild Cherry
-47,1977-02-05,Fancy Dancer,Commodores,57.0,47.0,5.0,Commodores
-48,1977-02-05,Spring Affair/Winter Melody,Donna Summer,52.0,48.0,8.0,Donna Summer
-49,1977-02-05,Say You'll Stay Until Tomorrow,Tom Jones,58.0,49.0,5.0,Tom Jones
-50,1977-02-05,Crackerbox Palace,George Harrison,66.0,50.0,2.0,George Harrison
-51,1977-02-05,Sorry Seems To Be The Hardest Word,Elton John,33.0,6.0,13.0,Elton John
-52,1977-02-05,I Never Cry,Alice Cooper,34.0,12.0,26.0,Alice Cooper
-53,1977-02-05,Someone To Lay Down Beside Me,Linda Ronstadt,46.0,42.0,10.0,Linda Ronstadt
-54,1977-02-05,What Can I Say,Boz Scaggs,48.0,42.0,12.0,Boz Scaggs
-55,1977-02-05,Love So Right,Bee Gees,56.0,3.0,21.0,Bee Gees
-56,1977-02-05,It Keeps You Runnin',The Doobie Brothers,37.0,37.0,13.0,The Doobie Brothers
-57,1977-02-05,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,63.0,57.0,4.0,Rick Dees Featuring His Cast Of Idiots
-58,1977-02-05,Ha Cha Cha (funktion),Brass Construction,61.0,58.0,7.0,Brass Construction
-59,1977-02-05,Free,Deniece Williams,60.0,59.0,9.0,Deniece Williams
-60,1977-02-05,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,39.0,15.0,Daryl Hall John Oates
-61,1977-02-05,Don't Give Up On Us,David Soul,74.0,61.0,2.0,David Soul
-62,1977-02-05,Sam,Olivia Newton-John,72.0,62.0,2.0,Olivia Newton-John
-63,1977-02-05,I Just Can't Say No To You,Parker McGee,73.0,63.0,3.0,Parker McGee
-64,1977-02-05,Be My Girl,The Dramatics,67.0,64.0,5.0,The Dramatics
-65,1977-02-05,Here Come Those Tears Again,Jackson Browne,,,,Jackson Browne
-66,1977-02-05,Daddy Cool,Boney M,75.0,66.0,3.0,Boney M
-67,1977-02-05,"Baby, You Look Good To Me Tonight",John Denver,65.0,65.0,7.0,John Denver
-68,1977-02-05,C.b. Savage,Rod Hart,69.0,68.0,7.0,Rod Hart
-69,1977-02-05,When Love Is New,Arthur Prysock,69.0,69.0,7.0,Arthur Prysock
-70,1977-02-05,Feel The Beat (Everybody Disco),Ohio Players,79.0,70.0,2.0,Ohio Players
-71,1977-02-05,Shakey Ground,Phoebe Snow,78.0,71.0,3.0,Phoebe Snow
-72,1977-02-05,Hail! Hail! Rock And Roll!,Starland Vocal Band,77.0,72.0,5.0,Starland Vocal Band
-73,1977-02-05,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,76.0,73.0,3.0,The O'Jays
-74,1977-02-05,Reach,Orleans,85.0,74.0,2.0,Orleans
-75,1977-02-05,I've Got Love On My Mind,Natalie Cole,84.0,75.0,2.0,Natalie Cole
-76,1977-02-05,Right Time Of The Night,Jennifer Warnes,81.0,76.0,2.0,Jennifer Warnes
-77,1977-02-05,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,86.0,77.0,5.0,Wilton Place Street Band
-78,1977-02-05,So In To You,Atlanta Rhythm Section,89.0,78.0,2.0,Atlanta Rhythm Section
-79,1977-02-05,I Don't Wanna Lose Your Love/Flowers,The Emotions,80.0,79.0,4.0,The Emotions
-80,1977-02-05,You Know Like I Know,Ozark Mountain Daredevils,83.0,80.0,3.0,Ozark Mountain Daredevils
-81,1977-02-05,Hey Baby,Ringo Starr,90.0,81.0,2.0,Ringo Starr
-82,1977-02-05,Gloria,Enchantment,91.0,82.0,2.0,Enchantment
-83,1977-02-05,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",83.0,83.0,3.0,"Barry DeVorzon and Perry Botkin, Jr."
-84,1977-02-05,Kong,Dickie Goodman,,,,Dickie Goodman
-85,1977-02-05,Do Ya,Electric Light Orchestra,,,,Electric Light Orchestra
-86,1977-02-05,Spring Rain,Silvetti,96.0,86.0,3.0,Silvetti
-87,1977-02-05,Here Is Where Your Love Belongs,The Sons Of Champlin,,,,The Sons Of Champlin
-88,1977-02-05,If Not You,Dr. Hook,88.0,55.0,11.0,Dr. Hook
-89,1977-02-05,Look Into Your Heart,Aretha Franklin,,,,Aretha Franklin
-90,1977-02-05,Somethin' 'bout 'cha,Latimore,,,,Latimore
-91,1977-02-05,I'll Always Call Your Name,Little River Band,,,,Little River Band
-92,1977-02-05,Up Your Nose,Gabriel Kaplan,92.0,92.0,3.0,Gabriel Kaplan
-93,1977-02-05,Theme From King Kong (Pt. I),Love Unlimited Orchestra,94.0,93.0,3.0,Love Unlimited Orchestra
-94,1977-02-05,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,95.0,94.0,7.0,Elvin Bishop Featuring Mickey Thomas
-95,1977-02-05,Sorry/That's The Trouble,Grace Jones,97.0,95.0,3.0,Grace Jones
-96,1977-02-05,Dreamin,Loleatta Holloway,,,,Loleatta Holloway
-97,1977-02-05,Love To The World,L.T.D.,100.0,97.0,2.0,L.T.D.
-98,1977-02-05,Muskrat Love,Captain & Tennille,51.0,4.0,20.0,Captain & Tennille
-99,1977-02-05,Turn Loose Of My Leg,Jim Stafford,99.0,99.0,2.0,Jim Stafford
-100,1977-02-05,Ashes And Sand,Johnny Rivers,,,,Johnny Rivers
-101,1977-02-05,Love Me,Yvonne Elliman,50.0,14.0,19.0,Yvonne Elliman
+16,1977-02-05,Somebody To Love,Queen,13.0,13.0,10.0,Queen
+17,1977-02-05,Jeans On,David Dundas,17.0,17.0,18.0,David Dundas
+18,1977-02-05,Hard Luck Woman,KISS,20.0,18.0,8.0,KISS
+19,1977-02-05,Dancing Queen,ABBA,26.0,19.0,9.0,ABBA
+20,1977-02-05,Year Of The Cat,Al Stewart,24.0,20.0,9.0,Al Stewart
+21,1977-02-05,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,23.0,21.0,11.0,Donny Featuring Marie Osmond
+22,1977-02-05,Night Moves,Bob Seger,25.0,22.0,9.0,Bob Seger
+23,1977-02-05,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",18.0,1.0,22.0,"Marilyn McCoo Featuring Billy Davis, Jr."
+24,1977-02-05,After The Lovin',Engelbert Humperdinck,19.0,8.0,16.0,Engelbert Humperdinck
+25,1977-02-05,Boogie Child,Bee Gees,38.0,25.0,4.0,Bee Gees
+26,1977-02-05,Don't Leave Me This Way,Thelma Houston,30.0,26.0,8.0,Thelma Houston
+27,1977-02-05,Save It For A Rainy Day,Stephen Bishop,31.0,27.0,9.0,Stephen Bishop
+28,1977-02-05,Go Your Own Way,Fleetwood Mac,32.0,28.0,5.0,Fleetwood Mac
+29,1977-02-05,Saturday Nite,"Earth, Wind & Fire",21.0,21.0,12.0,"Earth, Wind & Fire"
+30,1977-02-05,Tonight's The Night (Gonna Be Alright),Rod Stewart,22.0,1.0,19.0,Rod Stewart
+31,1977-02-05,Stand Tall,Burton Cummings,29.0,10.0,18.0,Burton Cummings
+32,1977-02-05,Living Next Door To Alice,Smokie,36.0,32.0,10.0,Smokie
+33,1977-02-05,You've Got Me Runnin',Gene Cotton,35.0,33.0,10.0,Gene Cotton
+34,1977-02-05,Livin' Thing,Electric Light Orchestra,28.0,13.0,16.0,Electric Light Orchestra
+35,1977-02-05,The Things We Do For Love,10cc,40.0,35.0,5.0,10cc
+36,1977-02-05,Carry On Wayward Son,Kansas,45.0,36.0,7.0,Kansas
+37,1977-02-05,I Like To Do It,KC And The Sunshine Band,39.0,37.0,10.0,KC And The Sunshine Band
+38,1977-02-05,Rich Girl,Daryl Hall John Oates,71.0,38.0,3.0,Daryl Hall John Oates
+39,1977-02-05,Moody Blue/she Thinks I Still Care,Elvis Presley,42.0,39.0,7.0,Elvis Presley
+40,1977-02-05,In The Mood,Henhouse Five Plus Too,41.0,40.0,5.0,Henhouse Five Plus Too
+41,1977-02-05,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,27.0,27.0,14.0,Dr. Buzzard's Original Savannah Band
+42,1977-02-05,Dreamboat Annie,Heart,43.0,42.0,8.0,Heart
+43,1977-02-05,Do It To My Mind,Johnny Bristol,44.0,43.0,11.0,Johnny Bristol
+44,1977-02-05,Long Time,Boston,62.0,44.0,2.0,Boston
+45,1977-02-05,Baby Don't You Know,Wild Cherry,49.0,45.0,4.0,Wild Cherry
+46,1977-02-05,Fancy Dancer,Commodores,57.0,46.0,5.0,Commodores
+47,1977-02-05,Spring Affair/Winter Melody,Donna Summer,52.0,47.0,8.0,Donna Summer
+48,1977-02-05,Say You'll Stay Until Tomorrow,Tom Jones,58.0,48.0,5.0,Tom Jones
+49,1977-02-05,Crackerbox Palace,George Harrison,66.0,49.0,2.0,George Harrison
+50,1977-02-05,Sorry Seems To Be The Hardest Word,Elton John,33.0,6.0,13.0,Elton John
+51,1977-02-05,I Never Cry,Alice Cooper,34.0,12.0,26.0,Alice Cooper
+52,1977-02-05,Someone To Lay Down Beside Me,Linda Ronstadt,46.0,42.0,10.0,Linda Ronstadt
+53,1977-02-05,What Can I Say,Boz Scaggs,48.0,42.0,12.0,Boz Scaggs
+54,1977-02-05,Love So Right,Bee Gees,56.0,3.0,21.0,Bee Gees
+55,1977-02-05,It Keeps You Runnin',The Doobie Brothers,37.0,37.0,13.0,The Doobie Brothers
+56,1977-02-05,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,63.0,56.0,4.0,Rick Dees Featuring His Cast Of Idiots
+57,1977-02-05,Ha Cha Cha (funktion),Brass Construction,61.0,57.0,7.0,Brass Construction
+58,1977-02-05,Free,Deniece Williams,60.0,58.0,9.0,Deniece Williams
+59,1977-02-05,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,39.0,15.0,Daryl Hall John Oates
+60,1977-02-05,Don't Give Up On Us,David Soul,74.0,60.0,2.0,David Soul
+61,1977-02-05,Sam,Olivia Newton-John,72.0,61.0,2.0,Olivia Newton-John
+62,1977-02-05,I Just Can't Say No To You,Parker McGee,73.0,62.0,3.0,Parker McGee
+63,1977-02-05,Be My Girl,The Dramatics,67.0,63.0,5.0,The Dramatics
+64,1977-02-05,Here Come Those Tears Again,Jackson Browne,,,,Jackson Browne
+65,1977-02-05,Daddy Cool,Boney M,75.0,65.0,3.0,Boney M
+66,1977-02-05,"Baby, You Look Good To Me Tonight",John Denver,65.0,65.0,7.0,John Denver
+67,1977-02-05,C.b. Savage,Rod Hart,69.0,67.0,7.0,Rod Hart
+68,1977-02-05,When Love Is New,Arthur Prysock,68.0,68.0,7.0,Arthur Prysock
+69,1977-02-05,Feel The Beat (Everybody Disco),Ohio Players,79.0,69.0,2.0,Ohio Players
+70,1977-02-05,Shakey Ground,Phoebe Snow,78.0,70.0,3.0,Phoebe Snow
+71,1977-02-05,Hail! Hail! Rock And Roll!,Starland Vocal Band,77.0,71.0,5.0,Starland Vocal Band
+72,1977-02-05,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,76.0,72.0,3.0,The O'Jays
+73,1977-02-05,Reach,Orleans,85.0,73.0,2.0,Orleans
+74,1977-02-05,I've Got Love On My Mind,Natalie Cole,84.0,74.0,2.0,Natalie Cole
+75,1977-02-05,Right Time Of The Night,Jennifer Warnes,81.0,75.0,2.0,Jennifer Warnes
+76,1977-02-05,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,86.0,76.0,5.0,Wilton Place Street Band
+77,1977-02-05,So In To You,Atlanta Rhythm Section,89.0,77.0,2.0,Atlanta Rhythm Section
+78,1977-02-05,I Don't Wanna Lose Your Love/Flowers,The Emotions,80.0,78.0,4.0,The Emotions
+79,1977-02-05,You Know Like I Know,Ozark Mountain Daredevils,83.0,79.0,3.0,Ozark Mountain Daredevils
+80,1977-02-05,Hey Baby,Ringo Starr,90.0,80.0,2.0,Ringo Starr
+81,1977-02-05,Gloria,Enchantment,91.0,81.0,2.0,Enchantment
+82,1977-02-05,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",82.0,82.0,3.0,"Barry DeVorzon and Perry Botkin, Jr."
+83,1977-02-05,Kong,Dickie Goodman,,,,Dickie Goodman
+84,1977-02-05,Do Ya,Electric Light Orchestra,,,,Electric Light Orchestra
+85,1977-02-05,Spring Rain,Silvetti,96.0,85.0,3.0,Silvetti
+86,1977-02-05,Here Is Where Your Love Belongs,The Sons Of Champlin,,,,The Sons Of Champlin
+87,1977-02-05,If Not You,Dr. Hook,87.0,55.0,11.0,Dr. Hook
+88,1977-02-05,Look Into Your Heart,Aretha Franklin,,,,Aretha Franklin
+89,1977-02-05,Somethin' 'bout 'cha,Latimore,,,,Latimore
+90,1977-02-05,I'll Always Call Your Name,Little River Band,,,,Little River Band
+91,1977-02-05,Up Your Nose,Gabriel Kaplan,92.0,91.0,3.0,Gabriel Kaplan
+92,1977-02-05,Theme From King Kong (Pt. I),Love Unlimited Orchestra,94.0,92.0,3.0,Love Unlimited Orchestra
+93,1977-02-05,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,95.0,93.0,7.0,Elvin Bishop Featuring Mickey Thomas
+94,1977-02-05,Sorry/That's The Trouble,Grace Jones,97.0,94.0,3.0,Grace Jones
+95,1977-02-05,Dreamin,Loleatta Holloway,,,,Loleatta Holloway
+96,1977-02-05,Love To The World,L.T.D.,100.0,96.0,2.0,L.T.D.
+97,1977-02-05,Muskrat Love,Captain & Tennille,51.0,4.0,20.0,Captain & Tennille
+98,1977-02-05,Turn Loose Of My Leg,Jim Stafford,99.0,98.0,2.0,Jim Stafford
+99,1977-02-05,Ashes And Sand,Johnny Rivers,,,,Johnny Rivers
+100,1977-02-05,Love Me,Yvonne Elliman,50.0,14.0,19.0,Yvonne Elliman
 1,1977-02-12,Torn Between Two Lovers,Mary Macgregor,1.0,1.0,13.0,Mary Macgregor
 2,1977-02-12,New Kid In Town,Eagles,4.0,2.0,9.0,Eagles
 3,1977-02-12,Blinded By The Light,Manfred Mann's Earth Band,6.0,3.0,13.0,Manfred Mann's Earth Band
@@ -523,75 +529,76 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 28,1977-02-12,Rich Girl,Daryl Hall John Oates,38.0,28.0,4.0,Daryl Hall John Oates
 29,1977-02-12,Living Next Door To Alice,Smokie,32.0,29.0,11.0,Smokie
 30,1977-02-12,Carry On Wayward Son,Kansas,36.0,30.0,8.0,Kansas
-33,1977-02-12,Long Time,Boston,44.0,33.0,3.0,Boston
-34,1977-02-12,After The Lovin',Engelbert Humperdinck,24.0,8.0,17.0,Engelbert Humperdinck
-35,1977-02-12,Saturday Nite,"Earth, Wind & Fire",29.0,21.0,13.0,"Earth, Wind & Fire"
-36,1977-02-12,Tonight's The Night (Gonna Be Alright),Rod Stewart,30.0,1.0,20.0,Rod Stewart
-37,1977-02-12,Stand Tall,Burton Cummings,31.0,10.0,19.0,Burton Cummings
-38,1977-02-12,Moody Blue/she Thinks I Still Care,Elvis Presley,39.0,38.0,8.0,Elvis Presley
-39,1977-02-12,Livin' Thing,Electric Light Orchestra,34.0,13.0,17.0,Electric Light Orchestra
-40,1977-02-12,Crackerbox Palace,George Harrison,49.0,40.0,3.0,George Harrison
-41,1977-02-12,Say You'll Stay Until Tomorrow,Tom Jones,48.0,41.0,6.0,Tom Jones
-42,1977-02-12,In The Mood,Henhouse Five Plus Too,40.0,40.0,6.0,Henhouse Five Plus Too
-43,1977-02-12,Fancy Dancer,Commodores,46.0,43.0,6.0,Commodores
-44,1977-02-12,Baby Don't You Know,Wild Cherry,45.0,44.0,5.0,Wild Cherry
-45,1977-02-12,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,41.0,27.0,15.0,Dr. Buzzard's Original Savannah Band
-46,1977-02-12,Dreamboat Annie,Heart,42.0,42.0,9.0,Heart
-47,1977-02-12,Don't Give Up On Us,David Soul,60.0,47.0,3.0,David Soul
-48,1977-02-12,I Like To Do It,KC And The Sunshine Band,37.0,37.0,11.0,KC And The Sunshine Band
-49,1977-02-12,Here Come Those Tears Again,Jackson Browne,64.0,49.0,2.0,Jackson Browne
-50,1977-02-12,You've Got Me Runnin',Gene Cotton,33.0,33.0,11.0,Gene Cotton
-51,1977-02-12,Sam,Olivia Newton-John,61.0,51.0,3.0,Olivia Newton-John
-52,1977-02-12,I Never Cry,Alice Cooper,52.0,12.0,27.0,Alice Cooper
-53,1977-02-12,I Just Can't Say No To You,Parker McGee,62.0,53.0,4.0,Parker McGee
-54,1977-02-12,Ha Cha Cha (funktion),Brass Construction,57.0,54.0,8.0,Brass Construction
-55,1977-02-12,Free,Deniece Williams,58.0,55.0,10.0,Deniece Williams
-56,1977-02-12,What Can I Say,Boz Scaggs,53.0,42.0,13.0,Boz Scaggs
-57,1977-02-12,Bite Your Lip (Get up and dance!),Elton John,,,,Elton John
-58,1977-02-12,Love So Right,Bee Gees,54.0,3.0,22.0,Bee Gees
-59,1977-02-12,Someone To Lay Down Beside Me,Linda Ronstadt,52.0,42.0,11.0,Linda Ronstadt
-60,1977-02-12,Maybe I'm Amazed,Wings,,,,Wings
-61,1977-02-12,So In To You,Atlanta Rhythm Section,77.0,61.0,3.0,Atlanta Rhythm Section
-62,1977-02-12,Be My Girl,The Dramatics,63.0,62.0,6.0,The Dramatics
-63,1977-02-12,I've Got Love On My Mind,Natalie Cole,74.0,63.0,3.0,Natalie Cole
-64,1977-02-12,Reach,Orleans,73.0,64.0,3.0,Orleans
-65,1977-02-12,When Love Is New,Arthur Prysock,68.0,65.0,8.0,Arthur Prysock
-66,1977-02-12,Daddy Cool,Boney M,66.0,66.0,4.0,Boney M
-67,1977-02-12,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,76.0,67.0,6.0,Wilton Place Street Band
-68,1977-02-12,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,56.0,56.0,5.0,Rick Dees Featuring His Cast Of Idiots
-69,1977-02-12,Feel The Beat (Everybody Disco),Ohio Players,69.0,69.0,3.0,Ohio Players
-70,1977-02-12,Right Time Of The Night,Jennifer Warnes,75.0,70.0,3.0,Jennifer Warnes
-71,1977-02-12,Shakey Ground,Phoebe Snow,71.0,71.0,4.0,Phoebe Snow
-72,1977-02-12,Gloria,Enchantment,81.0,72.0,3.0,Enchantment
-73,1977-02-12,Do Ya,Electric Light Orchestra,84.0,73.0,2.0,Electric Light Orchestra
-74,1977-02-12,Kong,Dickie Goodman,83.0,74.0,2.0,Dickie Goodman
-75,1977-02-12,Hey Baby,Ringo Starr,80.0,75.0,3.0,Ringo Starr
-76,1977-02-12,Spring Rain,Silvetti,85.0,76.0,4.0,Silvetti
-77,1977-02-12,I Don't Wanna Lose Your Love/Flowers,The Emotions,78.0,77.0,5.0,The Emotions
-78,1977-02-12,The First Cut Is The Deepest,Rod Stewart,,,,Rod Stewart
-79,1977-02-12,Somethin' 'bout 'cha,Latimore,89.0,79.0,2.0,Latimore
-80,1977-02-12,Sorry Seems To Be The Hardest Word,Elton John,50.0,6.0,14.0,Elton John
-81,1977-02-12,I'll Always Call Your Name,Little River Band,90.0,81.0,2.0,Little River Band
-82,1977-02-12,Here Is Where Your Love Belongs,The Sons Of Champlin,86.0,82.0,2.0,The Sons Of Champlin
-83,1977-02-12,Theme From King Kong (Pt. I),Love Unlimited Orchestra,92.0,83.0,4.0,Love Unlimited Orchestra
-84,1977-02-12,It Keeps You Runnin',The Doobie Brothers,55.0,37.0,14.0,The Doobie Brothers
-85,1977-02-12,Look Into Your Heart,Aretha Franklin,88.0,85.0,2.0,Aretha Franklin
-86,1977-02-12,Dedication,Bay City Rollers,,,,Bay City Rollers
-87,1977-02-12,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,,,,Rufus Featuring Chaka Khan
-88,1977-02-12,Sorry/That's The Trouble,Grace Jones,94.0,88.0,4.0,Grace Jones
-89,1977-02-12,Spring Affair/Winter Melody,Donna Summer,47.0,47.0,9.0,Donna Summer
-90,1977-02-12,Too Hot To Stop (Pt. 1),The Bar-Kays,,,,The Bar-Kays
-91,1977-02-12,Reaching For The World,Harold Melvin And The Blue Notes,,,,Harold Melvin And The Blue Notes
-92,1977-02-12,Love To The World,L.T.D.,96.0,92.0,3.0,L.T.D.
-93,1977-02-12,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,72.0,72.0,4.0,The O'Jays
-94,1977-02-12,You Know Like I Know,Ozark Mountain Daredevils,79.0,79.0,4.0,Ozark Mountain Daredevils
-95,1977-02-12,Hail! Hail! Rock And Roll!,Starland Vocal Band,71.0,71.0,6.0,Starland Vocal Band
-96,1977-02-12,Dreamin,Loleatta Holloway,96.0,96.0,2.0,Loleatta Holloway
-97,1977-02-12,Southern Nights,Glen Campbell,,,,Glen Campbell
-98,1977-02-12,Ashes And Sand,Johnny Rivers,99.0,98.0,2.0,Johnny Rivers
-99,1977-02-12,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",82.0,82.0,4.0,"Barry DeVorzon and Perry Botkin, Jr."
-100,1977-02-12,My Pearl,Automatic Man,,,,Automatic Man
-101,1977-02-12,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,93.0,93.0,8.0,Elvin Bishop Featuring Mickey Thomas
+31,1977-02-12,Somebody To Love,Queen,16.0,13.0,11.0,Queen
+32,1977-02-12,Long Time,Boston,44.0,32.0,3.0,Boston
+33,1977-02-12,After The Lovin',Engelbert Humperdinck,24.0,8.0,17.0,Engelbert Humperdinck
+34,1977-02-12,Saturday Nite,"Earth, Wind & Fire",29.0,21.0,13.0,"Earth, Wind & Fire"
+35,1977-02-12,Tonight's The Night (Gonna Be Alright),Rod Stewart,30.0,1.0,20.0,Rod Stewart
+36,1977-02-12,Stand Tall,Burton Cummings,31.0,10.0,19.0,Burton Cummings
+37,1977-02-12,Moody Blue/she Thinks I Still Care,Elvis Presley,39.0,37.0,8.0,Elvis Presley
+38,1977-02-12,Livin' Thing,Electric Light Orchestra,34.0,13.0,17.0,Electric Light Orchestra
+39,1977-02-12,Crackerbox Palace,George Harrison,49.0,39.0,3.0,George Harrison
+40,1977-02-12,Say You'll Stay Until Tomorrow,Tom Jones,48.0,40.0,6.0,Tom Jones
+41,1977-02-12,In The Mood,Henhouse Five Plus Too,40.0,40.0,6.0,Henhouse Five Plus Too
+42,1977-02-12,Fancy Dancer,Commodores,46.0,42.0,6.0,Commodores
+43,1977-02-12,Baby Don't You Know,Wild Cherry,45.0,43.0,5.0,Wild Cherry
+44,1977-02-12,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,41.0,27.0,15.0,Dr. Buzzard's Original Savannah Band
+45,1977-02-12,Dreamboat Annie,Heart,42.0,42.0,9.0,Heart
+46,1977-02-12,Don't Give Up On Us,David Soul,60.0,46.0,3.0,David Soul
+47,1977-02-12,I Like To Do It,KC And The Sunshine Band,37.0,37.0,11.0,KC And The Sunshine Band
+48,1977-02-12,Here Come Those Tears Again,Jackson Browne,64.0,48.0,2.0,Jackson Browne
+49,1977-02-12,You've Got Me Runnin',Gene Cotton,33.0,33.0,11.0,Gene Cotton
+50,1977-02-12,Sam,Olivia Newton-John,61.0,50.0,3.0,Olivia Newton-John
+51,1977-02-12,I Never Cry,Alice Cooper,51.0,12.0,27.0,Alice Cooper
+52,1977-02-12,I Just Can't Say No To You,Parker McGee,62.0,52.0,4.0,Parker McGee
+53,1977-02-12,Ha Cha Cha (funktion),Brass Construction,57.0,53.0,8.0,Brass Construction
+54,1977-02-12,Free,Deniece Williams,58.0,54.0,10.0,Deniece Williams
+55,1977-02-12,What Can I Say,Boz Scaggs,53.0,42.0,13.0,Boz Scaggs
+56,1977-02-12,Bite Your Lip (Get up and dance!),Elton John,,,,Elton John
+57,1977-02-12,Love So Right,Bee Gees,54.0,3.0,22.0,Bee Gees
+58,1977-02-12,Someone To Lay Down Beside Me,Linda Ronstadt,52.0,42.0,11.0,Linda Ronstadt
+59,1977-02-12,Maybe I'm Amazed,Wings,,,,Wings
+60,1977-02-12,So In To You,Atlanta Rhythm Section,77.0,60.0,3.0,Atlanta Rhythm Section
+61,1977-02-12,Be My Girl,The Dramatics,63.0,61.0,6.0,The Dramatics
+62,1977-02-12,I've Got Love On My Mind,Natalie Cole,74.0,62.0,3.0,Natalie Cole
+63,1977-02-12,Reach,Orleans,73.0,63.0,3.0,Orleans
+64,1977-02-12,When Love Is New,Arthur Prysock,68.0,64.0,8.0,Arthur Prysock
+65,1977-02-12,Daddy Cool,Boney M,65.0,65.0,4.0,Boney M
+66,1977-02-12,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,76.0,66.0,6.0,Wilton Place Street Band
+67,1977-02-12,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,56.0,56.0,5.0,Rick Dees Featuring His Cast Of Idiots
+68,1977-02-12,Feel The Beat (Everybody Disco),Ohio Players,69.0,68.0,3.0,Ohio Players
+69,1977-02-12,Right Time Of The Night,Jennifer Warnes,75.0,69.0,3.0,Jennifer Warnes
+70,1977-02-12,Shakey Ground,Phoebe Snow,70.0,70.0,4.0,Phoebe Snow
+71,1977-02-12,Gloria,Enchantment,81.0,71.0,3.0,Enchantment
+72,1977-02-12,Do Ya,Electric Light Orchestra,84.0,72.0,2.0,Electric Light Orchestra
+73,1977-02-12,Kong,Dickie Goodman,83.0,73.0,2.0,Dickie Goodman
+74,1977-02-12,Hey Baby,Ringo Starr,80.0,74.0,3.0,Ringo Starr
+75,1977-02-12,Spring Rain,Silvetti,85.0,75.0,4.0,Silvetti
+76,1977-02-12,I Don't Wanna Lose Your Love/Flowers,The Emotions,78.0,76.0,5.0,The Emotions
+77,1977-02-12,The First Cut Is The Deepest,Rod Stewart,,,,Rod Stewart
+78,1977-02-12,Somethin' 'bout 'cha,Latimore,89.0,78.0,2.0,Latimore
+79,1977-02-12,Sorry Seems To Be The Hardest Word,Elton John,50.0,6.0,14.0,Elton John
+80,1977-02-12,I'll Always Call Your Name,Little River Band,90.0,80.0,2.0,Little River Band
+81,1977-02-12,Here Is Where Your Love Belongs,The Sons Of Champlin,86.0,81.0,2.0,The Sons Of Champlin
+82,1977-02-12,Theme From King Kong (Pt. I),Love Unlimited Orchestra,92.0,82.0,4.0,Love Unlimited Orchestra
+83,1977-02-12,It Keeps You Runnin',The Doobie Brothers,55.0,37.0,14.0,The Doobie Brothers
+84,1977-02-12,Look Into Your Heart,Aretha Franklin,88.0,84.0,2.0,Aretha Franklin
+85,1977-02-12,Dedication,Bay City Rollers,,,,Bay City Rollers
+86,1977-02-12,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,,,,Rufus Featuring Chaka Khan
+87,1977-02-12,Sorry/That's The Trouble,Grace Jones,94.0,87.0,4.0,Grace Jones
+88,1977-02-12,Spring Affair/Winter Melody,Donna Summer,47.0,47.0,9.0,Donna Summer
+89,1977-02-12,Too Hot To Stop (Pt. 1),The Bar-Kays,,,,The Bar-Kays
+90,1977-02-12,Reaching For The World,Harold Melvin And The Blue Notes,,,,Harold Melvin And The Blue Notes
+91,1977-02-12,Love To The World,L.T.D.,96.0,91.0,3.0,L.T.D.
+92,1977-02-12,"Darlin' Darlin' Baby (Sweet, Tender, Love)",The O'Jays,72.0,72.0,4.0,The O'Jays
+93,1977-02-12,You Know Like I Know,Ozark Mountain Daredevils,79.0,79.0,4.0,Ozark Mountain Daredevils
+94,1977-02-12,Hail! Hail! Rock And Roll!,Starland Vocal Band,71.0,71.0,6.0,Starland Vocal Band
+95,1977-02-12,Dreamin,Loleatta Holloway,95.0,95.0,2.0,Loleatta Holloway
+96,1977-02-12,Southern Nights,Glen Campbell,,,,Glen Campbell
+97,1977-02-12,Ashes And Sand,Johnny Rivers,99.0,97.0,2.0,Johnny Rivers
+98,1977-02-12,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",82.0,82.0,4.0,"Barry DeVorzon and Perry Botkin, Jr."
+99,1977-02-12,My Pearl,Automatic Man,,,,Automatic Man
+100,1977-02-12,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,93.0,93.0,8.0,Elvin Bishop Featuring Mickey Thomas
 1,1977-02-19,Blinded By The Light,Manfred Mann's Earth Band,3.0,1.0,14.0,Manfred Mann's Earth Band
 2,1977-02-19,New Kid In Town,Eagles,2.0,2.0,10.0,Eagles
 3,1977-02-19,Torn Between Two Lovers,Mary Macgregor,1.0,1.0,14.0,Mary Macgregor
@@ -623,74 +630,75 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 29,1977-02-19,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",26.0,1.0,24.0,"Marilyn McCoo Featuring Billy Davis, Jr."
 30,1977-02-19,Jeans On,David Dundas,23.0,17.0,20.0,David Dundas
 31,1977-02-19,Don't Give Up On Us,David Soul,46.0,31.0,4.0,David Soul
-34,1977-02-19,After The Lovin',Engelbert Humperdinck,34.0,8.0,18.0,Engelbert Humperdinck
-35,1977-02-19,Crackerbox Palace,George Harrison,39.0,35.0,4.0,George Harrison
-36,1977-02-19,Moody Blue/she Thinks I Still Care,Elvis Presley,37.0,36.0,9.0,Elvis Presley
-37,1977-02-19,Say You'll Stay Until Tomorrow,Tom Jones,40.0,37.0,7.0,Tom Jones
-38,1977-02-19,Maybe I'm Amazed,Wings,59.0,38.0,2.0,Wings
-39,1977-02-19,Here Come Those Tears Again,Jackson Browne,48.0,39.0,3.0,Jackson Browne
-40,1977-02-19,Fancy Dancer,Commodores,42.0,40.0,7.0,Commodores
-41,1977-02-19,Sam,Olivia Newton-John,50.0,41.0,4.0,Olivia Newton-John
-42,1977-02-19,Bite Your Lip (Get up and dance!),Elton John,56.0,42.0,2.0,Elton John
-43,1977-02-19,I Just Can't Say No To You,Parker McGee,52.0,43.0,5.0,Parker McGee
-44,1977-02-19,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,44.0,27.0,16.0,Dr. Buzzard's Original Savannah Band
-45,1977-02-19,Saturday Nite,"Earth, Wind & Fire",34.0,21.0,14.0,"Earth, Wind & Fire"
-46,1977-02-19,Tonight's The Night (Gonna Be Alright),Rod Stewart,35.0,1.0,21.0,Rod Stewart
-47,1977-02-19,The First Cut Is The Deepest,Rod Stewart,77.0,47.0,2.0,Rod Stewart
-48,1977-02-19,So In To You,Atlanta Rhythm Section,60.0,48.0,4.0,Atlanta Rhythm Section
-49,1977-02-19,Stand Tall,Burton Cummings,36.0,10.0,20.0,Burton Cummings
-50,1977-02-19,Free,Deniece Williams,54.0,50.0,11.0,Deniece Williams
-51,1977-02-19,I've Got Love On My Mind,Natalie Cole,62.0,51.0,4.0,Natalie Cole
-52,1977-02-19,Ha Cha Cha (funktion),Brass Construction,53.0,52.0,9.0,Brass Construction
-53,1977-02-19,In The Mood,Henhouse Five Plus Too,41.0,40.0,7.0,Henhouse Five Plus Too
-54,1977-02-19,Livin' Thing,Electric Light Orchestra,38.0,13.0,18.0,Electric Light Orchestra
-55,1977-02-19,Right Time Of The Night,Jennifer Warnes,69.0,55.0,4.0,Jennifer Warnes
-56,1977-02-19,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,66.0,56.0,7.0,Wilton Place Street Band
-57,1977-02-19,Reach,Orleans,63.0,57.0,4.0,Orleans
-58,1977-02-19,Do Ya,Electric Light Orchestra,72.0,58.0,3.0,Electric Light Orchestra
-59,1977-02-19,Baby Don't You Know,Wild Cherry,43.0,43.0,6.0,Wild Cherry
-60,1977-02-19,Be My Girl,The Dramatics,61.0,60.0,7.0,The Dramatics
-61,1977-02-19,Gloria,Enchantment,71.0,61.0,4.0,Enchantment
-62,1977-02-19,Feel The Beat (Everybody Disco),Ohio Players,68.0,62.0,4.0,Ohio Players
-63,1977-02-19,Kong,Dickie Goodman,73.0,63.0,3.0,Dickie Goodman
-64,1977-02-19,Love So Right,Bee Gees,57.0,3.0,23.0,Bee Gees
-65,1977-02-19,Spring Rain,Silvetti,75.0,65.0,5.0,Silvetti
-66,1977-02-19,Daddy Cool,Boney M,66.0,66.0,5.0,Boney M
-67,1977-02-19,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,86.0,67.0,2.0,Rufus Featuring Chaka Khan
-68,1977-02-19,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,21.0,21.0,13.0,Donny Featuring Marie Osmond
-69,1977-02-19,Somethin' 'bout 'cha,Latimore,78.0,69.0,3.0,Latimore
-70,1977-02-19,Dreamboat Annie,Heart,45.0,42.0,10.0,Heart
-71,1977-02-19,I'll Always Call Your Name,Little River Band,80.0,71.0,3.0,Little River Band
-72,1977-02-19,When Love Is New,Arthur Prysock,64.0,64.0,9.0,Arthur Prysock
-73,1977-02-19,All Strung Out On You,John Travolta,,,,John Travolta
-74,1977-02-19,Dedication,Bay City Rollers,85.0,74.0,2.0,Bay City Rollers
-75,1977-02-19,I Don't Wanna Lose Your Love/Flowers,The Emotions,76.0,75.0,6.0,The Emotions
-76,1977-02-19,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,,,,Undisputed Truth
-77,1977-02-19,Theme From King Kong (Pt. I),Love Unlimited Orchestra,82.0,77.0,5.0,Love Unlimited Orchestra
-78,1977-02-19,Spring Affair/Winter Melody,Donna Summer,88.0,47.0,10.0,Donna Summer
-79,1977-02-19,Sorry/That's The Trouble,Grace Jones,87.0,79.0,5.0,Grace Jones
-80,1977-02-19,Too Hot To Stop (Pt. 1),The Bar-Kays,89.0,80.0,2.0,The Bar-Kays
-81,1977-02-19,Reaching For The World,Harold Melvin And The Blue Notes,90.0,81.0,2.0,Harold Melvin And The Blue Notes
-82,1977-02-19,Here Is Where Your Love Belongs,The Sons Of Champlin,82.0,82.0,3.0,The Sons Of Champlin
-83,1977-02-19,Look Into Your Heart,Aretha Franklin,84.0,83.0,3.0,Aretha Franklin
-84,1977-02-19,Race Among The Ruins,Gordon Lightfoot,,,,Gordon Lightfoot
-85,1977-02-19,I'm Scared,Burton Cummings,,,,Burton Cummings
-86,1977-02-19,Tryin' To Love Two,William Bell,,,,William Bell
-87,1977-02-19,Southern Nights,Glen Campbell,96.0,87.0,2.0,Glen Campbell
-88,1977-02-19,Welcome To Our World (Of Merry Music),Mass Production,,,,Mass Production
-89,1977-02-19,"N.y., You Got Me Dancing",Andrea True Connection,,,,Andrea True Connection
-90,1977-02-19,I Like To Do It,KC And The Sunshine Band,47.0,37.0,12.0,KC And The Sunshine Band
-91,1977-02-19,Angel In Your Arms,Hot,,,,Hot
-92,1977-02-19,Dancin',Crown Heights Affair,,,,Crown Heights Affair
-93,1977-02-19,You Know Like I Know,Ozark Mountain Daredevils,93.0,79.0,5.0,Ozark Mountain Daredevils
-94,1977-02-19,Dreamin,Loleatta Holloway,95.0,94.0,3.0,Loleatta Holloway
-95,1977-02-19,Couldn't Get It Right,Climax Blues Band,,,,Climax Blues Band
-96,1977-02-19,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,,,,Smokey Robinson
-97,1977-02-19,Ashes And Sand,Johnny Rivers,97.0,97.0,3.0,Johnny Rivers
-98,1977-02-19,My Pearl,Automatic Man,99.0,98.0,2.0,Automatic Man
-99,1977-02-19,What Can I Say,Boz Scaggs,55.0,42.0,14.0,Boz Scaggs
-100,1977-02-19,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",98.0,82.0,5.0,"Barry DeVorzon and Perry Botkin, Jr."
-101,1977-02-19,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67.0,56.0,6.0,Rick Dees Featuring His Cast Of Idiots
+32,1977-02-19,Somebody To Love,Queen,31.0,13.0,12.0,Queen
+33,1977-02-19,After The Lovin',Engelbert Humperdinck,33.0,8.0,18.0,Engelbert Humperdinck
+34,1977-02-19,Crackerbox Palace,George Harrison,39.0,34.0,4.0,George Harrison
+35,1977-02-19,Moody Blue/she Thinks I Still Care,Elvis Presley,37.0,35.0,9.0,Elvis Presley
+36,1977-02-19,Say You'll Stay Until Tomorrow,Tom Jones,40.0,36.0,7.0,Tom Jones
+37,1977-02-19,Maybe I'm Amazed,Wings,59.0,37.0,2.0,Wings
+38,1977-02-19,Here Come Those Tears Again,Jackson Browne,48.0,38.0,3.0,Jackson Browne
+39,1977-02-19,Fancy Dancer,Commodores,42.0,39.0,7.0,Commodores
+40,1977-02-19,Sam,Olivia Newton-John,50.0,40.0,4.0,Olivia Newton-John
+41,1977-02-19,Bite Your Lip (Get up and dance!),Elton John,56.0,41.0,2.0,Elton John
+42,1977-02-19,I Just Can't Say No To You,Parker McGee,52.0,42.0,5.0,Parker McGee
+43,1977-02-19,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,44.0,27.0,16.0,Dr. Buzzard's Original Savannah Band
+44,1977-02-19,Saturday Nite,"Earth, Wind & Fire",34.0,21.0,14.0,"Earth, Wind & Fire"
+45,1977-02-19,Tonight's The Night (Gonna Be Alright),Rod Stewart,35.0,1.0,21.0,Rod Stewart
+46,1977-02-19,The First Cut Is The Deepest,Rod Stewart,77.0,46.0,2.0,Rod Stewart
+47,1977-02-19,So In To You,Atlanta Rhythm Section,60.0,47.0,4.0,Atlanta Rhythm Section
+48,1977-02-19,Stand Tall,Burton Cummings,36.0,10.0,20.0,Burton Cummings
+49,1977-02-19,Free,Deniece Williams,54.0,49.0,11.0,Deniece Williams
+50,1977-02-19,I've Got Love On My Mind,Natalie Cole,62.0,50.0,4.0,Natalie Cole
+51,1977-02-19,Ha Cha Cha (funktion),Brass Construction,53.0,51.0,9.0,Brass Construction
+52,1977-02-19,In The Mood,Henhouse Five Plus Too,41.0,40.0,7.0,Henhouse Five Plus Too
+53,1977-02-19,Livin' Thing,Electric Light Orchestra,38.0,13.0,18.0,Electric Light Orchestra
+54,1977-02-19,Right Time Of The Night,Jennifer Warnes,69.0,54.0,4.0,Jennifer Warnes
+55,1977-02-19,Disco Lucy (i Love Lucy Theme),Wilton Place Street Band,66.0,55.0,7.0,Wilton Place Street Band
+56,1977-02-19,Reach,Orleans,63.0,56.0,4.0,Orleans
+57,1977-02-19,Do Ya,Electric Light Orchestra,72.0,57.0,3.0,Electric Light Orchestra
+58,1977-02-19,Baby Don't You Know,Wild Cherry,43.0,43.0,6.0,Wild Cherry
+59,1977-02-19,Be My Girl,The Dramatics,61.0,59.0,7.0,The Dramatics
+60,1977-02-19,Gloria,Enchantment,71.0,60.0,4.0,Enchantment
+61,1977-02-19,Feel The Beat (Everybody Disco),Ohio Players,68.0,61.0,4.0,Ohio Players
+62,1977-02-19,Kong,Dickie Goodman,73.0,62.0,3.0,Dickie Goodman
+63,1977-02-19,Love So Right,Bee Gees,57.0,3.0,23.0,Bee Gees
+64,1977-02-19,Spring Rain,Silvetti,75.0,64.0,5.0,Silvetti
+65,1977-02-19,Daddy Cool,Boney M,65.0,65.0,5.0,Boney M
+66,1977-02-19,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,86.0,66.0,2.0,Rufus Featuring Chaka Khan
+67,1977-02-19,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,21.0,21.0,13.0,Donny Featuring Marie Osmond
+68,1977-02-19,Somethin' 'bout 'cha,Latimore,78.0,68.0,3.0,Latimore
+69,1977-02-19,Dreamboat Annie,Heart,45.0,42.0,10.0,Heart
+70,1977-02-19,I'll Always Call Your Name,Little River Band,80.0,70.0,3.0,Little River Band
+71,1977-02-19,When Love Is New,Arthur Prysock,64.0,64.0,9.0,Arthur Prysock
+72,1977-02-19,All Strung Out On You,John Travolta,,,,John Travolta
+73,1977-02-19,Dedication,Bay City Rollers,85.0,73.0,2.0,Bay City Rollers
+74,1977-02-19,I Don't Wanna Lose Your Love/Flowers,The Emotions,76.0,74.0,6.0,The Emotions
+75,1977-02-19,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,,,,Undisputed Truth
+76,1977-02-19,Theme From King Kong (Pt. I),Love Unlimited Orchestra,82.0,76.0,5.0,Love Unlimited Orchestra
+77,1977-02-19,Spring Affair/Winter Melody,Donna Summer,88.0,47.0,10.0,Donna Summer
+78,1977-02-19,Sorry/That's The Trouble,Grace Jones,87.0,78.0,5.0,Grace Jones
+79,1977-02-19,Too Hot To Stop (Pt. 1),The Bar-Kays,89.0,79.0,2.0,The Bar-Kays
+80,1977-02-19,Reaching For The World,Harold Melvin And The Blue Notes,90.0,80.0,2.0,Harold Melvin And The Blue Notes
+81,1977-02-19,Here Is Where Your Love Belongs,The Sons Of Champlin,81.0,81.0,3.0,The Sons Of Champlin
+82,1977-02-19,Look Into Your Heart,Aretha Franklin,84.0,82.0,3.0,Aretha Franklin
+83,1977-02-19,Race Among The Ruins,Gordon Lightfoot,,,,Gordon Lightfoot
+84,1977-02-19,I'm Scared,Burton Cummings,,,,Burton Cummings
+85,1977-02-19,Tryin' To Love Two,William Bell,,,,William Bell
+86,1977-02-19,Southern Nights,Glen Campbell,96.0,86.0,2.0,Glen Campbell
+87,1977-02-19,Welcome To Our World (Of Merry Music),Mass Production,,,,Mass Production
+88,1977-02-19,"N.y., You Got Me Dancing",Andrea True Connection,,,,Andrea True Connection
+89,1977-02-19,I Like To Do It,KC And The Sunshine Band,47.0,37.0,12.0,KC And The Sunshine Band
+90,1977-02-19,Angel In Your Arms,Hot,,,,Hot
+91,1977-02-19,Dancin',Crown Heights Affair,,,,Crown Heights Affair
+92,1977-02-19,You Know Like I Know,Ozark Mountain Daredevils,93.0,79.0,5.0,Ozark Mountain Daredevils
+93,1977-02-19,Dreamin,Loleatta Holloway,95.0,93.0,3.0,Loleatta Holloway
+94,1977-02-19,Couldn't Get It Right,Climax Blues Band,,,,Climax Blues Band
+95,1977-02-19,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,,,,Smokey Robinson
+96,1977-02-19,Ashes And Sand,Johnny Rivers,97.0,96.0,3.0,Johnny Rivers
+97,1977-02-19,My Pearl,Automatic Man,99.0,97.0,2.0,Automatic Man
+98,1977-02-19,What Can I Say,Boz Scaggs,55.0,42.0,14.0,Boz Scaggs
+99,1977-02-19,Bless The Beasts And Children,"Barry DeVorzon and Perry Botkin, Jr.",98.0,82.0,5.0,"Barry DeVorzon and Perry Botkin, Jr."
+100,1977-02-19,Dis-Gorilla (Part 1),Rick Dees & His Cast Of Idiots,67.0,56.0,6.0,Rick Dees Featuring His Cast Of Idiots
 1,1977-02-26,New Kid In Town,Eagles,2.0,1.0,11.0,Eagles
 2,1977-02-26,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,4.0,2.0,12.0,Barbra Streisand
 3,1977-02-26,Blinded By The Light,Manfred Mann's Earth Band,1.0,1.0,15.0,Manfred Mann's Earth Band
@@ -739,57 +747,58 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 46,1977-02-26,Do Ya,Electric Light Orchestra,57.0,46.0,4.0,Electric Light Orchestra
 47,1977-02-26,After The Lovin',Engelbert Humperdinck,33.0,8.0,19.0,Engelbert Humperdinck
 48,1977-02-26,Jeans On,David Dundas,30.0,17.0,21.0,David Dundas
-51,1977-02-26,Gloria,Enchantment,60.0,51.0,5.0,Enchantment
-52,1977-02-26,Ha Cha Cha (funktion),Brass Construction,52.0,52.0,10.0,Brass Construction
-53,1977-02-26,Kong,Dickie Goodman,62.0,53.0,4.0,Dickie Goodman
-54,1977-02-26,Reach,Orleans,56.0,54.0,5.0,Orleans
-55,1977-02-26,Spring Rain,Silvetti,64.0,55.0,6.0,Silvetti
-56,1977-02-26,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,66.0,56.0,3.0,Rufus Featuring Chaka Khan
-57,1977-02-26,Fancy Dancer,Commodores,39.0,39.0,8.0,Commodores
-58,1977-02-26,Somethin' 'bout 'cha,Latimore,68.0,58.0,4.0,Latimore
-59,1977-02-26,Saturday Nite,"Earth, Wind & Fire",44.0,21.0,15.0,"Earth, Wind & Fire"
-60,1977-02-26,Be My Girl,The Dramatics,60.0,60.0,8.0,The Dramatics
-61,1977-02-26,Tonight's The Night (Gonna Be Alright),Rod Stewart,45.0,1.0,22.0,Rod Stewart
-62,1977-02-26,Stand Tall,Burton Cummings,48.0,10.0,21.0,Burton Cummings
-63,1977-02-26,All Strung Out On You,John Travolta,72.0,63.0,2.0,John Travolta
-64,1977-02-26,Baby Don't You Know,Wild Cherry,58.0,43.0,7.0,Wild Cherry
-65,1977-02-26,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,75.0,65.0,2.0,Undisputed Truth
-66,1977-02-26,Southern Nights,Glen Campbell,86.0,66.0,3.0,Glen Campbell
-67,1977-02-26,Spring Affair/Winter Melody,Donna Summer,77.0,47.0,11.0,Donna Summer
-68,1977-02-26,I'll Always Call Your Name,Little River Band,70.0,68.0,4.0,Little River Band
-69,1977-02-26,Theme From King Kong (Pt. I),Love Unlimited Orchestra,76.0,69.0,6.0,Love Unlimited Orchestra
-70,1977-02-26,Dedication,Bay City Rollers,73.0,70.0,3.0,Bay City Rollers
-71,1977-02-26,Race Among The Ruins,Gordon Lightfoot,83.0,71.0,2.0,Gordon Lightfoot
-72,1977-02-26,Sorry/That's The Trouble,Grace Jones,78.0,72.0,6.0,Grace Jones
-73,1977-02-26,Hotel California,Eagles,,,,Eagles
-74,1977-02-26,I'm Scared,Burton Cummings,84.0,74.0,2.0,Burton Cummings
-75,1977-02-26,Reaching For The World,Harold Melvin And The Blue Notes,80.0,75.0,3.0,Harold Melvin And The Blue Notes
-76,1977-02-26,Tryin' To Love Two,William Bell,85.0,76.0,2.0,William Bell
-77,1977-02-26,Too Hot To Stop (Pt. 1),The Bar-Kays,79.0,77.0,3.0,The Bar-Kays
-78,1977-02-26,Welcome To Our World (Of Merry Music),Mass Production,87.0,78.0,2.0,Mass Production
-79,1977-02-26,"N.y., You Got Me Dancing",Andrea True Connection,88.0,79.0,2.0,Andrea True Connection
-80,1977-02-26,Love In 'C' Minor,The Heart And Soul Orchestra,,,,The Heart And Soul Orchestra
-81,1977-02-26,Here Is Where Your Love Belongs,The Sons Of Champlin,81.0,81.0,4.0,The Sons Of Champlin
-82,1977-02-26,When I Need You,Leo Sayer,,,,Leo Sayer
-83,1977-02-26,Look Into Your Heart,Aretha Franklin,83.0,83.0,4.0,Aretha Franklin
-84,1977-02-26,Couldn't Get It Right,Climax Blues Band,94.0,84.0,2.0,Climax Blues Band
-85,1977-02-26,I'm Your Boogie Man,KC And The Sunshine Band,,,,KC And The Sunshine Band
-86,1977-02-26,Love In 'C' Minor - Pt. I,Cerrone,,,,Cerrone
-87,1977-02-26,Dancin',Crown Heights Affair,91.0,87.0,2.0,Crown Heights Affair
-88,1977-02-26,Angel In Your Arms,Hot,90.0,88.0,2.0,Hot
-89,1977-02-26,Dreamin,Loleatta Holloway,93.0,89.0,4.0,Loleatta Holloway
-90,1977-02-26,I Wanna Get Next To You,Rose Royce,,,,Rose Royce
-91,1977-02-26,Magical Mystery Tour,Ambrosia,,,,Ambrosia
-92,1977-02-26,You Know Like I Know,Ozark Mountain Daredevils,92.0,79.0,6.0,Ozark Mountain Daredevils
-93,1977-02-26,Bodyheat (Part 1),James Brown,,,,James Brown
-94,1977-02-26,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,95.0,94.0,2.0,Smokey Robinson
-95,1977-02-26,Love Is Better In The A.M. (Part 1),Johnnie Taylor,,,,Johnnie Taylor
-96,1977-02-26,Sailing Ships,Mesa,,,,Mesa
-97,1977-02-26,Ashes And Sand,Johnny Rivers,97.0,97.0,4.0,Johnny Rivers
-98,1977-02-26,Feel The Beat (Everybody Disco),Ohio Players,61.0,61.0,5.0,Ohio Players
-99,1977-02-26,Theme From Rocky (gonna Fly Now),Rhythm Heritage,,,,Rhythm Heritage
-100,1977-02-26,Ritzy Mambo,The Salsoul Orchestra,,,,The Salsoul Orchestra
-101,1977-02-26,Dance Little Lady Dance,Danny White,,,,Danny White
+49,1977-02-26,Somebody To Love,Queen,32.0,13.0,13.0,Queen
+50,1977-02-26,Gloria,Enchantment,60.0,50.0,5.0,Enchantment
+51,1977-02-26,Ha Cha Cha (funktion),Brass Construction,51.0,51.0,10.0,Brass Construction
+52,1977-02-26,Kong,Dickie Goodman,62.0,52.0,4.0,Dickie Goodman
+53,1977-02-26,Reach,Orleans,56.0,53.0,5.0,Orleans
+54,1977-02-26,Spring Rain,Silvetti,64.0,54.0,6.0,Silvetti
+55,1977-02-26,At Midnight (My Love Will Lift You Up),Rufus Featuring Chaka Khan,66.0,55.0,3.0,Rufus Featuring Chaka Khan
+56,1977-02-26,Fancy Dancer,Commodores,39.0,39.0,8.0,Commodores
+57,1977-02-26,Somethin' 'bout 'cha,Latimore,68.0,57.0,4.0,Latimore
+58,1977-02-26,Saturday Nite,"Earth, Wind & Fire",44.0,21.0,15.0,"Earth, Wind & Fire"
+59,1977-02-26,Be My Girl,The Dramatics,59.0,59.0,8.0,The Dramatics
+60,1977-02-26,Tonight's The Night (Gonna Be Alright),Rod Stewart,45.0,1.0,22.0,Rod Stewart
+61,1977-02-26,Stand Tall,Burton Cummings,48.0,10.0,21.0,Burton Cummings
+62,1977-02-26,All Strung Out On You,John Travolta,72.0,62.0,2.0,John Travolta
+63,1977-02-26,Baby Don't You Know,Wild Cherry,58.0,43.0,7.0,Wild Cherry
+64,1977-02-26,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,75.0,64.0,2.0,Undisputed Truth
+65,1977-02-26,Southern Nights,Glen Campbell,86.0,65.0,3.0,Glen Campbell
+66,1977-02-26,Spring Affair/Winter Melody,Donna Summer,77.0,47.0,11.0,Donna Summer
+67,1977-02-26,I'll Always Call Your Name,Little River Band,70.0,67.0,4.0,Little River Band
+68,1977-02-26,Theme From King Kong (Pt. I),Love Unlimited Orchestra,76.0,68.0,6.0,Love Unlimited Orchestra
+69,1977-02-26,Dedication,Bay City Rollers,73.0,69.0,3.0,Bay City Rollers
+70,1977-02-26,Race Among The Ruins,Gordon Lightfoot,83.0,70.0,2.0,Gordon Lightfoot
+71,1977-02-26,Sorry/That's The Trouble,Grace Jones,78.0,71.0,6.0,Grace Jones
+72,1977-02-26,Hotel California,Eagles,,,,Eagles
+73,1977-02-26,I'm Scared,Burton Cummings,84.0,73.0,2.0,Burton Cummings
+74,1977-02-26,Reaching For The World,Harold Melvin And The Blue Notes,80.0,74.0,3.0,Harold Melvin And The Blue Notes
+75,1977-02-26,Tryin' To Love Two,William Bell,85.0,75.0,2.0,William Bell
+76,1977-02-26,Too Hot To Stop (Pt. 1),The Bar-Kays,79.0,76.0,3.0,The Bar-Kays
+77,1977-02-26,Welcome To Our World (Of Merry Music),Mass Production,87.0,77.0,2.0,Mass Production
+78,1977-02-26,"N.y., You Got Me Dancing",Andrea True Connection,88.0,78.0,2.0,Andrea True Connection
+79,1977-02-26,Love In 'C' Minor,The Heart And Soul Orchestra,,,,The Heart And Soul Orchestra
+80,1977-02-26,Here Is Where Your Love Belongs,The Sons Of Champlin,81.0,80.0,4.0,The Sons Of Champlin
+81,1977-02-26,When I Need You,Leo Sayer,,,,Leo Sayer
+82,1977-02-26,Look Into Your Heart,Aretha Franklin,82.0,82.0,4.0,Aretha Franklin
+83,1977-02-26,Couldn't Get It Right,Climax Blues Band,94.0,83.0,2.0,Climax Blues Band
+84,1977-02-26,I'm Your Boogie Man,KC And The Sunshine Band,,,,KC And The Sunshine Band
+85,1977-02-26,Love In 'C' Minor - Pt. I,Cerrone,,,,Cerrone
+86,1977-02-26,Dancin',Crown Heights Affair,91.0,86.0,2.0,Crown Heights Affair
+87,1977-02-26,Angel In Your Arms,Hot,90.0,87.0,2.0,Hot
+88,1977-02-26,Dreamin,Loleatta Holloway,93.0,88.0,4.0,Loleatta Holloway
+89,1977-02-26,I Wanna Get Next To You,Rose Royce,,,,Rose Royce
+90,1977-02-26,Magical Mystery Tour,Ambrosia,,,,Ambrosia
+91,1977-02-26,You Know Like I Know,Ozark Mountain Daredevils,92.0,79.0,6.0,Ozark Mountain Daredevils
+92,1977-02-26,Bodyheat (Part 1),James Brown,,,,James Brown
+93,1977-02-26,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,95.0,93.0,2.0,Smokey Robinson
+94,1977-02-26,Love Is Better In The A.M. (Part 1),Johnnie Taylor,,,,Johnnie Taylor
+95,1977-02-26,Sailing Ships,Mesa,,,,Mesa
+96,1977-02-26,Ashes And Sand,Johnny Rivers,96.0,96.0,4.0,Johnny Rivers
+97,1977-02-26,Feel The Beat (Everybody Disco),Ohio Players,61.0,61.0,5.0,Ohio Players
+98,1977-02-26,Theme From Rocky (gonna Fly Now),Rhythm Heritage,,,,Rhythm Heritage
+99,1977-02-26,Ritzy Mambo,The Salsoul Orchestra,,,,The Salsoul Orchestra
+100,1977-02-26,Dance Little Lady Dance,Danny White,,,,Danny White
 1,1977-03-05,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,2.0,1.0,13.0,Barbra Streisand
 2,1977-03-05,New Kid In Town,Eagles,1.0,1.0,12.0,Eagles
 3,1977-03-05,Fly Like An Eagle,Steve Miller,4.0,3.0,12.0,Steve Miller
@@ -848,47 +857,48 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 56,1977-03-05,Spring Affair/Winter Melody,Donna Summer,66.0,47.0,12.0,Donna Summer
 57,1977-03-05,Be My Girl,The Dramatics,59.0,57.0,9.0,The Dramatics
 58,1977-03-05,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",45.0,1.0,26.0,"Marilyn McCoo Featuring Billy Davis, Jr."
-61,1977-03-05,Tonight's The Night (Gonna Be Alright),Rod Stewart,61.0,1.0,23.0,Rod Stewart
-62,1977-03-05,Ha Cha Cha (funktion),Brass Construction,51.0,51.0,11.0,Brass Construction
-63,1977-03-05,I'll Always Call Your Name,Little River Band,67.0,63.0,5.0,Little River Band
-64,1977-03-05,I'm Scared,Burton Cummings,73.0,64.0,3.0,Burton Cummings
-65,1977-03-05,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,65.0,65.0,3.0,Undisputed Truth
-66,1977-03-05,Race Among The Ruins,Gordon Lightfoot,70.0,66.0,3.0,Gordon Lightfoot
-67,1977-03-05,"N.y., You Got Me Dancing",Andrea True Connection,78.0,67.0,3.0,Andrea True Connection
-68,1977-03-05,Dedication,Bay City Rollers,69.0,68.0,4.0,Bay City Rollers
-69,1977-03-05,Theme From King Kong (Pt. I),Love Unlimited Orchestra,69.0,69.0,7.0,Love Unlimited Orchestra
-70,1977-03-05,Love In 'C' Minor,The Heart And Soul Orchestra,79.0,70.0,2.0,The Heart And Soul Orchestra
-71,1977-03-05,When I Need You,Leo Sayer,81.0,71.0,2.0,Leo Sayer
-72,1977-03-05,Welcome To Our World (Of Merry Music),Mass Production,77.0,72.0,3.0,Mass Production
-73,1977-03-05,I'm Your Boogie Man,KC And The Sunshine Band,84.0,73.0,2.0,KC And The Sunshine Band
-74,1977-03-05,Couldn't Get It Right,Climax Blues Band,83.0,74.0,3.0,Climax Blues Band
-75,1977-03-05,Too Hot To Stop (Pt. 1),The Bar-Kays,76.0,75.0,4.0,The Bar-Kays
-76,1977-03-05,Love In 'C' Minor - Pt. I,Cerrone,85.0,76.0,2.0,Cerrone
-77,1977-03-05,Reaching For The World,Harold Melvin And The Blue Notes,74.0,74.0,4.0,Harold Melvin And The Blue Notes
-78,1977-03-05,Sorry/That's The Trouble,Grace Jones,71.0,71.0,7.0,Grace Jones
-79,1977-03-05,Magical Mystery Tour,Ambrosia,90.0,79.0,2.0,Ambrosia
-80,1977-03-05,I Wanna Get Next To You,Rose Royce,89.0,80.0,2.0,Rose Royce
-81,1977-03-05,Angel In Your Arms,Hot,87.0,81.0,3.0,Hot
-82,1977-03-05,Phantom Writer,Gary Wright,,,,Gary Wright
-83,1977-03-05,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,93.0,83.0,3.0,Smokey Robinson
-84,1977-03-05,Dreamin,Loleatta Holloway,88.0,84.0,5.0,Loleatta Holloway
-85,1977-03-05,Dancin',Crown Heights Affair,86.0,85.0,3.0,Crown Heights Affair
-86,1977-03-05,Here Is Where Your Love Belongs,The Sons Of Champlin,80.0,80.0,5.0,The Sons Of Champlin
-87,1977-03-05,You Know Like I Know,Ozark Mountain Daredevils,91.0,79.0,7.0,Ozark Mountain Daredevils
-88,1977-03-05,"""Roots"" Medley",Quincy Jones,,,,Quincy Jones
-89,1977-03-05,Sometimes,Facts Of Life,,,,Facts Of Life
-90,1977-03-05,Sailing Ships,Mesa,95.0,90.0,2.0,Mesa
-91,1977-03-05,Disco Inferno,The Trammps,,,,The Trammps
-92,1977-03-05,Bodyheat (Part 1),James Brown,92.0,92.0,2.0,James Brown
-93,1977-03-05,Romeo,Mr. Big,,,,Mr. Big
-94,1977-03-05,Love Is Better In The A.M. (Part 1),Johnnie Taylor,94.0,94.0,2.0,Johnnie Taylor
-95,1977-03-05,Fire Sign,Cory,,,,Cory
-96,1977-03-05,I Think We're Alone Now,The Rubinoos,,,,The Rubinoos
-97,1977-03-05,Theme From Rocky (gonna Fly Now),Rhythm Heritage,98.0,97.0,2.0,Rhythm Heritage
-98,1977-03-05,Try It On,Exile,,,,Exile
-99,1977-03-05,Fancy Dancer,Commodores,56.0,39.0,9.0,Commodores
-100,1977-03-05,It Ain't Easy Comin' Down,Charlene,,,,Charlene
-101,1977-03-05,Dance Little Lady Dance,Danny White,101.0,101.0,2.0,Danny White
+59,1977-03-05,Somebody To Love,Queen,49.0,13.0,14.0,Queen
+60,1977-03-05,Tonight's The Night (Gonna Be Alright),Rod Stewart,60.0,1.0,23.0,Rod Stewart
+61,1977-03-05,Ha Cha Cha (funktion),Brass Construction,51.0,51.0,11.0,Brass Construction
+62,1977-03-05,I'll Always Call Your Name,Little River Band,67.0,62.0,5.0,Little River Band
+63,1977-03-05,I'm Scared,Burton Cummings,73.0,63.0,3.0,Burton Cummings
+64,1977-03-05,You + Me = Love/Let's Go Down To The Disco,Undisputed Truth,64.0,64.0,3.0,Undisputed Truth
+65,1977-03-05,Race Among The Ruins,Gordon Lightfoot,70.0,65.0,3.0,Gordon Lightfoot
+66,1977-03-05,"N.y., You Got Me Dancing",Andrea True Connection,78.0,66.0,3.0,Andrea True Connection
+67,1977-03-05,Dedication,Bay City Rollers,69.0,67.0,4.0,Bay City Rollers
+68,1977-03-05,Theme From King Kong (Pt. I),Love Unlimited Orchestra,68.0,68.0,7.0,Love Unlimited Orchestra
+69,1977-03-05,Love In 'C' Minor,The Heart And Soul Orchestra,79.0,69.0,2.0,The Heart And Soul Orchestra
+70,1977-03-05,When I Need You,Leo Sayer,81.0,70.0,2.0,Leo Sayer
+71,1977-03-05,Welcome To Our World (Of Merry Music),Mass Production,77.0,71.0,3.0,Mass Production
+72,1977-03-05,I'm Your Boogie Man,KC And The Sunshine Band,84.0,72.0,2.0,KC And The Sunshine Band
+73,1977-03-05,Couldn't Get It Right,Climax Blues Band,83.0,73.0,3.0,Climax Blues Band
+74,1977-03-05,Too Hot To Stop (Pt. 1),The Bar-Kays,76.0,74.0,4.0,The Bar-Kays
+75,1977-03-05,Love In 'C' Minor - Pt. I,Cerrone,85.0,75.0,2.0,Cerrone
+76,1977-03-05,Reaching For The World,Harold Melvin And The Blue Notes,74.0,74.0,4.0,Harold Melvin And The Blue Notes
+77,1977-03-05,Sorry/That's The Trouble,Grace Jones,71.0,71.0,7.0,Grace Jones
+78,1977-03-05,Magical Mystery Tour,Ambrosia,90.0,78.0,2.0,Ambrosia
+79,1977-03-05,I Wanna Get Next To You,Rose Royce,89.0,79.0,2.0,Rose Royce
+80,1977-03-05,Angel In Your Arms,Hot,87.0,80.0,3.0,Hot
+81,1977-03-05,Phantom Writer,Gary Wright,,,,Gary Wright
+82,1977-03-05,There Will Come A Day (I'm Gonna Happen To You),Smokey Robinson,93.0,82.0,3.0,Smokey Robinson
+83,1977-03-05,Dreamin,Loleatta Holloway,88.0,83.0,5.0,Loleatta Holloway
+84,1977-03-05,Dancin',Crown Heights Affair,86.0,84.0,3.0,Crown Heights Affair
+85,1977-03-05,Here Is Where Your Love Belongs,The Sons Of Champlin,80.0,80.0,5.0,The Sons Of Champlin
+86,1977-03-05,You Know Like I Know,Ozark Mountain Daredevils,91.0,79.0,7.0,Ozark Mountain Daredevils
+87,1977-03-05,"""Roots"" Medley",Quincy Jones,,,,Quincy Jones
+88,1977-03-05,Sometimes,Facts Of Life,,,,Facts Of Life
+89,1977-03-05,Sailing Ships,Mesa,95.0,89.0,2.0,Mesa
+90,1977-03-05,Disco Inferno,The Trammps,,,,The Trammps
+91,1977-03-05,Bodyheat (Part 1),James Brown,92.0,91.0,2.0,James Brown
+92,1977-03-05,Romeo,Mr. Big,,,,Mr. Big
+93,1977-03-05,Love Is Better In The A.M. (Part 1),Johnnie Taylor,94.0,93.0,2.0,Johnnie Taylor
+94,1977-03-05,Fire Sign,Cory,,,,Cory
+95,1977-03-05,I Think We're Alone Now,The Rubinoos,,,,The Rubinoos
+96,1977-03-05,Theme From Rocky (gonna Fly Now),Rhythm Heritage,98.0,96.0,2.0,Rhythm Heritage
+97,1977-03-05,Try It On,Exile,,,,Exile
+98,1977-03-05,Fancy Dancer,Commodores,56.0,39.0,9.0,Commodores
+99,1977-03-05,It Ain't Easy Comin' Down,Charlene,,,,Charlene
+100,1977-03-05,Dance Little Lady Dance,Danny White,100.0,100.0,2.0,Danny White
 1,1977-03-12,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,1.0,1.0,14.0,Barbra Streisand
 2,1977-03-12,Fly Like An Eagle,Steve Miller,3.0,2.0,13.0,Steve Miller
 3,1977-03-12,I Like Dreamin',Kenny Nolan,4.0,3.0,19.0,Kenny Nolan
@@ -3154,9 +3164,9 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 63,1977-08-13,Hurry Sundown,Outlaws,73.0,63.0,3.0,Outlaws
 64,1977-08-13,I Feel Love,Donna Summer,86.0,64.0,2.0,Donna Summer
 65,1977-08-13,Down The Hall,The 4 Seasons,69.0,65.0,5.0,The 4 Seasons
-66,1977-08-13,See You When I Git There,Lou Rawls,70.0,66.0,4.0,Lou Rawls
-67,1977-08-13,O-H-I-O,Ohio Players,76.0,67.0,4.0,Ohio Players
-68,1977-08-13,Baby Don't Change Your Mind,Gladys Knight And The Pips,68.0,52.0,10.0,Gladys Knight And The Pips
+66,1977-08-13,O-H-I-O,Ohio Players,76.0,66.0,4.0,Ohio Players
+67,1977-08-13,Baby Don't Change Your Mind,Gladys Knight And The Pips,67.0,52.0,10.0,Gladys Knight And The Pips
+68,1977-08-13,See You When I Git There,Lou Rawls,70.0,68.0,4.0,Lou Rawls
 69,1977-08-13,Daytime Friends,Kenny Rogers,82.0,69.0,2.0,Kenny Rogers
 70,1977-08-13,Cat Scratch Fever,Ted Nugent,,,,Ted Nugent
 71,1977-08-13,Feels Like The First Time,Foreigner,62.0,4.0,21.0,Foreigner
@@ -3254,6 +3264,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 63,1977-08-20,Ariel,Dean Friedman,56.0,26.0,19.0,Dean Friedman
 64,1977-08-20,I'm Dreaming,Jennifer Warnes,75.0,64.0,4.0,Jennifer Warnes
 65,1977-08-20,(Remember The Days Of The) Old Schoolyard,Cat Stevens,57.0,33.0,9.0,Cat Stevens
+66,1977-08-20,See You When I Git There,Lou Rawls,68.0,66.0,5.0,Lou Rawls
+67,1977-08-20,Baby Don't Change Your Mind,Gladys Knight And The Pips,67.0,52.0,11.0,Gladys Knight And The Pips
 68,1977-08-20,Help Is On Its Way,Little River Band,73.0,68.0,3.0,Little River Band
 69,1977-08-20,Jet Airliner,The Steve Miller Band,58.0,8.0,17.0,The Steve Miller Band
 70,1977-08-20,I Believe You,Dorothy Moore,81.0,70.0,3.0,Dorothy Moore

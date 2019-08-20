@@ -456,8 +456,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 55,1978-02-04,You Can't Turn Me Off (In The Middle Of Turning Me On),High Inergy,35.0,12.0,21.0,High Inergy
 56,1978-02-04,Blue Bayou,Linda Ronstadt,41.0,3.0,22.0,Linda Ronstadt
 57,1978-02-04,Point Of Know Return,Kansas,49.0,28.0,13.0,Kansas
-58,1978-02-04,Shout It Out Loud,KISS,69.0,31.0,13.0,KISS
-59,1978-02-04,Sweet Music Man,Kenny Rogers,44.0,44.0,8.0,Kenny Rogers
+58,1978-02-04,Sweet Music Man,Kenny Rogers,44.0,44.0,8.0,Kenny Rogers
+59,1978-02-04,Shout It Out Loud,KISS,69.0,31.0,13.0,KISS
 60,1978-02-04,Lady Love,Lou Rawls,71.0,60.0,3.0,Lou Rawls
 61,1978-02-04,Take Me To The Kaptin,Prism,65.0,61.0,5.0,Prism
 62,1978-02-04,Crazy On You,Heart,64.0,35.0,18.0,Heart
@@ -2016,8 +2016,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 15,1978-05-27,Love Is Like Oxygen,Sweet,16.0,15.0,15.0,Sweet
 16,1978-05-27,Night Fever,Bee Gees,10.0,1.0,17.0,Bee Gees
 17,1978-05-27,Movin' Out (Anthony's Song),Billy Joel,18.0,17.0,11.0,Billy Joel
-18,1978-05-27,It's A Heartache,Bonnie Tyler,20.0,18.0,10.0,Bonnie Tyler
-19,1978-05-27,Baker Street,Gerry Rafferty,26.0,19.0,6.0,Gerry Rafferty
+18,1978-05-27,Baker Street,Gerry Rafferty,26.0,18.0,6.0,Gerry Rafferty
+19,1978-05-27,It's A Heartache,Bonnie Tyler,20.0,19.0,10.0,Bonnie Tyler
 20,1978-05-27,You Belong To Me,Carly Simon,23.0,20.0,7.0,Carly Simon
 21,1978-05-27,Can't Smile Without You,Barry Manilow,14.0,3.0,17.0,Barry Manilow
 22,1978-05-27,Two Out Of Three Ain't Bad,Meat Loaf,27.0,22.0,11.0,Meat Loaf
@@ -4441,14 +4441,16 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 40,1978-11-11,Like A Sunday In Salem (The Amos & Andy Song),Gene Cotton,48.0,40.0,7.0,Gene Cotton
 41,1978-11-11,This Is Love,Paul Anka,46.0,41.0,6.0,Paul Anka
 42,1978-11-11,Wavelength,Van Morrison,45.0,42.0,9.0,Van Morrison
-45,1978-11-11,Run For Home,Lindisfarne,51.0,45.0,7.0,Lindisfarne
-46,1978-11-11,On The Shelf,Donny & Marie Osmond,52.0,46.0,6.0,Donny Featuring Marie Osmond
-47,1978-11-11,Dreadlock Holiday,10cc,49.0,47.0,7.0,10cc
-48,1978-11-11,There'll Never Be,Switch,55.0,48.0,6.0,Switch
-49,1978-11-11,Prisoner Of Your Love,Player,27.0,27.0,10.0,Player
-50,1978-11-11,Promises,Eric Clapton And His Band,59.0,50.0,5.0,Eric Clapton And His Band
-51,1978-11-11,New York Groove,Ace Frehley,60.0,51.0,5.0,Ace Frehley
-52,1978-11-11,Forever Autumn,Justin Hayward,57.0,52.0,6.0,Justin Hayward
+43,1978-11-11,I'm Every Woman,Chaka Khan,56.0,43.0,6.0,Chaka Khan
+44,1978-11-11,Run For Home,Lindisfarne,51.0,44.0,7.0,Lindisfarne
+45,1978-11-11,On The Shelf,Donny & Marie Osmond,52.0,45.0,6.0,Donny Featuring Marie Osmond
+46,1978-11-11,Dreadlock Holiday,10cc,49.0,46.0,7.0,10cc
+47,1978-11-11,There'll Never Be,Switch,55.0,47.0,6.0,Switch
+48,1978-11-11,Prisoner Of Your Love,Player,27.0,27.0,10.0,Player
+49,1978-11-11,Promises,Eric Clapton And His Band,59.0,49.0,5.0,Eric Clapton And His Band
+50,1978-11-11,New York Groove,Ace Frehley,60.0,50.0,5.0,Ace Frehley
+51,1978-11-11,Forever Autumn,Justin Hayward,57.0,51.0,6.0,Justin Hayward
+52,1978-11-11,Instant Replay,Dan Hartman,62.0,52.0,5.0,Dan Hartman
 53,1978-11-11,Fun Time,Joe Cocker,64.0,53.0,4.0,Joe Cocker
 54,1978-11-11,Le Freak,Chic,70.0,54.0,3.0,Chic
 55,1978-11-11,Hot Summer Nights,Walter Egan,61.0,55.0,5.0,Walter Egan
@@ -4809,6 +4811,8 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 10,1978-12-09,(Our Love) Don't Throw It All Away,Andy Gibb,11.0,10.0,9.0,Andy Gibb
 11,1978-12-09,Strange Way,Firefall,12.0,11.0,11.0,Firefall
 12,1978-12-09,Too Much Heaven,Bee Gees,16.0,12.0,4.0,Bee Gees
+13,1978-12-09,Hold The Line,Toto,18.0,13.0,10.0,Toto
+14,1978-12-09,Alive Again,Chicago,14.0,14.0,8.0,Chicago
 15,1978-12-09,Y.M.C.A.,Village People,15.0,15.0,8.0,Village People
 16,1978-12-09,Straight On,Heart,17.0,16.0,12.0,Heart
 17,1978-12-09,Double Vision,Foreigner,6.0,2.0,12.0,Foreigner

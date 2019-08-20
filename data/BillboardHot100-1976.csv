@@ -2141,9 +2141,9 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 40,1976-05-29,Still Crazy After All These Years,Paul Simon,45.0,40.0,5.0,Paul Simon
 41,1976-05-29,Get Closer,Seals & Crofts (Featuring Carolyn Willis),48.0,41.0,7.0,Seals Featuring Crofts Featuring Carolyn Willis
 42,1976-05-29,Take The Money And Run,Steve Miller,56.0,42.0,4.0,Steve Miller
-43,1976-05-29,Happy Music,The Blackbyrds,19.0,19.0,13.0,The Blackbyrds
-44,1976-05-29,Dance Wit Me,Rufus Featuring Chaka Khan,53.0,44.0,5.0,Rufus Featuring Chaka Khan
-45,1976-05-29,Afternoon Delight,Starland Vocal Band,66.0,45.0,4.0,Starland Vocal Band
+43,1976-05-29,Dance Wit Me,Rufus Featuring Chaka Khan,53.0,43.0,5.0,Rufus Featuring Chaka Khan
+44,1976-05-29,Afternoon Delight,Starland Vocal Band,66.0,44.0,4.0,Starland Vocal Band
+45,1976-05-29,Happy Music,The Blackbyrds,19.0,19.0,13.0,The Blackbyrds
 46,1976-05-29,That's Where The Happy People Go,The Trammps,57.0,46.0,8.0,The Trammps
 47,1976-05-29,Don't Pull Your Love/then You Can Tell Me Goodbye,Glen Campbell,47.0,27.0,10.0,Glen Campbell
 48,1976-05-29,Let Your Love Flow,Bellamy Brothers,23.0,1.0,18.0,Bellamy Brothers
@@ -2737,25 +2737,27 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 36,1976-07-10,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,40.0,36.0,7.0,Walter Murphy Featuring The Big Apple Band
 37,1976-07-10,You'll Never Find Another Love Like Mine,Lou Rawls,42.0,37.0,6.0,Lou Rawls
 38,1976-07-10,Silver Star,The 4 Seasons,39.0,38.0,7.0,The 4 Seasons
-41,1976-07-10,I'd Really Love To See You Tonight,England Dan & John Ford Coley,50.0,41.0,5.0,England Dan Featuring John Ford Coley
-42,1976-07-10,Framed,Cheech & Chong,42.0,42.0,5.0,Cheech & Chong
-43,1976-07-10,Livin' Ain't Livin',Firefall,46.0,43.0,6.0,Firefall
-44,1976-07-10,Let 'em In,Wings,59.0,44.0,2.0,Wings
-45,1976-07-10,This Masquerade,George Benson,54.0,45.0,5.0,George Benson
-46,1976-07-10,Another Rainy Day In New York City,Chicago,55.0,46.0,3.0,Chicago
-47,1976-07-10,Don't Go Breaking My Heart,Elton John & Kiki Dee,66.0,47.0,2.0,Elton John Featuring Kiki Dee
-48,1976-07-10,C'mon Marianne,Donny Osmond,48.0,48.0,6.0,Donny Osmond
-49,1976-07-10,"Baby, I Love Your Way",Peter Frampton,56.0,49.0,3.0,Peter Frampton
-50,1976-07-10,Takin' It To The Streets,The Doobie Brothers,23.0,13.0,13.0,The Doobie Brothers
-51,1976-07-10,I'm Gonna Let My Heart Do The Walking,The Supremes,60.0,51.0,7.0,The Supremes
-52,1976-07-10,You Should Be Dancing,Bee Gees,67.0,52.0,2.0,Bee Gees
-53,1976-07-10,Everything's Coming Up Love,David Ruffin,53.0,53.0,5.0,David Ruffin
-54,1976-07-10,Hot Stuff/fool To Cry,The Rolling Stones,54.0,54.0,3.0,The Rolling Stones
-55,1976-07-10,Steppin' Out,Neil Sedaka,57.0,55.0,3.0,Neil Sedaka
-56,1976-07-10,I Want You,Marvin Gaye,22.0,15.0,12.0,Marvin Gaye
-57,1976-07-10,It Keeps You Runnin',Carly Simon,58.0,57.0,4.0,Carly Simon
-58,1976-07-10,Fool For The City,Foghat,45.0,45.0,6.0,Foghat
-59,1976-07-10,Heaven Must Be Missing An Angel (part 1),Tavares,44.0,44.0,6.0,Tavares
+39,1976-07-10,Heaven Must Be Missing An Angel (part 1),Tavares,44.0,44.0,6.0,Tavares
+40,1976-07-10,I'd Really Love To See You Tonight,England Dan & John Ford Coley,50.0,40.0,5.0,England Dan Featuring John Ford Coley
+41,1976-07-10,Framed,Cheech & Chong,41.0,41.0,5.0,Cheech & Chong
+42,1976-07-10,Livin' Ain't Livin',Firefall,46.0,42.0,6.0,Firefall
+43,1976-07-10,Let 'em In,Wings,59.0,43.0,2.0,Wings
+44,1976-07-10,This Masquerade,George Benson,54.0,44.0,5.0,George Benson
+45,1976-07-10,Another Rainy Day In New York City,Chicago,55.0,45.0,3.0,Chicago
+46,1976-07-10,Don't Go Breaking My Heart,Elton John & Kiki Dee,66.0,46.0,2.0,Elton John Featuring Kiki Dee
+47,1976-07-10,C'mon Marianne,Donny Osmond,48.0,47.0,6.0,Donny Osmond
+48,1976-07-10,"Baby, I Love Your Way",Peter Frampton,56.0,48.0,3.0,Peter Frampton
+49,1976-07-10,Takin' It To The Streets,The Doobie Brothers,23.0,13.0,13.0,The Doobie Brothers
+50,1976-07-10,I'm Gonna Let My Heart Do The Walking,The Supremes,60.0,50.0,7.0,The Supremes
+51,1976-07-10,You Should Be Dancing,Bee Gees,67.0,51.0,2.0,Bee Gees
+52,1976-07-10,Everything's Coming Up Love,David Ruffin,52.0,52.0,5.0,David Ruffin
+53,1976-07-10,Hot Stuff/fool To Cry,The Rolling Stones,53.0,53.0,3.0,The Rolling Stones
+54,1976-07-10,Steppin' Out,Neil Sedaka,57.0,54.0,3.0,Neil Sedaka
+55,1976-07-10,I Want You,Marvin Gaye,22.0,15.0,12.0,Marvin Gaye
+56,1976-07-10,It Keeps You Runnin',Carly Simon,58.0,56.0,4.0,Carly Simon
+57,1976-07-10,Fool For The City,Foghat,45.0,45.0,6.0,Foghat
+58,1976-07-10,A Little Bit More,Dr. Hook,62.0,58.0,4.0,Dr. Hook
+59,1976-07-10,Foxy Lady,Crown Heights Affair,63.0,59.0,8.0,Crown Heights Affair
 60,1976-07-10,That's Where The Happy People Go,The Trammps,29.0,27.0,14.0,The Trammps
 61,1976-07-10,Who'd She Coo?,Ohio Players,71.0,61.0,3.0,Ohio Players
 62,1976-07-10,"Roots, Rock, Reggae",Bob Marley And The Wailers,73.0,62.0,2.0,Bob Marley And The Wailers
@@ -4741,61 +4743,62 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 42,1976-11-27,Shake Your Rump To The Funk,The Bar-Kays,52.0,42.0,7.0,The Bar-Kays
 43,1976-11-27,Give It Up (turn It Loose),Tyrone Davis,39.0,38.0,10.0,Tyrone Davis
 44,1976-11-27,Lowdown,Boz Scaggs,41.0,3.0,22.0,Boz Scaggs
-47,1976-11-27,Don't Take Away The Music,Tavares,57.0,47.0,5.0,Tavares
-48,1976-11-27,Lost Without Your Love,Bread,,,,Bread
-49,1976-11-27,Saturday Nite,"Earth, Wind & Fire",78.0,49.0,2.0,"Earth, Wind & Fire"
-50,1976-11-27,I Kinda Miss You,The Manhattans,54.0,50.0,5.0,The Manhattans
-51,1976-11-27,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,51.0,5.0,Daryl Hall John Oates
-52,1976-11-27,Did You Boogie (With Your Baby),Flash Cadillac And The Continental Kids,52.0,29.0,14.0,Flash Cadillac And The Continental Kids
-53,1976-11-27,Car Wash,Rose Royce,65.0,53.0,6.0,Rose Royce
-54,1976-11-27,I Don't Wanna Lose Your Love,The Emotions,60.0,54.0,4.0,The Emotions
-55,1976-11-27,Enjoy Yourself,The Jacksons,66.0,55.0,3.0,The Jacksons
-56,1976-11-27,I Like Dreamin',Kenny Nolan,67.0,56.0,4.0,Kenny Nolan
-57,1976-11-27,Every Face Tells A Story,Olivia Newton-John,62.0,57.0,4.0,Olivia Newton-John
-58,1976-11-27,Down To Love Town,The Originals,61.0,58.0,6.0,The Originals
-59,1976-11-27,Let's Be Young Tonight,Jermaine Jackson,59.0,59.0,11.0,Jermaine Jackson
-60,1976-11-27,Mademoiselle,Styx,69.0,60.0,3.0,Styx
-61,1976-11-27,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,76.0,61.0,4.0,Dr. Buzzard's Original Savannah Band
-62,1976-11-27,Keep Me Cryin',Al Green,71.0,62.0,6.0,Al Green
-63,1976-11-27,Flight '76,The Walter Murphy Band,73.0,63.0,3.0,The Walter Murphy Band
-64,1976-11-27,This Song,George Harrison,82.0,64.0,2.0,George Harrison
-65,1976-11-27,Baby Boy,Mary Kay Place As Loretta Haggers,68.0,65.0,5.0,Mary Kay Place As Loretta Haggers
-66,1976-11-27,Walk This Way,Aerosmith,90.0,66.0,2.0,Aerosmith
-67,1976-11-27,Lets Get It Together,El Coco,70.0,67.0,6.0,El Coco
-68,1976-11-27,It Keeps You Runnin',The Doobie Brothers,77.0,68.0,3.0,The Doobie Brothers
-69,1976-11-27,You Ought To Be Havin' Fun,Tower Of Power,72.0,69.0,7.0,Tower Of Power
-70,1976-11-27,"Ob-la-di, Ob-la-da",The Beatles,79.0,70.0,2.0,The Beatles
-71,1976-11-27,Help Wanted,The Hudson Brothers,74.0,71.0,4.0,The Hudson Brothers
-72,1976-11-27,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,,,,Donny Featuring Marie Osmond
-73,1976-11-27,What Can I Say,Boz Scaggs,85.0,73.0,2.0,Boz Scaggs
-74,1976-11-27,Catfish,Four Tops,75.0,74.0,5.0,Four Tops
-75,1976-11-27,"Baby, I'll Give It To You",Seals & Crofts,84.0,75.0,2.0,Seals & Crofts
-76,1976-11-27,Drivin' Wheel,Foghat,,,,Foghat
-77,1976-11-27,Torn Between Two Lovers,Mary Macgregor,87.0,77.0,2.0,Mary Macgregor
-78,1976-11-27,Do It To My Mind,Johnny Bristol,,,,Johnny Bristol
-79,1976-11-27,Weekend In New England,Barry Manilow,,,,Barry Manilow
-80,1976-11-27,Heart On My Sleeve,Gallagher And Lyle,,80.0,6.0,Gallagher And Lyle
-81,1976-11-27,Devil Woman,Cliff Richard,81.0,6.0,22.0,Cliff Richard
-82,1976-11-27,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",83.0,82.0,5.0,Hamilton Featuring Joe Frank Featuring Dennison
-83,1976-11-27,"Baby, Baby I Love You",Terry Cashman,,,,Terry Cashman
-84,1976-11-27,Blinded By The Light,Manfred Mann's Earth Band,95.0,84.0,2.0,Manfred Mann's Earth Band
-85,1976-11-27,Peter Gunn,Deodato,86.0,85.0,6.0,Deodato
-86,1976-11-27,If Not You,Dr. Hook,,,,Dr. Hook
-87,1976-11-27,Sherry,The Keane Brothers,88.0,87.0,3.0,The Keane Brothers
-88,1976-11-27,"9,999,999 Tears",Dickey Lee,93.0,88.0,2.0,Dickey Lee
-89,1976-11-27,Slow Dancing,Funky Kings,91.0,89.0,4.0,Funky Kings
-90,1976-11-27,Open Sesame - Part 1,Kool & The Gang,90.0,90.0,4.0,Kool Featuring The Gang
-91,1976-11-27,Sixteen Reasons,Laverne & Shirley,,,,Laverne & Shirley
-92,1976-11-27,Dog Eat Dog,Ted Nugent,,,,Ted Nugent
-93,1976-11-27,Makes You Blind,The Glitter Band,93.0,93.0,4.0,The Glitter Band
-94,1976-11-27,A Dose Of Rock 'N' Roll,Ringo Starr,38.0,26.0,9.0,Ringo Starr
-95,1976-11-27,A Little Bit More,Dr. Hook,95.0,11.0,24.0,Dr. Hook
-96,1976-11-27,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,44.0,1.0,21.0,KC And The Sunshine Band
-97,1976-11-27,So Sad The Song,Gladys Knight And The Pips,49.0,47.0,8.0,Gladys Knight And The Pips
-98,1976-11-27,Still The One,Orleans,64.0,5.0,18.0,Orleans
-99,1976-11-27,Mr. Melody,Natalie Cole,59.0,49.0,12.0,Natalie Cole
-100,1976-11-27,Laid Back Love,Major Harris,,,,Major Harris
-101,1976-11-27,I Can't Live A Dream,The Osmonds,47.0,46.0,9.0,The Osmonds
+45,1976-11-27,Somebody To Love,Queen,,45.0,1.0,Queen
+46,1976-11-27,Don't Take Away The Music,Tavares,57.0,46.0,5.0,Tavares
+47,1976-11-27,Lost Without Your Love,Bread,,,,Bread
+48,1976-11-27,Saturday Nite,"Earth, Wind & Fire",78.0,48.0,2.0,"Earth, Wind & Fire"
+49,1976-11-27,I Kinda Miss You,The Manhattans,54.0,49.0,5.0,The Manhattans
+50,1976-11-27,"Do What You Want, Be What You Are",Daryl Hall John Oates,53.0,50.0,5.0,Daryl Hall John Oates
+51,1976-11-27,Did You Boogie (With Your Baby),Flash Cadillac And The Continental Kids,51.0,29.0,14.0,Flash Cadillac And The Continental Kids
+52,1976-11-27,Car Wash,Rose Royce,65.0,52.0,6.0,Rose Royce
+53,1976-11-27,I Don't Wanna Lose Your Love,The Emotions,60.0,53.0,4.0,The Emotions
+54,1976-11-27,Enjoy Yourself,The Jacksons,66.0,54.0,3.0,The Jacksons
+55,1976-11-27,I Like Dreamin',Kenny Nolan,67.0,55.0,4.0,Kenny Nolan
+56,1976-11-27,Every Face Tells A Story,Olivia Newton-John,62.0,56.0,4.0,Olivia Newton-John
+57,1976-11-27,Down To Love Town,The Originals,61.0,57.0,6.0,The Originals
+58,1976-11-27,Let's Be Young Tonight,Jermaine Jackson,58.0,58.0,11.0,Jermaine Jackson
+59,1976-11-27,Mademoiselle,Styx,69.0,59.0,3.0,Styx
+60,1976-11-27,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,76.0,60.0,4.0,Dr. Buzzard's Original Savannah Band
+61,1976-11-27,Keep Me Cryin',Al Green,71.0,61.0,6.0,Al Green
+62,1976-11-27,Flight '76,The Walter Murphy Band,73.0,62.0,3.0,The Walter Murphy Band
+63,1976-11-27,This Song,George Harrison,82.0,63.0,2.0,George Harrison
+64,1976-11-27,Baby Boy,Mary Kay Place As Loretta Haggers,68.0,64.0,5.0,Mary Kay Place As Loretta Haggers
+65,1976-11-27,Walk This Way,Aerosmith,90.0,65.0,2.0,Aerosmith
+66,1976-11-27,Lets Get It Together,El Coco,70.0,66.0,6.0,El Coco
+67,1976-11-27,It Keeps You Runnin',The Doobie Brothers,77.0,67.0,3.0,The Doobie Brothers
+68,1976-11-27,You Ought To Be Havin' Fun,Tower Of Power,72.0,68.0,7.0,Tower Of Power
+69,1976-11-27,"Ob-la-di, Ob-la-da",The Beatles,79.0,69.0,2.0,The Beatles
+70,1976-11-27,Help Wanted,The Hudson Brothers,74.0,70.0,4.0,The Hudson Brothers
+71,1976-11-27,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,,,,Donny Featuring Marie Osmond
+72,1976-11-27,What Can I Say,Boz Scaggs,85.0,72.0,2.0,Boz Scaggs
+73,1976-11-27,Catfish,Four Tops,75.0,73.0,5.0,Four Tops
+74,1976-11-27,"Baby, I'll Give It To You",Seals & Crofts,84.0,74.0,2.0,Seals & Crofts
+75,1976-11-27,Drivin' Wheel,Foghat,,,,Foghat
+76,1976-11-27,Torn Between Two Lovers,Mary Macgregor,87.0,76.0,2.0,Mary Macgregor
+77,1976-11-27,Do It To My Mind,Johnny Bristol,,,,Johnny Bristol
+78,1976-11-27,Weekend In New England,Barry Manilow,,,,Barry Manilow
+79,1976-11-27,Heart On My Sleeve,Gallagher And Lyle,,79.0,6.0,Gallagher And Lyle
+80,1976-11-27,Devil Woman,Cliff Richard,80.0,6.0,22.0,Cliff Richard
+81,1976-11-27,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",83.0,81.0,5.0,Hamilton Featuring Joe Frank Featuring Dennison
+82,1976-11-27,"Baby, Baby I Love You",Terry Cashman,,,,Terry Cashman
+83,1976-11-27,Blinded By The Light,Manfred Mann's Earth Band,95.0,83.0,2.0,Manfred Mann's Earth Band
+84,1976-11-27,Peter Gunn,Deodato,86.0,84.0,6.0,Deodato
+85,1976-11-27,If Not You,Dr. Hook,,,,Dr. Hook
+86,1976-11-27,Sherry,The Keane Brothers,88.0,86.0,3.0,The Keane Brothers
+87,1976-11-27,"9,999,999 Tears",Dickey Lee,93.0,87.0,2.0,Dickey Lee
+88,1976-11-27,Slow Dancing,Funky Kings,91.0,88.0,4.0,Funky Kings
+89,1976-11-27,Open Sesame - Part 1,Kool & The Gang,89.0,89.0,4.0,Kool Featuring The Gang
+90,1976-11-27,Sixteen Reasons,Laverne & Shirley,,,,Laverne & Shirley
+91,1976-11-27,Dog Eat Dog,Ted Nugent,,,,Ted Nugent
+92,1976-11-27,Makes You Blind,The Glitter Band,92.0,92.0,4.0,The Glitter Band
+93,1976-11-27,A Dose Of Rock 'N' Roll,Ringo Starr,38.0,26.0,9.0,Ringo Starr
+94,1976-11-27,A Little Bit More,Dr. Hook,94.0,11.0,24.0,Dr. Hook
+95,1976-11-27,"(Shake, Shake, Shake) Shake Your Booty",KC And The Sunshine Band,44.0,1.0,21.0,KC And The Sunshine Band
+96,1976-11-27,So Sad The Song,Gladys Knight And The Pips,49.0,47.0,8.0,Gladys Knight And The Pips
+97,1976-11-27,Still The One,Orleans,64.0,5.0,18.0,Orleans
+98,1976-11-27,Mr. Melody,Natalie Cole,59.0,49.0,12.0,Natalie Cole
+99,1976-11-27,Laid Back Love,Major Harris,,,,Major Harris
+100,1976-11-27,I Can't Live A Dream,The Osmonds,47.0,46.0,9.0,The Osmonds
 1,1976-12-04,Tonight's The Night (Gonna Be Alright),Rod Stewart,1.0,1.0,10.0,Rod Stewart
 2,1976-12-04,The Rubberband Man,The Spinners,5.0,2.0,13.0,The Spinners
 3,1976-12-04,Love So Right,Bee Gees,3.0,3.0,12.0,Bee Gees
@@ -4830,71 +4833,72 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 32,1976-12-04,Magic Man,Heart,31.0,9.0,21.0,Heart
 33,1976-12-04,I Only Want To Be With You,Bay City Rollers,33.0,12.0,14.0,Bay City Rollers
 34,1976-12-04,Jeans On,David Dundas,38.0,34.0,9.0,David Dundas
-37,1976-12-04,Shake Your Rump To The Funk,The Bar-Kays,42.0,37.0,8.0,The Bar-Kays
-38,1976-12-04,Lost Without Your Love,Bread,47.0,38.0,2.0,Bread
-39,1976-12-04,Whenever I'm Away From You,John Travolta,40.0,39.0,6.0,John Travolta
-40,1976-12-04,You Are My Starship,Norman Connors,37.0,27.0,15.0,Norman Connors
-41,1976-12-04,I Wish,Stevie Wonder,,,,Stevie Wonder
-42,1976-12-04,Don't Take Away The Music,Tavares,46.0,42.0,6.0,Tavares
-43,1976-12-04,Car Wash,Rose Royce,52.0,43.0,7.0,Rose Royce
-44,1976-12-04,Saturday Nite,"Earth, Wind & Fire",48.0,44.0,3.0,"Earth, Wind & Fire"
-45,1976-12-04,Enjoy Yourself,The Jacksons,54.0,45.0,4.0,The Jacksons
-46,1976-12-04,I Like Dreamin',Kenny Nolan,55.0,46.0,5.0,Kenny Nolan
-47,1976-12-04,"Do What You Want, Be What You Are",Daryl Hall John Oates,50.0,47.0,6.0,Daryl Hall John Oates
-48,1976-12-04,Down To Love Town,The Originals,57.0,48.0,7.0,The Originals
-49,1976-12-04,I Kinda Miss You,The Manhattans,49.0,49.0,6.0,The Manhattans
-50,1976-12-04,Mademoiselle,Styx,59.0,50.0,4.0,Styx
-51,1976-12-04,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,60.0,51.0,5.0,Dr. Buzzard's Original Savannah Band
-52,1976-12-04,I Don't Wanna Lose Your Love,The Emotions,53.0,52.0,5.0,The Emotions
-53,1976-12-04,Flight '76,The Walter Murphy Band,62.0,53.0,4.0,The Walter Murphy Band
-54,1976-12-04,This Song,George Harrison,63.0,54.0,3.0,George Harrison
-55,1976-12-04,Keep Me Cryin',Al Green,61.0,55.0,7.0,Al Green
-56,1976-12-04,Walk This Way,Aerosmith,65.0,56.0,3.0,Aerosmith
-57,1976-12-04,Let's Be Young Tonight,Jermaine Jackson,58.0,57.0,12.0,Jermaine Jackson
-58,1976-12-04,It Keeps You Runnin',The Doobie Brothers,67.0,58.0,4.0,The Doobie Brothers
-59,1976-12-04,Every Face Tells A Story,Olivia Newton-John,56.0,56.0,5.0,Olivia Newton-John
-60,1976-12-04,"Ob-la-di, Ob-la-da",The Beatles,69.0,60.0,3.0,The Beatles
-61,1976-12-04,What Can I Say,Boz Scaggs,72.0,61.0,3.0,Boz Scaggs
-62,1976-12-04,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,71.0,62.0,2.0,Donny Featuring Marie Osmond
-63,1976-12-04,Baby Boy,Mary Kay Place As Loretta Haggers,64.0,63.0,6.0,Mary Kay Place As Loretta Haggers
-64,1976-12-04,"Baby, I'll Give It To You",Seals & Crofts,74.0,64.0,3.0,Seals & Crofts
-65,1976-12-04,Lets Get It Together,El Coco,66.0,65.0,7.0,El Coco
-66,1976-12-04,Drivin' Wheel,Foghat,75.0,66.0,2.0,Foghat
-67,1976-12-04,Torn Between Two Lovers,Mary Macgregor,76.0,67.0,3.0,Mary Macgregor
-68,1976-12-04,Do It To My Mind,Johnny Bristol,77.0,68.0,2.0,Johnny Bristol
-69,1976-12-04,Weekend In New England,Barry Manilow,78.0,69.0,2.0,Barry Manilow
-70,1976-12-04,Heart On My Sleeve,Gallagher And Lyle,79.0,70.0,7.0,Gallagher And Lyle
-71,1976-12-04,Help Wanted,The Hudson Brothers,71.0,71.0,5.0,The Hudson Brothers
-72,1976-12-04,Catfish,Four Tops,73.0,72.0,6.0,Four Tops
-73,1976-12-04,Blinded By The Light,Manfred Mann's Earth Band,83.0,73.0,3.0,Manfred Mann's Earth Band
-74,1976-12-04,Nice 'N' Naasty,The Salsoul Orchestra,35.0,30.0,12.0,The Salsoul Orchestra
-75,1976-12-04,If Not You,Dr. Hook,85.0,75.0,2.0,Dr. Hook
-76,1976-12-04,You Ought To Be Havin' Fun,Tower Of Power,68.0,68.0,8.0,Tower Of Power
-77,1976-12-04,Play That Funky Music,Wild Cherry,34.0,1.0,25.0,Wild Cherry
-78,1976-12-04,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",81.0,78.0,6.0,Hamilton Featuring Joe Frank Featuring Dennison
-79,1976-12-04,Someone To Lay Down Beside Me,Linda Ronstadt,,,,Linda Ronstadt
-80,1976-12-04,"Baby, Baby I Love You",Terry Cashman,82.0,80.0,2.0,Terry Cashman
-81,1976-12-04,Sixteen Reasons,Laverne & Shirley,90.0,81.0,2.0,Laverne & Shirley
-82,1976-12-04,St. Charles,Jefferson Starship,,,,Jefferson Starship
-83,1976-12-04,I Like To Do It,KC And The Sunshine Band,,,,KC And The Sunshine Band
-84,1976-12-04,Free Bird,Lynyrd Skynyrd,,19.0,13.0,Lynyrd Skynyrd
-85,1976-12-04,Living Next Door To Alice,Smokie,,,,Smokie
-86,1976-12-04,"9,999,999 Tears",Dickey Lee,87.0,86.0,3.0,Dickey Lee
-87,1976-12-04,Sherry,The Keane Brothers,87.0,87.0,4.0,The Keane Brothers
-88,1976-12-04,Open Sesame - Part 1,Kool & The Gang,89.0,88.0,5.0,Kool Featuring The Gang
-89,1976-12-04,Slow Dancing,Funky Kings,89.0,89.0,5.0,Funky Kings
-90,1976-12-04,"Man Smart, Woman Smarter",Robert Palmer,,,,Robert Palmer
-91,1976-12-04,You've Got Me Runnin',Gene Cotton,,,,Gene Cotton
-92,1976-12-04,Dog Eat Dog,Ted Nugent,92.0,92.0,2.0,Ted Nugent
-93,1976-12-04,Makes You Blind,The Glitter Band,93.0,93.0,5.0,The Glitter Band
-94,1976-12-04,You're My Driving Wheel,The Supremes,,,,The Supremes
-95,1976-12-04,Laid Back Love,Major Harris,99.0,95.0,2.0,Major Harris
-96,1976-12-04,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,36.0,1.0,28.0,Walter Murphy Featuring The Big Apple Band
-97,1976-12-04,That'll Be The Day,Linda Ronstadt,41.0,11.0,16.0,Linda Ronstadt
-98,1976-12-04,She's Gone,Daryl Hall John Oates,39.0,7.0,28.0,Daryl Hall John Oates
-99,1976-12-04,Caledonia,Robin Trower,,,,Robin Trower
-100,1976-12-04,Give It Up (turn It Loose),Tyrone Davis,43.0,38.0,11.0,Tyrone Davis
-101,1976-12-04,All Roads (Lead Back To You),Donny Most,,,,Donny Most
+35,1976-12-04,Somebody To Love,Queen,45.0,35.0,2.0,Queen
+36,1976-12-04,Shake Your Rump To The Funk,The Bar-Kays,42.0,36.0,8.0,The Bar-Kays
+37,1976-12-04,Lost Without Your Love,Bread,47.0,37.0,2.0,Bread
+38,1976-12-04,Whenever I'm Away From You,John Travolta,40.0,38.0,6.0,John Travolta
+39,1976-12-04,You Are My Starship,Norman Connors,37.0,27.0,15.0,Norman Connors
+40,1976-12-04,I Wish,Stevie Wonder,,,,Stevie Wonder
+41,1976-12-04,Don't Take Away The Music,Tavares,46.0,41.0,6.0,Tavares
+42,1976-12-04,Car Wash,Rose Royce,52.0,42.0,7.0,Rose Royce
+43,1976-12-04,Saturday Nite,"Earth, Wind & Fire",48.0,43.0,3.0,"Earth, Wind & Fire"
+44,1976-12-04,Enjoy Yourself,The Jacksons,54.0,44.0,4.0,The Jacksons
+45,1976-12-04,I Like Dreamin',Kenny Nolan,55.0,45.0,5.0,Kenny Nolan
+46,1976-12-04,"Do What You Want, Be What You Are",Daryl Hall John Oates,50.0,46.0,6.0,Daryl Hall John Oates
+47,1976-12-04,Down To Love Town,The Originals,57.0,47.0,7.0,The Originals
+48,1976-12-04,I Kinda Miss You,The Manhattans,49.0,48.0,6.0,The Manhattans
+49,1976-12-04,Mademoiselle,Styx,59.0,49.0,4.0,Styx
+50,1976-12-04,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,60.0,50.0,5.0,Dr. Buzzard's Original Savannah Band
+51,1976-12-04,I Don't Wanna Lose Your Love,The Emotions,53.0,51.0,5.0,The Emotions
+52,1976-12-04,Flight '76,The Walter Murphy Band,62.0,52.0,4.0,The Walter Murphy Band
+53,1976-12-04,This Song,George Harrison,63.0,53.0,3.0,George Harrison
+54,1976-12-04,Keep Me Cryin',Al Green,61.0,54.0,7.0,Al Green
+55,1976-12-04,Walk This Way,Aerosmith,65.0,55.0,3.0,Aerosmith
+56,1976-12-04,Let's Be Young Tonight,Jermaine Jackson,58.0,56.0,12.0,Jermaine Jackson
+57,1976-12-04,It Keeps You Runnin',The Doobie Brothers,67.0,57.0,4.0,The Doobie Brothers
+58,1976-12-04,Every Face Tells A Story,Olivia Newton-John,56.0,56.0,5.0,Olivia Newton-John
+59,1976-12-04,"Ob-la-di, Ob-la-da",The Beatles,69.0,59.0,3.0,The Beatles
+60,1976-12-04,What Can I Say,Boz Scaggs,72.0,60.0,3.0,Boz Scaggs
+61,1976-12-04,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,71.0,61.0,2.0,Donny Featuring Marie Osmond
+62,1976-12-04,Baby Boy,Mary Kay Place As Loretta Haggers,64.0,62.0,6.0,Mary Kay Place As Loretta Haggers
+63,1976-12-04,"Baby, I'll Give It To You",Seals & Crofts,74.0,63.0,3.0,Seals & Crofts
+64,1976-12-04,Lets Get It Together,El Coco,66.0,64.0,7.0,El Coco
+65,1976-12-04,Drivin' Wheel,Foghat,75.0,65.0,2.0,Foghat
+66,1976-12-04,Torn Between Two Lovers,Mary Macgregor,76.0,66.0,3.0,Mary Macgregor
+67,1976-12-04,Do It To My Mind,Johnny Bristol,77.0,67.0,2.0,Johnny Bristol
+68,1976-12-04,Weekend In New England,Barry Manilow,78.0,68.0,2.0,Barry Manilow
+69,1976-12-04,Heart On My Sleeve,Gallagher And Lyle,79.0,69.0,7.0,Gallagher And Lyle
+70,1976-12-04,Help Wanted,The Hudson Brothers,70.0,70.0,5.0,The Hudson Brothers
+71,1976-12-04,Catfish,Four Tops,73.0,71.0,6.0,Four Tops
+72,1976-12-04,Blinded By The Light,Manfred Mann's Earth Band,83.0,72.0,3.0,Manfred Mann's Earth Band
+73,1976-12-04,Nice 'N' Naasty,The Salsoul Orchestra,35.0,30.0,12.0,The Salsoul Orchestra
+74,1976-12-04,If Not You,Dr. Hook,85.0,74.0,2.0,Dr. Hook
+75,1976-12-04,You Ought To Be Havin' Fun,Tower Of Power,68.0,68.0,8.0,Tower Of Power
+76,1976-12-04,Play That Funky Music,Wild Cherry,34.0,1.0,25.0,Wild Cherry
+77,1976-12-04,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",81.0,77.0,6.0,Hamilton Featuring Joe Frank Featuring Dennison
+78,1976-12-04,Someone To Lay Down Beside Me,Linda Ronstadt,,,,Linda Ronstadt
+79,1976-12-04,"Baby, Baby I Love You",Terry Cashman,82.0,79.0,2.0,Terry Cashman
+80,1976-12-04,Sixteen Reasons,Laverne & Shirley,90.0,80.0,2.0,Laverne & Shirley
+81,1976-12-04,St. Charles,Jefferson Starship,,,,Jefferson Starship
+82,1976-12-04,I Like To Do It,KC And The Sunshine Band,,,,KC And The Sunshine Band
+83,1976-12-04,Free Bird,Lynyrd Skynyrd,,19.0,13.0,Lynyrd Skynyrd
+84,1976-12-04,Living Next Door To Alice,Smokie,,,,Smokie
+85,1976-12-04,"9,999,999 Tears",Dickey Lee,87.0,85.0,3.0,Dickey Lee
+86,1976-12-04,Sherry,The Keane Brothers,86.0,86.0,4.0,The Keane Brothers
+87,1976-12-04,Open Sesame - Part 1,Kool & The Gang,89.0,87.0,5.0,Kool Featuring The Gang
+88,1976-12-04,Slow Dancing,Funky Kings,88.0,88.0,5.0,Funky Kings
+89,1976-12-04,"Man Smart, Woman Smarter",Robert Palmer,,,,Robert Palmer
+90,1976-12-04,You've Got Me Runnin',Gene Cotton,,,,Gene Cotton
+91,1976-12-04,Dog Eat Dog,Ted Nugent,91.0,91.0,2.0,Ted Nugent
+92,1976-12-04,Makes You Blind,The Glitter Band,92.0,92.0,5.0,The Glitter Band
+93,1976-12-04,You're My Driving Wheel,The Supremes,,,,The Supremes
+94,1976-12-04,Laid Back Love,Major Harris,99.0,94.0,2.0,Major Harris
+95,1976-12-04,A Fifth Of Beethoven,Walter Murphy & The Big Apple Band,36.0,1.0,28.0,Walter Murphy Featuring The Big Apple Band
+96,1976-12-04,That'll Be The Day,Linda Ronstadt,41.0,11.0,16.0,Linda Ronstadt
+97,1976-12-04,She's Gone,Daryl Hall John Oates,39.0,7.0,28.0,Daryl Hall John Oates
+98,1976-12-04,Caledonia,Robin Trower,,,,Robin Trower
+99,1976-12-04,Give It Up (turn It Loose),Tyrone Davis,43.0,38.0,11.0,Tyrone Davis
+100,1976-12-04,All Roads (Lead Back To You),Donny Most,,,,Donny Most
 1,1976-12-11,Tonight's The Night (Gonna Be Alright),Rod Stewart,1.0,1.0,11.0,Rod Stewart
 2,1976-12-11,The Rubberband Man,The Spinners,2.0,2.0,14.0,The Spinners
 3,1976-12-11,Love So Right,Bee Gees,3.0,3.0,13.0,Bee Gees
@@ -4920,80 +4924,81 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 23,1976-12-11,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,13.0,1.0,18.0,Rick Dees Featuring His Cast Of Idiots
 24,1976-12-11,Hello Old Friend,Eric Clapton,27.0,24.0,9.0,Eric Clapton
 25,1976-12-11,Just To Be Close To You,Commodores,14.0,7.0,13.0,Commodores
-28,1976-12-11,The Best Disco In Town,The Ritchie Family,17.0,17.0,16.0,The Ritchie Family
-29,1976-12-11,It's A Long Way There,Little River Band,29.0,29.0,13.0,Little River Band
-30,1976-12-11,I Wish,Stevie Wonder,40.0,30.0,2.0,Stevie Wonder
-31,1976-12-11,Lost Without Your Love,Bread,37.0,31.0,3.0,Bread
-32,1976-12-11,Jeans On,David Dundas,34.0,32.0,10.0,David Dundas
-33,1976-12-11,Shake Your Rump To The Funk,The Bar-Kays,36.0,33.0,9.0,The Bar-Kays
-34,1976-12-11,Do You Feel Like We Do,Peter Frampton,25.0,10.0,13.0,Peter Frampton
-35,1976-12-11,Saturday Nite,"Earth, Wind & Fire",43.0,35.0,4.0,"Earth, Wind & Fire"
-36,1976-12-11,Enjoy Yourself,The Jacksons,44.0,36.0,5.0,The Jacksons
-37,1976-12-11,Don't Take Away The Music,Tavares,41.0,37.0,7.0,Tavares
-38,1976-12-11,If You Leave Me Now,Chicago,29.0,1.0,18.0,Chicago
-39,1976-12-11,This Song,George Harrison,53.0,39.0,4.0,George Harrison
-40,1976-12-11,I Like Dreamin',Kenny Nolan,45.0,40.0,6.0,Kenny Nolan
-41,1976-12-11,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,50.0,41.0,6.0,Dr. Buzzard's Original Savannah Band
-42,1976-12-11,Mademoiselle,Styx,49.0,42.0,5.0,Styx
-43,1976-12-11,Fernando,ABBA,30.0,13.0,15.0,ABBA
-44,1976-12-11,"Do What You Want, Be What You Are",Daryl Hall John Oates,46.0,44.0,7.0,Daryl Hall John Oates
-45,1976-12-11,Keep Me Cryin',Al Green,54.0,45.0,8.0,Al Green
-46,1976-12-11,Walk This Way,Aerosmith,55.0,46.0,4.0,Aerosmith
-47,1976-12-11,I Kinda Miss You,The Manhattans,48.0,47.0,7.0,The Manhattans
-48,1976-12-11,Down To Love Town,The Originals,48.0,48.0,8.0,The Originals
-49,1976-12-11,Flight '76,The Walter Murphy Band,52.0,49.0,5.0,The Walter Murphy Band
-50,1976-12-11,"Ob-la-di, Ob-la-da",The Beatles,59.0,50.0,4.0,The Beatles
-51,1976-12-11,What Can I Say,Boz Scaggs,60.0,51.0,4.0,Boz Scaggs
-52,1976-12-11,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,61.0,52.0,3.0,Donny Featuring Marie Osmond
-53,1976-12-11,Torn Between Two Lovers,Mary Macgregor,66.0,53.0,4.0,Mary Macgregor
-54,1976-12-11,It Keeps You Runnin',The Doobie Brothers,57.0,54.0,5.0,The Doobie Brothers
-55,1976-12-11,Drivin' Wheel,Foghat,65.0,55.0,3.0,Foghat
-56,1976-12-11,Let's Be Young Tonight,Jermaine Jackson,56.0,56.0,13.0,Jermaine Jackson
-57,1976-12-11,Do It To My Mind,Johnny Bristol,67.0,57.0,3.0,Johnny Bristol
-58,1976-12-11,Every Face Tells A Story,Olivia Newton-John,58.0,56.0,6.0,Olivia Newton-John
-59,1976-12-11,Weekend In New England,Barry Manilow,68.0,59.0,3.0,Barry Manilow
-60,1976-12-11,Blinded By The Light,Manfred Mann's Earth Band,72.0,60.0,4.0,Manfred Mann's Earth Band
-61,1976-12-11,"Baby, I'll Give It To You",Seals & Crofts,63.0,61.0,4.0,Seals & Crofts
-62,1976-12-11,Lets Get It Together,El Coco,64.0,62.0,8.0,El Coco
-63,1976-12-11,Baby Boy,Mary Kay Place As Loretta Haggers,63.0,63.0,7.0,Mary Kay Place As Loretta Haggers
-64,1976-12-11,Magic Man,Heart,32.0,9.0,22.0,Heart
-65,1976-12-11,If Not You,Dr. Hook,74.0,65.0,3.0,Dr. Hook
-66,1976-12-11,I Only Want To Be With You,Bay City Rollers,33.0,12.0,15.0,Bay City Rollers
-67,1976-12-11,Someone To Lay Down Beside Me,Linda Ronstadt,78.0,67.0,2.0,Linda Ronstadt
-68,1976-12-11,Heart On My Sleeve,Gallagher And Lyle,69.0,68.0,8.0,Gallagher And Lyle
-69,1976-12-11,Free Bird,Lynyrd Skynyrd,83.0,19.0,14.0,Lynyrd Skynyrd
-70,1976-12-11,Sixteen Reasons,Laverne & Shirley,80.0,70.0,3.0,Laverne & Shirley
-71,1976-12-11,St. Charles,Jefferson Starship,81.0,71.0,2.0,Jefferson Starship
-72,1976-12-11,I Like To Do It,KC And The Sunshine Band,82.0,72.0,2.0,KC And The Sunshine Band
-73,1976-12-11,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,,,,Barbra Streisand
-74,1976-12-11,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",77.0,74.0,7.0,Hamilton Featuring Joe Frank Featuring Dennison
-75,1976-12-11,Living Next Door To Alice,Smokie,84.0,75.0,2.0,Smokie
-76,1976-12-11,"9,999,999 Tears",Dickey Lee,85.0,76.0,4.0,Dickey Lee
-77,1976-12-11,Rock'n Me,Steve Miller,23.0,1.0,18.0,Steve Miller
-78,1976-12-11,Yesterday's Hero,Bay City Rollers,,,,Bay City Rollers
-79,1976-12-11,Slow Dancing,Funky Kings,88.0,79.0,6.0,Funky Kings
-80,1976-12-11,"Man Smart, Woman Smarter",Robert Palmer,89.0,80.0,2.0,Robert Palmer
-81,1976-12-11,You've Got Me Runnin',Gene Cotton,90.0,81.0,2.0,Gene Cotton
-82,1976-12-11,(Don't Fear) The Reaper,Blue Oyster Cult,31.0,12.0,20.0,Blue Oyster Cult
-83,1976-12-11,Open Sesame - Part 1,Kool & The Gang,87.0,83.0,6.0,Kool Featuring The Gang
-84,1976-12-11,Nice 'N' Naasty,The Salsoul Orchestra,73.0,30.0,13.0,The Salsoul Orchestra
-85,1976-12-11,Sherry,The Keane Brothers,86.0,85.0,5.0,The Keane Brothers
-86,1976-12-11,Night Moves,Bob Seger,,,,Bob Seger
-87,1976-12-11,Dancing Queen,ABBA,,,,ABBA
-88,1976-12-11,Save It For A Rainy Day,Stephen Bishop,,,,Stephen Bishop
-89,1976-12-11,Free,Deniece Williams,,,,Deniece Williams
-90,1976-12-11,You're My Driving Wheel,The Supremes,93.0,90.0,2.0,The Supremes
-91,1976-12-11,Heart On My Sleeve,Bryan Ferry,,,,Bryan Ferry
-92,1976-12-11,Makes You Blind,The Glitter Band,92.0,92.0,6.0,The Glitter Band
-93,1976-12-11,Laid Back Love,Major Harris,94.0,93.0,3.0,Major Harris
-94,1976-12-11,You Are My Starship,Norman Connors,39.0,27.0,16.0,Norman Connors
-95,1976-12-11,Caledonia,Robin Trower,98.0,95.0,2.0,Robin Trower
-96,1976-12-11,I Don't Wanna Lose Your Love,The Emotions,51.0,51.0,6.0,The Emotions
-97,1976-12-11,White Bird,David Laflamme,,,,David Laflamme
-98,1976-12-11,Silver Heels,Blaze,,,,Blaze
-99,1976-12-11,Year Of The Cat,Al Stewart,,,,Al Stewart
-100,1976-12-11,All Roads (Lead Back To You),Donny Most,100.0,100.0,2.0,Donny Most
-101,1976-12-11,Love Bug,Bumble Bee Unlimited,,,,Bumble Bee Unlimited
+26,1976-12-11,Somebody To Love,Queen,35.0,26.0,3.0,Queen
+27,1976-12-11,The Best Disco In Town,The Ritchie Family,17.0,17.0,16.0,The Ritchie Family
+28,1976-12-11,It's A Long Way There,Little River Band,28.0,28.0,13.0,Little River Band
+29,1976-12-11,I Wish,Stevie Wonder,40.0,29.0,2.0,Stevie Wonder
+30,1976-12-11,Lost Without Your Love,Bread,37.0,30.0,3.0,Bread
+31,1976-12-11,Jeans On,David Dundas,34.0,31.0,10.0,David Dundas
+32,1976-12-11,Shake Your Rump To The Funk,The Bar-Kays,36.0,32.0,9.0,The Bar-Kays
+33,1976-12-11,Do You Feel Like We Do,Peter Frampton,25.0,10.0,13.0,Peter Frampton
+34,1976-12-11,Saturday Nite,"Earth, Wind & Fire",43.0,34.0,4.0,"Earth, Wind & Fire"
+35,1976-12-11,Enjoy Yourself,The Jacksons,44.0,35.0,5.0,The Jacksons
+36,1976-12-11,Don't Take Away The Music,Tavares,41.0,36.0,7.0,Tavares
+37,1976-12-11,If You Leave Me Now,Chicago,29.0,1.0,18.0,Chicago
+38,1976-12-11,This Song,George Harrison,53.0,38.0,4.0,George Harrison
+39,1976-12-11,I Like Dreamin',Kenny Nolan,45.0,39.0,6.0,Kenny Nolan
+40,1976-12-11,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,50.0,40.0,6.0,Dr. Buzzard's Original Savannah Band
+41,1976-12-11,Mademoiselle,Styx,49.0,41.0,5.0,Styx
+42,1976-12-11,Fernando,ABBA,30.0,13.0,15.0,ABBA
+43,1976-12-11,"Do What You Want, Be What You Are",Daryl Hall John Oates,46.0,43.0,7.0,Daryl Hall John Oates
+44,1976-12-11,Keep Me Cryin',Al Green,54.0,44.0,8.0,Al Green
+45,1976-12-11,Walk This Way,Aerosmith,55.0,45.0,4.0,Aerosmith
+46,1976-12-11,I Kinda Miss You,The Manhattans,48.0,46.0,7.0,The Manhattans
+47,1976-12-11,Down To Love Town,The Originals,47.0,47.0,8.0,The Originals
+48,1976-12-11,Flight '76,The Walter Murphy Band,52.0,48.0,5.0,The Walter Murphy Band
+49,1976-12-11,"Ob-la-di, Ob-la-da",The Beatles,59.0,49.0,4.0,The Beatles
+50,1976-12-11,What Can I Say,Boz Scaggs,60.0,50.0,4.0,Boz Scaggs
+51,1976-12-11,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,61.0,51.0,3.0,Donny Featuring Marie Osmond
+52,1976-12-11,Torn Between Two Lovers,Mary Macgregor,66.0,52.0,4.0,Mary Macgregor
+53,1976-12-11,It Keeps You Runnin',The Doobie Brothers,57.0,53.0,5.0,The Doobie Brothers
+54,1976-12-11,Drivin' Wheel,Foghat,65.0,54.0,3.0,Foghat
+55,1976-12-11,Let's Be Young Tonight,Jermaine Jackson,56.0,55.0,13.0,Jermaine Jackson
+56,1976-12-11,Do It To My Mind,Johnny Bristol,67.0,56.0,3.0,Johnny Bristol
+57,1976-12-11,Every Face Tells A Story,Olivia Newton-John,58.0,56.0,6.0,Olivia Newton-John
+58,1976-12-11,Weekend In New England,Barry Manilow,68.0,58.0,3.0,Barry Manilow
+59,1976-12-11,Blinded By The Light,Manfred Mann's Earth Band,72.0,59.0,4.0,Manfred Mann's Earth Band
+60,1976-12-11,"Baby, I'll Give It To You",Seals & Crofts,63.0,60.0,4.0,Seals & Crofts
+61,1976-12-11,Lets Get It Together,El Coco,64.0,61.0,8.0,El Coco
+62,1976-12-11,Baby Boy,Mary Kay Place As Loretta Haggers,62.0,62.0,7.0,Mary Kay Place As Loretta Haggers
+63,1976-12-11,Magic Man,Heart,32.0,9.0,22.0,Heart
+64,1976-12-11,If Not You,Dr. Hook,74.0,64.0,3.0,Dr. Hook
+65,1976-12-11,I Only Want To Be With You,Bay City Rollers,33.0,12.0,15.0,Bay City Rollers
+66,1976-12-11,Someone To Lay Down Beside Me,Linda Ronstadt,78.0,66.0,2.0,Linda Ronstadt
+67,1976-12-11,Heart On My Sleeve,Gallagher And Lyle,69.0,67.0,8.0,Gallagher And Lyle
+68,1976-12-11,Free Bird,Lynyrd Skynyrd,83.0,19.0,14.0,Lynyrd Skynyrd
+69,1976-12-11,Sixteen Reasons,Laverne & Shirley,80.0,69.0,3.0,Laverne & Shirley
+70,1976-12-11,St. Charles,Jefferson Starship,81.0,70.0,2.0,Jefferson Starship
+71,1976-12-11,I Like To Do It,KC And The Sunshine Band,82.0,71.0,2.0,KC And The Sunshine Band
+72,1976-12-11,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,,,,Barbra Streisand
+73,1976-12-11,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",77.0,73.0,7.0,Hamilton Featuring Joe Frank Featuring Dennison
+74,1976-12-11,Living Next Door To Alice,Smokie,84.0,74.0,2.0,Smokie
+75,1976-12-11,"9,999,999 Tears",Dickey Lee,85.0,75.0,4.0,Dickey Lee
+76,1976-12-11,Rock'n Me,Steve Miller,23.0,1.0,18.0,Steve Miller
+77,1976-12-11,Yesterday's Hero,Bay City Rollers,,,,Bay City Rollers
+78,1976-12-11,Slow Dancing,Funky Kings,88.0,78.0,6.0,Funky Kings
+79,1976-12-11,"Man Smart, Woman Smarter",Robert Palmer,89.0,79.0,2.0,Robert Palmer
+80,1976-12-11,You've Got Me Runnin',Gene Cotton,90.0,80.0,2.0,Gene Cotton
+81,1976-12-11,(Don't Fear) The Reaper,Blue Oyster Cult,31.0,12.0,20.0,Blue Oyster Cult
+82,1976-12-11,Open Sesame - Part 1,Kool & The Gang,87.0,82.0,6.0,Kool Featuring The Gang
+83,1976-12-11,Nice 'N' Naasty,The Salsoul Orchestra,73.0,30.0,13.0,The Salsoul Orchestra
+84,1976-12-11,Sherry,The Keane Brothers,86.0,84.0,5.0,The Keane Brothers
+85,1976-12-11,Night Moves,Bob Seger,,,,Bob Seger
+86,1976-12-11,Dancing Queen,ABBA,,,,ABBA
+87,1976-12-11,Save It For A Rainy Day,Stephen Bishop,,,,Stephen Bishop
+88,1976-12-11,Free,Deniece Williams,,,,Deniece Williams
+89,1976-12-11,You're My Driving Wheel,The Supremes,93.0,89.0,2.0,The Supremes
+90,1976-12-11,Heart On My Sleeve,Bryan Ferry,,,,Bryan Ferry
+91,1976-12-11,Makes You Blind,The Glitter Band,92.0,91.0,6.0,The Glitter Band
+92,1976-12-11,Laid Back Love,Major Harris,94.0,92.0,3.0,Major Harris
+93,1976-12-11,You Are My Starship,Norman Connors,39.0,27.0,16.0,Norman Connors
+94,1976-12-11,Caledonia,Robin Trower,98.0,94.0,2.0,Robin Trower
+95,1976-12-11,I Don't Wanna Lose Your Love,The Emotions,51.0,51.0,6.0,The Emotions
+96,1976-12-11,White Bird,David Laflamme,,,,David Laflamme
+97,1976-12-11,Silver Heels,Blaze,,,,Blaze
+98,1976-12-11,Year Of The Cat,Al Stewart,,,,Al Stewart
+99,1976-12-11,All Roads (Lead Back To You),Donny Most,100.0,99.0,2.0,Donny Most
+100,1976-12-11,Love Bug,Bumble Bee Unlimited,,,,Bumble Bee Unlimited
 1,1976-12-18,Tonight's The Night (Gonna Be Alright),Rod Stewart,1.0,1.0,12.0,Rod Stewart
 2,1976-12-18,The Rubberband Man,The Spinners,2.0,2.0,15.0,The Spinners
 3,1976-12-18,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",5.0,3.0,15.0,"Marilyn McCoo Featuring Billy Davis, Jr."
@@ -5015,84 +5020,85 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 19,1976-12-18,Livin' Thing,Electric Light Orchestra,21.0,19.0,9.0,Electric Light Orchestra
 20,1976-12-18,Love Ballad,L.T.D.,20.0,20.0,12.0,L.T.D.
 21,1976-12-18,Love So Right,Bee Gees,3.0,3.0,14.0,Bee Gees
-24,1976-12-18,Beth/Detroit Rock City,KISS,12.0,7.0,16.0,KISS
-25,1976-12-18,Hello Old Friend,Eric Clapton,25.0,25.0,10.0,Eric Clapton
-26,1976-12-18,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,15.0,2.0,17.0,Gordon Lightfoot
-27,1976-12-18,Lost Without Your Love,Bread,30.0,27.0,4.0,Bread
-28,1976-12-18,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,23.0,1.0,19.0,Rick Dees Featuring His Cast Of Idiots
-29,1976-12-18,Jeans On,David Dundas,31.0,29.0,11.0,David Dundas
-30,1976-12-18,Shake Your Rump To The Funk,The Bar-Kays,32.0,30.0,10.0,The Bar-Kays
-31,1976-12-18,Saturday Nite,"Earth, Wind & Fire",34.0,31.0,5.0,"Earth, Wind & Fire"
-32,1976-12-18,Enjoy Yourself,The Jacksons,35.0,32.0,6.0,The Jacksons
-33,1976-12-18,Just To Be Close To You,Commodores,25.0,7.0,14.0,Commodores
-34,1976-12-18,This Song,George Harrison,38.0,34.0,5.0,George Harrison
-35,1976-12-18,Don't Take Away The Music,Tavares,36.0,35.0,8.0,Tavares
-36,1976-12-18,I Like Dreamin',Kenny Nolan,39.0,36.0,7.0,Kenny Nolan
-37,1976-12-18,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,40.0,37.0,7.0,Dr. Buzzard's Original Savannah Band
-38,1976-12-18,Mademoiselle,Styx,41.0,38.0,6.0,Styx
-39,1976-12-18,Walk This Way,Aerosmith,45.0,39.0,5.0,Aerosmith
-40,1976-12-18,Keep Me Cryin',Al Green,44.0,40.0,9.0,Al Green
-41,1976-12-18,Blinded By The Light,Manfred Mann's Earth Band,59.0,41.0,5.0,Manfred Mann's Earth Band
-42,1976-12-18,"Do What You Want, Be What You Are",Daryl Hall John Oates,43.0,42.0,8.0,Daryl Hall John Oates
-43,1976-12-18,Torn Between Two Lovers,Mary Macgregor,52.0,43.0,5.0,Mary Macgregor
-44,1976-12-18,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,51.0,44.0,4.0,Donny Featuring Marie Osmond
-45,1976-12-18,Flight '76,The Walter Murphy Band,48.0,45.0,6.0,The Walter Murphy Band
-46,1976-12-18,The Best Disco In Town,The Ritchie Family,27.0,17.0,17.0,The Ritchie Family
-47,1976-12-18,What Can I Say,Boz Scaggs,50.0,47.0,5.0,Boz Scaggs
-48,1976-12-18,Drivin' Wheel,Foghat,54.0,48.0,4.0,Foghat
-49,1976-12-18,New Kid In Town,Eagles,,,,Eagles
-50,1976-12-18,"Ob-la-di, Ob-la-da",The Beatles,50.0,50.0,5.0,The Beatles
-51,1976-12-18,Weekend In New England,Barry Manilow,58.0,51.0,4.0,Barry Manilow
-52,1976-12-18,It Keeps You Runnin',The Doobie Brothers,53.0,52.0,6.0,The Doobie Brothers
-53,1976-12-18,Do It To My Mind,Johnny Bristol,56.0,53.0,4.0,Johnny Bristol
-54,1976-12-18,Do You Feel Like We Do,Peter Frampton,33.0,10.0,14.0,Peter Frampton
-55,1976-12-18,Free Bird,Lynyrd Skynyrd,68.0,19.0,15.0,Lynyrd Skynyrd
-56,1976-12-18,Every Face Tells A Story,Olivia Newton-John,57.0,56.0,7.0,Olivia Newton-John
-57,1976-12-18,Someone To Lay Down Beside Me,Linda Ronstadt,66.0,57.0,3.0,Linda Ronstadt
-58,1976-12-18,I Like To Do It,KC And The Sunshine Band,71.0,58.0,3.0,KC And The Sunshine Band
-59,1976-12-18,"Baby, I'll Give It To You",Seals & Crofts,60.0,59.0,5.0,Seals & Crofts
-60,1976-12-18,If Not You,Dr. Hook,64.0,60.0,4.0,Dr. Hook
-61,1976-12-18,Baby Boy,Mary Kay Place As Loretta Haggers,62.0,61.0,8.0,Mary Kay Place As Loretta Haggers
-62,1976-12-18,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,72.0,62.0,2.0,Barbra Streisand
-63,1976-12-18,Down To Love Town,The Originals,47.0,47.0,9.0,The Originals
-64,1976-12-18,Living Next Door To Alice,Smokie,74.0,64.0,3.0,Smokie
-65,1976-12-18,"9,999,999 Tears",Dickey Lee,75.0,65.0,5.0,Dickey Lee
-66,1976-12-18,Sixteen Reasons,Laverne & Shirley,69.0,66.0,4.0,Laverne & Shirley
-67,1976-12-18,St. Charles,Jefferson Starship,70.0,67.0,3.0,Jefferson Starship
-68,1976-12-18,Yesterday's Hero,Bay City Rollers,77.0,68.0,2.0,Bay City Rollers
-69,1976-12-18,Slow Dancing,Funky Kings,78.0,69.0,7.0,Funky Kings
-70,1976-12-18,It's A Long Way There,Little River Band,28.0,28.0,14.0,Little River Band
-71,1976-12-18,You've Got Me Runnin',Gene Cotton,80.0,71.0,3.0,Gene Cotton
-72,1976-12-18,Night Moves,Bob Seger,85.0,72.0,2.0,Bob Seger
-73,1976-12-18,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",73.0,73.0,8.0,Hamilton Featuring Joe Frank Featuring Dennison
-74,1976-12-18,Fly Like An Eagle,Steve Miller,,,,Steve Miller
-75,1976-12-18,Hard Luck Woman,KISS,,,,KISS
-76,1976-12-18,"Man Smart, Woman Smarter",Robert Palmer,79.0,76.0,3.0,Robert Palmer
-77,1976-12-18,Dancing Queen,ABBA,86.0,77.0,2.0,ABBA
-78,1976-12-18,Save It For A Rainy Day,Stephen Bishop,87.0,78.0,2.0,Stephen Bishop
-79,1976-12-18,Free,Deniece Williams,88.0,79.0,2.0,Deniece Williams
-80,1976-12-18,Open Sesame - Part 1,Kool & The Gang,82.0,80.0,7.0,Kool Featuring The Gang
-81,1976-12-18,Spring Affair/Winter Melody,Donna Summer,,,,Donna Summer
-82,1976-12-18,If You Leave Me Now,Chicago,37.0,1.0,19.0,Chicago
-83,1976-12-18,Dreamboat Annie,Heart,,,,Heart
-84,1976-12-18,Lucky Man,Starbuck,,,,Starbuck
-85,1976-12-18,I Can't Ask For Anymore Than You,Cliff Richard,,,,Cliff Richard
-86,1976-12-18,Don't Leave Me This Way,Thelma Houston,,,,Thelma Houston
-87,1976-12-18,Happier,Paul Anka,,,,Paul Anka
-88,1976-12-18,You're My Driving Wheel,The Supremes,89.0,88.0,3.0,The Supremes
-89,1976-12-18,Year Of The Cat,Al Stewart,98.0,89.0,2.0,Al Stewart
-90,1976-12-18,Caledonia,Robin Trower,94.0,90.0,3.0,Robin Trower
-91,1976-12-18,Heart On My Sleeve,Bryan Ferry,91.0,91.0,2.0,Bryan Ferry
-92,1976-12-18,Laid Back Love,Major Harris,92.0,92.0,4.0,Major Harris
-93,1976-12-18,Fernando,ABBA,42.0,13.0,16.0,ABBA
-94,1976-12-18,Nice 'N' Naasty,The Salsoul Orchestra,83.0,30.0,14.0,The Salsoul Orchestra
-95,1976-12-18,White Bird,David Laflamme,96.0,95.0,2.0,David Laflamme
-96,1976-12-18,Silver Heels,Blaze,97.0,96.0,2.0,Blaze
-97,1976-12-18,Love Bug,Bumble Bee Unlimited,100.0,97.0,2.0,Bumble Bee Unlimited
-98,1976-12-18,All Roads (Lead Back To You),Donny Most,99.0,98.0,3.0,Donny Most
-99,1976-12-18,I Kinda Miss You,The Manhattans,46.0,46.0,8.0,The Manhattans
-100,1976-12-18,Magic Man,Heart,63.0,9.0,23.0,Heart
-101,1976-12-18,I Only Want To Be With You,Bay City Rollers,65.0,12.0,16.0,Bay City Rollers
+22,1976-12-18,Somebody To Love,Queen,26.0,22.0,4.0,Queen
+23,1976-12-18,Beth/Detroit Rock City,KISS,12.0,7.0,16.0,KISS
+24,1976-12-18,Hello Old Friend,Eric Clapton,24.0,24.0,10.0,Eric Clapton
+25,1976-12-18,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,15.0,2.0,17.0,Gordon Lightfoot
+26,1976-12-18,Lost Without Your Love,Bread,30.0,26.0,4.0,Bread
+27,1976-12-18,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,23.0,1.0,19.0,Rick Dees Featuring His Cast Of Idiots
+28,1976-12-18,Jeans On,David Dundas,31.0,28.0,11.0,David Dundas
+29,1976-12-18,Shake Your Rump To The Funk,The Bar-Kays,32.0,29.0,10.0,The Bar-Kays
+30,1976-12-18,Saturday Nite,"Earth, Wind & Fire",34.0,30.0,5.0,"Earth, Wind & Fire"
+31,1976-12-18,Enjoy Yourself,The Jacksons,35.0,31.0,6.0,The Jacksons
+32,1976-12-18,Just To Be Close To You,Commodores,25.0,7.0,14.0,Commodores
+33,1976-12-18,This Song,George Harrison,38.0,33.0,5.0,George Harrison
+34,1976-12-18,Don't Take Away The Music,Tavares,36.0,34.0,8.0,Tavares
+35,1976-12-18,I Like Dreamin',Kenny Nolan,39.0,35.0,7.0,Kenny Nolan
+36,1976-12-18,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,40.0,36.0,7.0,Dr. Buzzard's Original Savannah Band
+37,1976-12-18,Mademoiselle,Styx,41.0,37.0,6.0,Styx
+38,1976-12-18,Walk This Way,Aerosmith,45.0,38.0,5.0,Aerosmith
+39,1976-12-18,Keep Me Cryin',Al Green,44.0,39.0,9.0,Al Green
+40,1976-12-18,Blinded By The Light,Manfred Mann's Earth Band,59.0,40.0,5.0,Manfred Mann's Earth Band
+41,1976-12-18,"Do What You Want, Be What You Are",Daryl Hall John Oates,43.0,41.0,8.0,Daryl Hall John Oates
+42,1976-12-18,Torn Between Two Lovers,Mary Macgregor,52.0,42.0,5.0,Mary Macgregor
+43,1976-12-18,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,51.0,43.0,4.0,Donny Featuring Marie Osmond
+44,1976-12-18,Flight '76,The Walter Murphy Band,48.0,44.0,6.0,The Walter Murphy Band
+45,1976-12-18,The Best Disco In Town,The Ritchie Family,27.0,17.0,17.0,The Ritchie Family
+46,1976-12-18,What Can I Say,Boz Scaggs,50.0,46.0,5.0,Boz Scaggs
+47,1976-12-18,Drivin' Wheel,Foghat,54.0,47.0,4.0,Foghat
+48,1976-12-18,New Kid In Town,Eagles,,,,Eagles
+49,1976-12-18,"Ob-la-di, Ob-la-da",The Beatles,49.0,49.0,5.0,The Beatles
+50,1976-12-18,Weekend In New England,Barry Manilow,58.0,50.0,4.0,Barry Manilow
+51,1976-12-18,It Keeps You Runnin',The Doobie Brothers,53.0,51.0,6.0,The Doobie Brothers
+52,1976-12-18,Do It To My Mind,Johnny Bristol,56.0,52.0,4.0,Johnny Bristol
+53,1976-12-18,Do You Feel Like We Do,Peter Frampton,33.0,10.0,14.0,Peter Frampton
+54,1976-12-18,Free Bird,Lynyrd Skynyrd,68.0,19.0,15.0,Lynyrd Skynyrd
+55,1976-12-18,Every Face Tells A Story,Olivia Newton-John,57.0,55.0,7.0,Olivia Newton-John
+56,1976-12-18,Someone To Lay Down Beside Me,Linda Ronstadt,66.0,56.0,3.0,Linda Ronstadt
+57,1976-12-18,I Like To Do It,KC And The Sunshine Band,71.0,57.0,3.0,KC And The Sunshine Band
+58,1976-12-18,"Baby, I'll Give It To You",Seals & Crofts,60.0,58.0,5.0,Seals & Crofts
+59,1976-12-18,If Not You,Dr. Hook,64.0,59.0,4.0,Dr. Hook
+60,1976-12-18,Baby Boy,Mary Kay Place As Loretta Haggers,62.0,60.0,8.0,Mary Kay Place As Loretta Haggers
+61,1976-12-18,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,72.0,61.0,2.0,Barbra Streisand
+62,1976-12-18,Down To Love Town,The Originals,47.0,47.0,9.0,The Originals
+63,1976-12-18,Living Next Door To Alice,Smokie,74.0,63.0,3.0,Smokie
+64,1976-12-18,"9,999,999 Tears",Dickey Lee,75.0,64.0,5.0,Dickey Lee
+65,1976-12-18,Sixteen Reasons,Laverne & Shirley,69.0,65.0,4.0,Laverne & Shirley
+66,1976-12-18,St. Charles,Jefferson Starship,70.0,66.0,3.0,Jefferson Starship
+67,1976-12-18,Yesterday's Hero,Bay City Rollers,77.0,67.0,2.0,Bay City Rollers
+68,1976-12-18,Slow Dancing,Funky Kings,78.0,68.0,7.0,Funky Kings
+69,1976-12-18,It's A Long Way There,Little River Band,28.0,28.0,14.0,Little River Band
+70,1976-12-18,You've Got Me Runnin',Gene Cotton,80.0,70.0,3.0,Gene Cotton
+71,1976-12-18,Night Moves,Bob Seger,85.0,71.0,2.0,Bob Seger
+72,1976-12-18,Don't Fight The Hands (That Need You),"Hamilton, Joe Frank & Dennison",73.0,72.0,8.0,Hamilton Featuring Joe Frank Featuring Dennison
+73,1976-12-18,Fly Like An Eagle,Steve Miller,,,,Steve Miller
+74,1976-12-18,Hard Luck Woman,KISS,,,,KISS
+75,1976-12-18,"Man Smart, Woman Smarter",Robert Palmer,79.0,75.0,3.0,Robert Palmer
+76,1976-12-18,Dancing Queen,ABBA,86.0,76.0,2.0,ABBA
+77,1976-12-18,Save It For A Rainy Day,Stephen Bishop,87.0,77.0,2.0,Stephen Bishop
+78,1976-12-18,Free,Deniece Williams,88.0,78.0,2.0,Deniece Williams
+79,1976-12-18,Open Sesame - Part 1,Kool & The Gang,82.0,79.0,7.0,Kool Featuring The Gang
+80,1976-12-18,Spring Affair/Winter Melody,Donna Summer,,,,Donna Summer
+81,1976-12-18,If You Leave Me Now,Chicago,37.0,1.0,19.0,Chicago
+82,1976-12-18,Dreamboat Annie,Heart,,,,Heart
+83,1976-12-18,Lucky Man,Starbuck,,,,Starbuck
+84,1976-12-18,I Can't Ask For Anymore Than You,Cliff Richard,,,,Cliff Richard
+85,1976-12-18,Don't Leave Me This Way,Thelma Houston,,,,Thelma Houston
+86,1976-12-18,Happier,Paul Anka,,,,Paul Anka
+87,1976-12-18,You're My Driving Wheel,The Supremes,89.0,87.0,3.0,The Supremes
+88,1976-12-18,Year Of The Cat,Al Stewart,98.0,88.0,2.0,Al Stewart
+89,1976-12-18,Caledonia,Robin Trower,94.0,89.0,3.0,Robin Trower
+90,1976-12-18,Heart On My Sleeve,Bryan Ferry,90.0,90.0,2.0,Bryan Ferry
+91,1976-12-18,Laid Back Love,Major Harris,92.0,91.0,4.0,Major Harris
+92,1976-12-18,Fernando,ABBA,42.0,13.0,16.0,ABBA
+93,1976-12-18,Nice 'N' Naasty,The Salsoul Orchestra,83.0,30.0,14.0,The Salsoul Orchestra
+94,1976-12-18,White Bird,David Laflamme,96.0,94.0,2.0,David Laflamme
+95,1976-12-18,Silver Heels,Blaze,97.0,95.0,2.0,Blaze
+96,1976-12-18,Love Bug,Bumble Bee Unlimited,100.0,96.0,2.0,Bumble Bee Unlimited
+97,1976-12-18,All Roads (Lead Back To You),Donny Most,99.0,97.0,3.0,Donny Most
+98,1976-12-18,I Kinda Miss You,The Manhattans,46.0,46.0,8.0,The Manhattans
+99,1976-12-18,Magic Man,Heart,63.0,9.0,23.0,Heart
+100,1976-12-18,I Only Want To Be With You,Bay City Rollers,65.0,12.0,16.0,Bay City Rollers
 1,1976-12-25,Tonight's The Night (Gonna Be Alright),Rod Stewart,1.0,1.0,13.0,Rod Stewart
 2,1976-12-25,You Don't Have To Be A Star (To Be In My Show),"Marilyn McCoo & Billy Davis, Jr.",3.0,2.0,16.0,"Marilyn McCoo Featuring Billy Davis, Jr."
 3,1976-12-25,The Rubberband Man,The Spinners,2.0,2.0,16.0,The Spinners
@@ -5111,84 +5117,85 @@ Unnamed: 0,Week,Song,Artist,Last week,Peak position,Weeks on chart,Artist_fix
 16,1976-12-25,Muskrat Love,Captain & Tennille,4.0,4.0,14.0,Captain & Tennille
 17,1976-12-25,Nadia's Theme (The Young And The Restless),"Barry DeVorzon and Perry Botkin, Jr.",8.0,8.0,18.0,"Barry DeVorzon and Perry Botkin, Jr."
 18,1976-12-25,Nights Are Forever Without You,England Dan & John Ford Coley,10.0,10.0,12.0,England Dan Featuring John Ford Coley
-21,1976-12-25,New Kid In Town,Eagles,48.0,21.0,2.0,Eagles
-22,1976-12-25,Enjoy Yourself,The Jacksons,31.0,22.0,7.0,The Jacksons
-23,1976-12-25,Lost Without Your Love,Bread,26.0,23.0,5.0,Bread
-24,1976-12-25,You Are The Woman,Firefall,9.0,9.0,19.0,Firefall
-25,1976-12-25,Jeans On,David Dundas,28.0,25.0,12.0,David Dundas
-26,1976-12-25,Shake Your Rump To The Funk,The Bar-Kays,29.0,26.0,11.0,The Bar-Kays
-27,1976-12-25,Saturday Nite,"Earth, Wind & Fire",30.0,27.0,6.0,"Earth, Wind & Fire"
-28,1976-12-25,This Song,George Harrison,33.0,28.0,6.0,George Harrison
-29,1976-12-25,Walk This Way,Aerosmith,38.0,29.0,6.0,Aerosmith
-30,1976-12-25,Torn Between Two Lovers,Mary Macgregor,42.0,30.0,6.0,Mary Macgregor
-31,1976-12-25,I Like Dreamin',Kenny Nolan,35.0,31.0,8.0,Kenny Nolan
-32,1976-12-25,Love So Right,Bee Gees,21.0,3.0,15.0,Bee Gees
-33,1976-12-25,Blinded By The Light,Manfred Mann's Earth Band,40.0,33.0,6.0,Manfred Mann's Earth Band
-34,1976-12-25,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,36.0,34.0,8.0,Dr. Buzzard's Original Savannah Band
-35,1976-12-25,Love Ballad,L.T.D.,20.0,20.0,13.0,L.T.D.
-36,1976-12-25,Weekend In New England,Barry Manilow,50.0,36.0,5.0,Barry Manilow
-37,1976-12-25,Mademoiselle,Styx,37.0,37.0,7.0,Styx
-38,1976-12-25,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,43.0,38.0,5.0,Donny Featuring Marie Osmond
-39,1976-12-25,Keep Me Cryin',Al Green,39.0,39.0,10.0,Al Green
-40,1976-12-25,"Do What You Want, Be What You Are",Daryl Hall John Oates,41.0,40.0,9.0,Daryl Hall John Oates
-41,1976-12-25,Drivin' Wheel,Foghat,47.0,41.0,5.0,Foghat
-42,1976-12-25,Beth/Detroit Rock City,KISS,23.0,7.0,17.0,KISS
-43,1976-12-25,What Can I Say,Boz Scaggs,46.0,43.0,6.0,Boz Scaggs
-44,1976-12-25,Free Bird,Lynyrd Skynyrd,54.0,19.0,16.0,Lynyrd Skynyrd
-45,1976-12-25,Flight '76,The Walter Murphy Band,45.0,45.0,7.0,The Walter Murphy Band
-46,1976-12-25,Hello Old Friend,Eric Clapton,24.0,24.0,11.0,Eric Clapton
-47,1976-12-25,Someone To Lay Down Beside Me,Linda Ronstadt,56.0,47.0,4.0,Linda Ronstadt
-48,1976-12-25,I Like To Do It,KC And The Sunshine Band,57.0,48.0,4.0,KC And The Sunshine Band
-49,1976-12-25,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,27.0,1.0,20.0,Rick Dees Featuring His Cast Of Idiots
-50,1976-12-25,It Keeps You Runnin',The Doobie Brothers,51.0,50.0,7.0,The Doobie Brothers
-51,1976-12-25,Do It To My Mind,Johnny Bristol,52.0,51.0,5.0,Johnny Bristol
-52,1976-12-25,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,61.0,52.0,3.0,Barbra Streisand
-53,1976-12-25,Fly Like An Eagle,Steve Miller,73.0,53.0,2.0,Steve Miller
-54,1976-12-25,Living Next Door To Alice,Smokie,63.0,54.0,4.0,Smokie
-55,1976-12-25,"9,999,999 Tears",Dickey Lee,64.0,55.0,6.0,Dickey Lee
-56,1976-12-25,If Not You,Dr. Hook,59.0,56.0,5.0,Dr. Hook
-57,1976-12-25,Yesterday's Hero,Bay City Rollers,67.0,57.0,3.0,Bay City Rollers
-58,1976-12-25,Just To Be Close To You,Commodores,32.0,7.0,15.0,Commodores
-59,1976-12-25,Don't Take Away The Music,Tavares,34.0,34.0,9.0,Tavares
-60,1976-12-25,Night Moves,Bob Seger,71.0,60.0,3.0,Bob Seger
-61,1976-12-25,You've Got Me Runnin',Gene Cotton,70.0,61.0,4.0,Gene Cotton
-62,1976-12-25,Baby Boy,Mary Kay Place As Loretta Haggers,60.0,60.0,9.0,Mary Kay Place As Loretta Haggers
-63,1976-12-25,Hard Luck Woman,KISS,74.0,63.0,2.0,KISS
-64,1976-12-25,Slow Dancing,Funky Kings,68.0,64.0,8.0,Funky Kings
-65,1976-12-25,St. Charles,Jefferson Starship,66.0,65.0,4.0,Jefferson Starship
-66,1976-12-25,"Man Smart, Woman Smarter",Robert Palmer,75.0,66.0,4.0,Robert Palmer
-67,1976-12-25,Dancing Queen,ABBA,76.0,67.0,3.0,ABBA
-68,1976-12-25,Save It For A Rainy Day,Stephen Bishop,77.0,68.0,3.0,Stephen Bishop
-69,1976-12-25,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,25.0,2.0,18.0,Gordon Lightfoot
-70,1976-12-25,Do You Feel Like We Do,Peter Frampton,53.0,10.0,15.0,Peter Frampton
-71,1976-12-25,Spring Affair/Winter Melody,Donna Summer,80.0,71.0,2.0,Donna Summer
-72,1976-12-25,"Ob-la-di, Ob-la-da",The Beatles,49.0,49.0,6.0,The Beatles
-73,1976-12-25,Dreamboat Annie,Heart,82.0,73.0,2.0,Heart
-74,1976-12-25,Lucky Man,Starbuck,83.0,74.0,2.0,Starbuck
-75,1976-12-25,Free,Deniece Williams,78.0,75.0,3.0,Deniece Williams
-76,1976-12-25,Don't Leave Me This Way,Thelma Houston,85.0,76.0,2.0,Thelma Houston
-77,1976-12-25,Happier,Paul Anka,86.0,77.0,2.0,Paul Anka
-78,1976-12-25,Open Sesame - Part 1,Kool & The Gang,79.0,78.0,8.0,Kool Featuring The Gang
-79,1976-12-25,Every Face Tells A Story,Olivia Newton-John,55.0,55.0,8.0,Olivia Newton-John
-80,1976-12-25,"Baby, You Look Good To Me Tonight",John Denver,,,,John Denver
-81,1976-12-25,I Can't Ask For Anymore Than You,Cliff Richard,84.0,81.0,2.0,Cliff Richard
-82,1976-12-25,If You Leave Me Now,Chicago,82.0,1.0,20.0,Chicago
-83,1976-12-25,Moody Blue/she Thinks I Still Care,Elvis Presley,,,,Elvis Presley
-84,1976-12-25,Caledonia,Robin Trower,89.0,84.0,4.0,Robin Trower
-85,1976-12-25,Year Of The Cat,Al Stewart,88.0,85.0,3.0,Al Stewart
-86,1976-12-25,You're My Driving Wheel,The Supremes,87.0,86.0,4.0,The Supremes
-87,1976-12-25,Heart On My Sleeve,Bryan Ferry,90.0,87.0,3.0,Bryan Ferry
-88,1976-12-25,Carry On Wayward Son,Kansas,,,,Kansas
-89,1976-12-25,When Love Is New,Arthur Prysock,,,,Arthur Prysock
-90,1976-12-25,C.b. Savage,Rod Hart,,,,Rod Hart
-91,1976-12-25,Ha Cha Cha (funktion),Brass Construction,,,,Brass Construction
-92,1976-12-25,White Bird,David Laflamme,94.0,92.0,3.0,David Laflamme
-93,1976-12-25,It's A Long Way There,Little River Band,69.0,28.0,15.0,Little River Band
-94,1976-12-25,Prisoner (Captured By Your Eyes),L.A. Jets,,,,L.A. Jets
-95,1976-12-25,Love Bug,Bumble Bee Unlimited,96.0,95.0,3.0,Bumble Bee Unlimited
-96,1976-12-25,Feelings,Walter Jackson,,,,Walter Jackson
-97,1976-12-25,Hey Baby,J.J. Cale,,,,J.J. Cale
-98,1976-12-25,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,,,,Elvin Bishop Featuring Mickey Thomas
-99,1976-12-25,(She's Just A) Fallen Angel,Starz,,,,Starz
-100,1976-12-25,"Baby, I'll Give It To You",Seals & Crofts,58.0,58.0,6.0,Seals & Crofts
-101,1976-12-25,The Best Disco In Town,The Ritchie Family,45.0,17.0,18.0,The Ritchie Family
+19,1976-12-25,Somebody To Love,Queen,22.0,19.0,5.0,Queen
+20,1976-12-25,New Kid In Town,Eagles,48.0,20.0,2.0,Eagles
+21,1976-12-25,Enjoy Yourself,The Jacksons,31.0,21.0,7.0,The Jacksons
+22,1976-12-25,Lost Without Your Love,Bread,26.0,22.0,5.0,Bread
+23,1976-12-25,You Are The Woman,Firefall,9.0,9.0,19.0,Firefall
+24,1976-12-25,Jeans On,David Dundas,28.0,24.0,12.0,David Dundas
+25,1976-12-25,Shake Your Rump To The Funk,The Bar-Kays,29.0,25.0,11.0,The Bar-Kays
+26,1976-12-25,Saturday Nite,"Earth, Wind & Fire",30.0,26.0,6.0,"Earth, Wind & Fire"
+27,1976-12-25,This Song,George Harrison,33.0,27.0,6.0,George Harrison
+28,1976-12-25,Walk This Way,Aerosmith,38.0,28.0,6.0,Aerosmith
+29,1976-12-25,Torn Between Two Lovers,Mary Macgregor,42.0,29.0,6.0,Mary Macgregor
+30,1976-12-25,I Like Dreamin',Kenny Nolan,35.0,30.0,8.0,Kenny Nolan
+31,1976-12-25,Love So Right,Bee Gees,21.0,3.0,15.0,Bee Gees
+32,1976-12-25,Blinded By The Light,Manfred Mann's Earth Band,40.0,32.0,6.0,Manfred Mann's Earth Band
+33,1976-12-25,Whispering/Cherchez La Femme/Se Si Bon,Dr. Buzzard's Original Savannah Band,36.0,33.0,8.0,Dr. Buzzard's Original Savannah Band
+34,1976-12-25,Love Ballad,L.T.D.,20.0,20.0,13.0,L.T.D.
+35,1976-12-25,Weekend In New England,Barry Manilow,50.0,35.0,5.0,Barry Manilow
+36,1976-12-25,Mademoiselle,Styx,37.0,36.0,7.0,Styx
+37,1976-12-25,Ain't Nothing Like The Real Thing,Donny & Marie Osmond,43.0,37.0,5.0,Donny Featuring Marie Osmond
+38,1976-12-25,Keep Me Cryin',Al Green,39.0,38.0,10.0,Al Green
+39,1976-12-25,"Do What You Want, Be What You Are",Daryl Hall John Oates,41.0,39.0,9.0,Daryl Hall John Oates
+40,1976-12-25,Drivin' Wheel,Foghat,47.0,40.0,5.0,Foghat
+41,1976-12-25,Beth/Detroit Rock City,KISS,23.0,7.0,17.0,KISS
+42,1976-12-25,What Can I Say,Boz Scaggs,46.0,42.0,6.0,Boz Scaggs
+43,1976-12-25,Free Bird,Lynyrd Skynyrd,54.0,19.0,16.0,Lynyrd Skynyrd
+44,1976-12-25,Flight '76,The Walter Murphy Band,44.0,44.0,7.0,The Walter Murphy Band
+45,1976-12-25,Hello Old Friend,Eric Clapton,24.0,24.0,11.0,Eric Clapton
+46,1976-12-25,Someone To Lay Down Beside Me,Linda Ronstadt,56.0,46.0,4.0,Linda Ronstadt
+47,1976-12-25,I Like To Do It,KC And The Sunshine Band,57.0,47.0,4.0,KC And The Sunshine Band
+48,1976-12-25,Disco Duck (Part I),Rick Dees & His Cast Of Idiots,27.0,1.0,20.0,Rick Dees Featuring His Cast Of Idiots
+49,1976-12-25,It Keeps You Runnin',The Doobie Brothers,51.0,49.0,7.0,The Doobie Brothers
+50,1976-12-25,Do It To My Mind,Johnny Bristol,52.0,50.0,5.0,Johnny Bristol
+51,1976-12-25,"Evergreen (Love Theme From ""A Star Is Born"")",Barbra Streisand,61.0,51.0,3.0,Barbra Streisand
+52,1976-12-25,Fly Like An Eagle,Steve Miller,73.0,52.0,2.0,Steve Miller
+53,1976-12-25,Living Next Door To Alice,Smokie,63.0,53.0,4.0,Smokie
+54,1976-12-25,"9,999,999 Tears",Dickey Lee,64.0,54.0,6.0,Dickey Lee
+55,1976-12-25,If Not You,Dr. Hook,59.0,55.0,5.0,Dr. Hook
+56,1976-12-25,Yesterday's Hero,Bay City Rollers,67.0,56.0,3.0,Bay City Rollers
+57,1976-12-25,Just To Be Close To You,Commodores,32.0,7.0,15.0,Commodores
+58,1976-12-25,Don't Take Away The Music,Tavares,34.0,34.0,9.0,Tavares
+59,1976-12-25,Night Moves,Bob Seger,71.0,59.0,3.0,Bob Seger
+60,1976-12-25,You've Got Me Runnin',Gene Cotton,70.0,60.0,4.0,Gene Cotton
+61,1976-12-25,Baby Boy,Mary Kay Place As Loretta Haggers,60.0,60.0,9.0,Mary Kay Place As Loretta Haggers
+62,1976-12-25,Hard Luck Woman,KISS,74.0,62.0,2.0,KISS
+63,1976-12-25,Slow Dancing,Funky Kings,68.0,63.0,8.0,Funky Kings
+64,1976-12-25,St. Charles,Jefferson Starship,66.0,64.0,4.0,Jefferson Starship
+65,1976-12-25,"Man Smart, Woman Smarter",Robert Palmer,75.0,65.0,4.0,Robert Palmer
+66,1976-12-25,Dancing Queen,ABBA,76.0,66.0,3.0,ABBA
+67,1976-12-25,Save It For A Rainy Day,Stephen Bishop,77.0,67.0,3.0,Stephen Bishop
+68,1976-12-25,The Wreck Of The Edmund Fitzgerald,Gordon Lightfoot,25.0,2.0,18.0,Gordon Lightfoot
+69,1976-12-25,Do You Feel Like We Do,Peter Frampton,53.0,10.0,15.0,Peter Frampton
+70,1976-12-25,Spring Affair/Winter Melody,Donna Summer,80.0,70.0,2.0,Donna Summer
+71,1976-12-25,"Ob-la-di, Ob-la-da",The Beatles,49.0,49.0,6.0,The Beatles
+72,1976-12-25,Dreamboat Annie,Heart,82.0,72.0,2.0,Heart
+73,1976-12-25,Lucky Man,Starbuck,83.0,73.0,2.0,Starbuck
+74,1976-12-25,Free,Deniece Williams,78.0,74.0,3.0,Deniece Williams
+75,1976-12-25,Don't Leave Me This Way,Thelma Houston,85.0,75.0,2.0,Thelma Houston
+76,1976-12-25,Happier,Paul Anka,86.0,76.0,2.0,Paul Anka
+77,1976-12-25,Open Sesame - Part 1,Kool & The Gang,79.0,77.0,8.0,Kool Featuring The Gang
+78,1976-12-25,Every Face Tells A Story,Olivia Newton-John,55.0,55.0,8.0,Olivia Newton-John
+79,1976-12-25,"Baby, You Look Good To Me Tonight",John Denver,,,,John Denver
+80,1976-12-25,I Can't Ask For Anymore Than You,Cliff Richard,84.0,80.0,2.0,Cliff Richard
+81,1976-12-25,If You Leave Me Now,Chicago,81.0,1.0,20.0,Chicago
+82,1976-12-25,Moody Blue/she Thinks I Still Care,Elvis Presley,,,,Elvis Presley
+83,1976-12-25,Caledonia,Robin Trower,89.0,83.0,4.0,Robin Trower
+84,1976-12-25,Year Of The Cat,Al Stewart,88.0,84.0,3.0,Al Stewart
+85,1976-12-25,You're My Driving Wheel,The Supremes,87.0,85.0,4.0,The Supremes
+86,1976-12-25,Heart On My Sleeve,Bryan Ferry,90.0,86.0,3.0,Bryan Ferry
+87,1976-12-25,Carry On Wayward Son,Kansas,,,,Kansas
+88,1976-12-25,When Love Is New,Arthur Prysock,,,,Arthur Prysock
+89,1976-12-25,C.b. Savage,Rod Hart,,,,Rod Hart
+90,1976-12-25,Ha Cha Cha (funktion),Brass Construction,,,,Brass Construction
+91,1976-12-25,White Bird,David Laflamme,94.0,91.0,3.0,David Laflamme
+92,1976-12-25,It's A Long Way There,Little River Band,69.0,28.0,15.0,Little River Band
+93,1976-12-25,Prisoner (Captured By Your Eyes),L.A. Jets,,,,L.A. Jets
+94,1976-12-25,Love Bug,Bumble Bee Unlimited,96.0,94.0,3.0,Bumble Bee Unlimited
+95,1976-12-25,Feelings,Walter Jackson,,,,Walter Jackson
+96,1976-12-25,Hey Baby,J.J. Cale,,,,J.J. Cale
+97,1976-12-25,Spend Some Time,Elvin Bishop Featuring Mickey Thomas,,,,Elvin Bishop Featuring Mickey Thomas
+98,1976-12-25,(She's Just A) Fallen Angel,Starz,,,,Starz
+99,1976-12-25,"Baby, I'll Give It To You",Seals & Crofts,58.0,58.0,6.0,Seals & Crofts
+100,1976-12-25,The Best Disco In Town,The Ritchie Family,45.0,17.0,18.0,The Ritchie Family
